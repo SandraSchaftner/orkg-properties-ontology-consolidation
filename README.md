@@ -1,0 +1,1 @@
+# orkg-properties-ontology-consolidated
