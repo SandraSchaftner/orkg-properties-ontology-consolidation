@@ -1,0 +1,11 @@
+{
+    "step_1": {
+        "total": 12985,
+        "removed": 1466
+    },
+    "step_2": {
+        "checked": 11519,
+        "rejected_regex": 299,
+        "rejected_llm": 4447
+    }
+}

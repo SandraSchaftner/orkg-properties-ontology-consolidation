@@ -1,0 +1,1896 @@
+{
+    "parameters": {
+        "threshold": 0.1,
+        "model": "Qwen/Qwen3-Embedding-8B"
+    },
+    "statistics": {
+        "original_avg": 47.43873517786561,
+        "consolidated_avg": 7.980237154150197,
+        "wilcoxon_statistic": 78.0,
+        "p_value": 9.579555931840243e-41,
+    },
+    "path_validation": {
+        "total_queries": 253,
+        "successful_mappings": 253,
+        "coverage_percentage": 100.0,
+        "details": [
+            {
+                "query": "Addresses Smart city Action",
+                "original_match_label": "Addresses Smart city Action",
+                "original_match_uri": "https://orkg.org/property/P41029",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41027"
+            },
+            {
+                "query": "Advantages",
+                "original_match_label": "Advantages",
+                "original_match_uri": "https://orkg.org/property/P15023",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P15359"
+            },
+            {
+                "query": "Algorithm",
+                "original_match_label": "Algorithm",
+                "original_match_uri": "https://orkg.org/property/P2001",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P2001"
+            },
+            {
+                "query": "Algorithm name",
+                "original_match_label": "Algorithm name",
+                "original_match_uri": "https://orkg.org/property/P15022",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P2001"
+            },
+            {
+                "query": "Analysis",
+                "original_match_label": "Analysis",
+                "original_match_uri": "https://orkg.org/property/P37450",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P37450"
+            },
+            {
+                "query": "Analyte",
+                "original_match_label": "Analyte",
+                "original_match_uri": "https://orkg.org/property/P15092",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "Animal model",
+                "original_match_label": "Animal model",
+                "original_match_uri": "https://orkg.org/property/P36051",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P36051"
+            },
+            {
+                "query": "Annotation level",
+                "original_match_label": "Annotation level",
+                "original_match_uri": "https://orkg.org/property/P65000",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P65000"
+            },
+            {
+                "query": "Annotation type",
+                "original_match_label": "Annotation type",
+                "original_match_uri": "https://orkg.org/property/P45051",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P45051"
+            },
+            {
+                "query": "Architecture",
+                "original_match_label": "Architecture",
+                "original_match_uri": "https://orkg.org/property/P7015",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P7015"
+            },
+            {
+                "query": "Area of study",
+                "original_match_label": "Area of study",
+                "original_match_uri": "https://orkg.org/property/P37364",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P56026"
+            },
+            {
+                "query": "Basic reproduction number",
+                "original_match_label": "Basic reproduction number",
+                "original_match_uri": "https://orkg.org/property/P23140",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P23140"
+            },
+            {
+                "query": "Biodegredable or inorganic polymer",
+                "original_match_label": "Biodegredable or inorganic polymer",
+                "original_match_uri": "https://orkg.org/property/P37399",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "Biogeographical region",
+                "original_match_label": "Biogeographical region",
+                "original_match_uri": "https://orkg.org/property/P37256",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P177007"
+            },
+            {
+                "query": "CO2 footprint process",
+                "original_match_label": "CO2 footprint process",
+                "original_match_uri": "https://orkg.org/property/P71099",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41204"
+            },
+            {
+                "query": "Cargo",
+                "original_match_label": "Cargo",
+                "original_match_uri": "https://orkg.org/property/P41736",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "Class (Taxonomy - biology)",
+                "original_match_label": "Class (Taxonomy - biology)",
+                "original_match_uri": "https://orkg.org/property/P39093",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "Coarse-grained Entity types",
+                "original_match_label": "Coarse-grained Entity types",
+                "original_match_uri": "https://orkg.org/property/P44162",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "Components ",
+                "original_match_label": "Components ",
+                "original_match_uri": "https://orkg.org/property/P41882",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41560"
+            },
+            {
+                "query": "Composition",
+                "original_match_label": "Composition",
+                "original_match_uri": "https://orkg.org/property/P15148",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P15148"
+            },
+            {
+                "query": "Concept types",
+                "original_match_label": "Concept types",
+                "original_match_uri": "https://orkg.org/property/P34062",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P25067"
+            },
+            {
+                "query": "Context",
+                "original_match_label": "Context",
+                "original_match_uri": "https://orkg.org/property/P15340",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P15340"
+            },
+            {
+                "query": "Control",
+                "original_match_label": "Control",
+                "original_match_uri": "https://orkg.org/property/P68100",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P68100"
+            },
+            {
+                "query": "Control Result Nutrients",
+                "original_match_label": "Control Result Nutrients",
+                "original_match_uri": "https://orkg.org/property/P68104",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "Country of study",
+                "original_match_label": "Country of study",
+                "original_match_uri": "https://orkg.org/property/P15512",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P37041"
+            },
+            {
+                "query": "Cropping System",
+                "original_match_label": "Cropping System",
+                "original_match_uri": "https://orkg.org/property/P68103",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P68103"
+            },
+            {
+                "query": "Cytotoxicity assay",
+                "original_match_label": "Cytotoxicity assay",
+                "original_match_uri": "https://orkg.org/property/P37395",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P37395"
+            },
+            {
+                "query": "DNA sequencing method",
+                "original_match_label": "DNA sequencing method",
+                "original_match_uri": "https://orkg.org/property/P37259",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P37259"
+            },
+            {
+                "query": "Data",
+                "original_match_label": "Data",
+                "original_match_uri": "https://orkg.org/property/P4017",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P4017"
+            },
+            {
+                "query": "Data Dimension",
+                "original_match_label": "Data Dimension",
+                "original_match_uri": "https://orkg.org/property/P63033",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P63033"
+            },
+            {
+                "query": "Data Domain",
+                "original_match_label": "Data Domain",
+                "original_match_uri": "https://orkg.org/property/P37521",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P5030"
+            },
+            {
+                "query": "Data coverage",
+                "original_match_label": "Data coverage",
+                "original_match_uri": "https://orkg.org/property/P41872",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P4017"
+            },
+            {
+                "query": "Data domains",
+                "original_match_label": "Data domains",
+                "original_match_uri": "https://orkg.org/property/P41878",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P5030"
+            },
+            {
+                "query": "Data used",
+                "original_match_label": "Data used",
+                "original_match_uri": "https://orkg.org/property/P25059",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P4017"
+            },
+            {
+                "query": "Database",
+                "original_match_label": "Database",
+                "original_match_uri": "https://orkg.org/property/P15413",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P15413"
+            },
+            {
+                "query": "Dataset name",
+                "original_match_label": "Dataset name",
+                "original_match_uri": "https://orkg.org/property/P34063",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P2005"
+            },
+            {
+                "query": "Date",
+                "original_match_label": "Date",
+                "original_match_uri": "https://orkg.org/property/P15207",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P15207"
+            },
+            {
+                "query": "Delivery Route",
+                "original_match_label": "Delivery Route",
+                "original_match_uri": "https://orkg.org/property/P41610",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P15143"
+            },
+            {
+                "query": "Delivery Vehicle",
+                "original_match_label": "Delivery Vehicle",
+                "original_match_uri": "https://orkg.org/property/P41609",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "Disruption",
+                "original_match_label": "Disruption",
+                "original_match_uri": "https://orkg.org/property/P68042",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/DISRUPTS"
+            },
+            {
+                "query": "Domain",
+                "original_match_label": "Domain",
+                "original_match_uri": "https://orkg.org/property/P5030",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P5030"
+            },
+            {
+                "query": "Entity type",
+                "original_match_label": "Entity type",
+                "original_match_uri": "https://orkg.org/property/P34590",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "Entity types",
+                "original_match_label": "Entity types",
+                "original_match_uri": "https://orkg.org/property/P44148",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "Experimental Design",
+                "original_match_label": "Experimental Design",
+                "original_match_uri": "https://orkg.org/property/P69014",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P1007"
+            },
+            {
+                "query": "Experimental Setup",
+                "original_match_label": "Experimental Setup",
+                "original_match_uri": "https://orkg.org/property/P69015",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P1007"
+            },
+            {
+                "query": "Exploited data",
+                "original_match_label": "Exploited data",
+                "original_match_uri": "https://orkg.org/property/P41039",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "Field instrument",
+                "original_match_label": "Field instrument",
+                "original_match_uri": "https://orkg.org/property/P41404",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P149066"
+            },
+            {
+                "query": "Formalization",
+                "original_match_label": "Formalization",
+                "original_match_uri": "https://orkg.org/property/P2008",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P106025"
+            },
+            {
+                "query": "Generation method",
+                "original_match_label": "Generation method",
+                "original_match_uri": "https://orkg.org/property/P65001",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P65001"
+            },
+            {
+                "query": "Hardware",
+                "original_match_label": "Hardware",
+                "original_match_uri": "https://orkg.org/property/P37658",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P151080"
+            },
+            {
+                "query": "Has Dataset size",
+                "original_match_label": "Has Dataset size",
+                "original_match_uri": "https://orkg.org/property/P37659",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P38003"
+            },
+            {
+                "query": "Has Datasets",
+                "original_match_label": "Has Datasets",
+                "original_match_uri": "https://orkg.org/property/P41003",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P2005"
+            },
+            {
+                "query": "Has a unit",
+                "original_match_label": "Has a unit",
+                "original_match_uri": "https://orkg.org/property/P41558",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P110124"
+            },
+            {
+                "query": "Has endpoint",
+                "original_match_label": "Has endpoint",
+                "original_match_uri": "https://orkg.org/property/P34148",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P18068"
+            },
+            {
+                "query": "Has evaluation task",
+                "original_match_label": "Has evaluation task",
+                "original_match_uri": "https://orkg.org/property/P41318",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P123002"
+            },
+            {
+                "query": "Has finding",
+                "original_match_label": "Has finding",
+                "original_match_uri": "https://orkg.org/property/P7071",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P23077"
+            },
+            {
+                "query": "Has number of user interactions",
+                "original_match_label": "Has number of user interactions",
+                "original_match_uri": "https://orkg.org/property/P41246",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41246"
+            },
+            {
+                "query": "Has user interaction modality",
+                "original_match_label": "Has user interaction modality",
+                "original_match_uri": "https://orkg.org/property/P41245",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P174111"
+            },
+            {
+                "query": "Has-statistics",
+                "original_match_label": "Has-statistics",
+                "original_match_uri": "https://orkg.org/property/P71116",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P105039"
+            },
+            {
+                "query": "Implemented technologies",
+                "original_match_label": "Implemented technologies",
+                "original_match_uri": "https://orkg.org/property/P41914",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41914"
+            },
+            {
+                "query": "Institution",
+                "original_match_label": "Institution",
+                "original_match_uri": "https://orkg.org/property/P4022",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P174388"
+            },
+            {
+                "query": "Instrument",
+                "original_match_label": "Instrument",
+                "original_match_uri": "https://orkg.org/property/P41043",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41043"
+            },
+            {
+                "query": "Instruments",
+                "original_match_label": "Instruments",
+                "original_match_uri": "https://orkg.org/property/P41676",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41043"
+            },
+            {
+                "query": "Is based on Explicit User Preferences",
+                "original_match_label": "Is based on Explicit User Preferences",
+                "original_match_uri": "https://orkg.org/property/P41037",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "Is based on Implicit User Preferences",
+                "original_match_label": "Is based on Implicit User Preferences",
+                "original_match_uri": "https://orkg.org/property/P41038",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "Issue(s) Addressed\t",
+                "original_match_label": "Issue(s) Addressed\t",
+                "original_match_uri": "https://orkg.org/property/P41883",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P174488"
+            },
+            {
+                "query": "Journal",
+                "original_match_label": "Journal",
+                "original_match_uri": "https://orkg.org/property/P37135",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P129060"
+            },
+            {
+                "query": "Knowledge Base",
+                "original_match_label": "Knowledge Base",
+                "original_match_uri": "https://orkg.org/property/P44140",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41002"
+            },
+            {
+                "query": "Language of smart objects' description",
+                "original_match_label": "Language of smart objects' description",
+                "original_match_uri": "https://orkg.org/property/P41243",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "Legume Treatment",
+                "original_match_label": "Legume Treatment",
+                "original_match_uri": "https://orkg.org/property/P68110",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "Linked Ontology",
+                "original_match_label": "Linked Ontology",
+                "original_match_uri": "https://orkg.org/property/P41818",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P7034"
+            },
+            {
+                "query": "Location",
+                "original_match_label": "Location",
+                "original_match_uri": "https://orkg.org/property/P48005",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/wikidata:P276"
+            },
+            {
+                "query": "Locus (genetics)",
+                "original_match_label": "Locus (genetics)",
+                "original_match_uri": "https://orkg.org/property/P37258",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "Material",
+                "original_match_label": "Material",
+                "original_match_uri": "https://orkg.org/property/P43054",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/MATERIAL"
+            },
+            {
+                "query": "Mathematical model",
+                "original_match_label": "Mathematical model",
+                "original_match_uri": "https://orkg.org/property/P41907",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41907"
+            },
+            {
+                "query": "Metadata schema",
+                "original_match_label": "Metadata schema",
+                "original_match_uri": "https://orkg.org/property/P34596",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P34596"
+            },
+            {
+                "query": "Method",
+                "original_match_label": "Method",
+                "original_match_uri": "https://orkg.org/property/P36021",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/METHOD"
+            },
+            {
+                "query": "Method of nanomaterial synthesis",
+                "original_match_label": "Method of nanomaterial synthesis",
+                "original_match_uri": "https://orkg.org/property/P39039",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "Methodology",
+                "original_match_label": "Methodology",
+                "original_match_uri": "https://orkg.org/property/P15239",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P147021"
+            },
+            {
+                "query": "Minerals in consideration",
+                "original_match_label": "Minerals in consideration",
+                "original_match_uri": "https://orkg.org/property/P41675",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "Model Family",
+                "original_match_label": "model family",
+                "original_match_uri": "https://orkg.org/property/P7121",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P1004"
+            },
+            {
+                "query": "Models",
+                "original_match_label": "Models",
+                "original_match_uri": "https://orkg.org/property/P43024",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P127012"
+            },
+            {
+                "query": "Museum involved",
+                "original_match_label": "Museum involved",
+                "original_match_uri": "https://orkg.org/property/P41242",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41242"
+            },
+            {
+                "query": "Nanomaterial",
+                "original_match_label": "Nanomaterial",
+                "original_match_uri": "https://orkg.org/property/P41552",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41552"
+            },
+            {
+                "query": "Nanoparticle visualisation",
+                "original_match_label": "Nanoparticle visualisation",
+                "original_match_uri": "https://orkg.org/property/P37407",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "Nanoparticles preparation method",
+                "original_match_label": "Nanoparticles preparation method",
+                "original_match_uri": "https://orkg.org/property/P40059",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P40059"
+            },
+            {
+                "query": "No. of estimated species (Method)",
+                "original_match_label": "No. of estimated species (Method)",
+                "original_match_uri": "https://orkg.org/property/P37274",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "Norovirus",
+                "original_match_label": "Norovirus",
+                "original_match_uri": "https://orkg.org/property/P59223",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "Number of test data mentions",
+                "original_match_label": "Number of test data mentions",
+                "original_match_uri": "https://orkg.org/property/P45037",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P44149"
+            },
+            {
+                "query": "Number of training data mentions",
+                "original_match_label": "Number of training data mentions",
+                "original_match_uri": "https://orkg.org/property/P45035",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P44149"
+            },
+            {
+                "query": "Objectif function",
+                "original_match_label": "Objectif function",
+                "original_match_uri": "https://orkg.org/property/P68047",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P68047"
+            },
+            {
+                "query": "On evaluation dataset",
+                "original_match_label": "On evaluation dataset",
+                "original_match_uri": "https://orkg.org/property/P18036",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "Ontology Evaluation",
+                "original_match_label": "Ontology Evaluation",
+                "original_match_uri": "https://orkg.org/property/P130027",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "Ontology domains",
+                "original_match_label": "Ontology domains",
+                "original_match_uri": "https://orkg.org/property/P41828",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P7034"
+            },
+            {
+                "query": "Ontology name",
+                "original_match_label": "Ontology name",
+                "original_match_uri": "https://orkg.org/property/P41128",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41128"
+            },
+            {
+                "query": "Ontology used",
+                "original_match_label": "Ontology used",
+                "original_match_uri": "https://orkg.org/property/P45002",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P7034"
+            },
+            {
+                "query": "Optimizer",
+                "original_match_label": "optimizer",
+                "original_match_uri": "https://orkg.org/property/P105017",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P37385"
+            },
+            {
+                "query": "Order (Taxonomy - biology)",
+                "original_match_label": "Order (Taxonomy - biology)",
+                "original_match_uri": "https://orkg.org/property/P39091",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "Organisations",
+                "original_match_label": "Organisations",
+                "original_match_uri": "https://orkg.org/property/P39115",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P18097"
+            },
+            {
+                "query": "Outcome",
+                "original_match_label": "Outcome",
+                "original_match_uri": "https://orkg.org/property/P41534",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41534"
+            },
+            {
+                "query": "Outcome assessment",
+                "original_match_label": "Outcome assessment",
+                "original_match_uri": "https://orkg.org/property/P41148",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41661"
+            },
+            {
+                "query": "Paper type",
+                "original_match_label": "Paper type",
+                "original_match_uri": "https://orkg.org/property/P41847",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P154073"
+            },
+            {
+                "query": "Phylum (Biology)",
+                "original_match_label": "Phylum (Biology)",
+                "original_match_uri": "https://orkg.org/property/P37266",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "Planting design",
+                "original_match_label": "Planting design",
+                "original_match_uri": "https://orkg.org/property/P69016",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P69016"
+            },
+            {
+                "query": "Polymer",
+                "original_match_label": "Polymer",
+                "original_match_uri": "https://orkg.org/property/P15182",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P15182"
+            },
+            {
+                "query": "Preprocessing",
+                "original_match_label": "Preprocessing",
+                "original_match_uri": "https://orkg.org/property/P41006",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41006"
+            },
+            {
+                "query": "Pretraining Architecture",
+                "original_match_label": "Pretrained model",
+                "original_match_uri": "https://orkg.org/property/P9009",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P23041"
+            },
+            {
+                "query": "Pretraining Task",
+                "original_match_label": "Pre-training task(s)",
+                "original_match_uri": "https://orkg.org/property/P59233",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P103001"
+            },
+            {
+                "query": "Process",
+                "original_match_label": "Process",
+                "original_match_uri": "https://orkg.org/property/P7109",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P4018"
+            },
+            {
+                "query": "Processing",
+                "original_match_label": "Processing",
+                "original_match_uri": "https://orkg.org/property/P41207",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41207"
+            },
+            {
+                "query": "Question Answering category",
+                "original_match_label": "Question Answering category",
+                "original_match_uri": "https://orkg.org/property/P87001",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "Question Type",
+                "original_match_label": "Question Types",
+                "original_match_uri": "https://orkg.org/property/P41925",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41928"
+            },
+            {
+                "query": "RE activities with crowd involvement",
+                "original_match_label": "RE activities with crowd involvement",
+                "original_match_uri": "https://orkg.org/property/P36056",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "Raman laser used",
+                "original_match_label": "Raman laser used",
+                "original_match_uri": "https://orkg.org/property/P41677",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "References",
+                "original_match_label": "References",
+                "original_match_uri": "https://orkg.org/property/P33004",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/reference"
+            },
+            {
+                "query": "Relation types",
+                "original_match_label": "Relation types",
+                "original_match_uri": "https://orkg.org/property/P41866",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P106027"
+            },
+            {
+                "query": "Resolution methods",
+                "original_match_label": "Resolution methods",
+                "original_match_uri": "https://orkg.org/property/P41203",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P174188"
+            },
+            {
+                "query": "Result: Cell tropism",
+                "original_match_label": "Result: Cell tropism",
+                "original_match_uri": "https://orkg.org/property/P59221",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "Result: Organ tropism",
+                "original_match_label": "Result: Organ tropism",
+                "original_match_uri": "https://orkg.org/property/P59220",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "Results",
+                "original_match_label": "Results",
+                "original_match_uri": "https://orkg.org/property/P37365",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P6001"
+            },
+            {
+                "query": "Reused ontology",
+                "original_match_label": "Reused ontology",
+                "original_match_uri": "https://orkg.org/property/P41130",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P7034"
+            },
+            {
+                "query": "Sensing environment",
+                "original_match_label": "Sensing environment",
+                "original_match_uri": "https://orkg.org/property/P41188",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41188"
+            },
+            {
+                "query": "Sensing material",
+                "original_match_label": "Sensing material",
+                "original_match_uri": "https://orkg.org/property/P41181",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41181"
+            },
+            {
+                "query": "Sensors",
+                "original_match_label": "Sensors",
+                "original_match_uri": "https://orkg.org/property/P41659",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "Software",
+                "original_match_label": "Software",
+                "original_match_uri": "https://orkg.org/property/P37386",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/softwareType"
+            },
+            {
+                "query": "Software entity types",
+                "original_match_label": "Software entity types",
+                "original_match_uri": "https://orkg.org/property/P45071",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P45071"
+            },
+            {
+                "query": "Solution approach",
+                "original_match_label": "Solution approach",
+                "original_match_uri": "https://orkg.org/property/P58107",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P58107"
+            },
+            {
+                "query": "Source",
+                "original_match_label": "Source",
+                "original_match_uri": "https://orkg.org/property/P9024",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P110066"
+            },
+            {
+                "query": "Species ",
+                "original_match_label": "Species ",
+                "original_match_uri": "https://orkg.org/property/P37588",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P129011"
+            },
+            {
+                "query": "Statistical tests",
+                "original_match_label": "Statistical tests",
+                "original_match_uri": "https://orkg.org/property/P35133",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P110092"
+            },
+            {
+                "query": "Study Area",
+                "original_match_label": "Study Area",
+                "original_match_uri": "https://orkg.org/property/P37041",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P37041"
+            },
+            {
+                "query": "Study cohort",
+                "original_match_label": "Study cohort",
+                "original_match_uri": "https://orkg.org/property/P41147",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P15377"
+            },
+            {
+                "query": "Study type",
+                "original_match_label": "Study type",
+                "original_match_uri": "https://orkg.org/property/P27019",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P23109"
+            },
+            {
+                "query": "Supplements",
+                "original_match_label": "Supplements",
+                "original_match_uri": "https://orkg.org/property/P41686",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41686"
+            },
+            {
+                "query": "Surfactant",
+                "original_match_label": "Surfactant",
+                "original_match_uri": "https://orkg.org/property/P41000",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41000"
+            },
+            {
+                "query": "Sustainability factor",
+                "original_match_label": "Sustainability factor",
+                "original_match_uri": "https://orkg.org/property/P54017",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P173034"
+            },
+            {
+                "query": "Symptoms and signs",
+                "original_match_label": "Symptoms and signs",
+                "original_match_uri": "https://orkg.org/property/P15283",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "Techniques",
+                "original_match_label": "Techniques",
+                "original_match_uri": "https://orkg.org/property/P15357",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P5019"
+            },
+            {
+                "query": "Techniques/Analysis",
+                "original_match_label": "Techniques/Analysis",
+                "original_match_uri": "https://orkg.org/property/P41662",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P5019"
+            },
+            {
+                "query": "Technologies Deployed",
+                "original_match_label": "Technologies Deployed",
+                "original_match_uri": "https://orkg.org/property/P41884",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41914"
+            },
+            {
+                "query": "Time period",
+                "original_match_label": "Time period",
+                "original_match_uri": "https://orkg.org/property/P15414",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/wikidata:P2348"
+            },
+            {
+                "query": "Time period for data collection",
+                "original_match_label": "Time period for data collection",
+                "original_match_uri": "https://orkg.org/property/P48007",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "Treatment Result Nutrients",
+                "original_match_label": "Treatment Result Nutrients",
+                "original_match_uri": "https://orkg.org/property/P68105",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "Type of Soil Nutrient",
+                "original_match_label": "Type of Soil Nutrient",
+                "original_match_uri": "https://orkg.org/property/P68108",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "Type of knowledge source",
+                "original_match_label": "Type of knowledge source",
+                "original_match_uri": "https://orkg.org/property/P41927",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41002"
+            },
+            {
+                "query": "Type of nanocarrier",
+                "original_match_label": "Type of nanocarrier",
+                "original_match_uri": "https://orkg.org/property/P41740",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P40059"
+            },
+            {
+                "query": "Uncertainty",
+                "original_match_label": "Uncertainty",
+                "original_match_uri": "https://orkg.org/property/P5005",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P5005"
+            },
+            {
+                "query": "Used models",
+                "original_match_label": "Used models",
+                "original_match_uri": "https://orkg.org/property/P36096",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P36096"
+            },
+            {
+                "query": "Uses drug",
+                "original_match_label": "Uses drug",
+                "original_match_uri": "https://orkg.org/property/P37578",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P147034"
+            },
+            {
+                "query": "Utilities in CrowdRE",
+                "original_match_label": "Utilities in CrowdRE",
+                "original_match_uri": "https://orkg.org/property/P36057",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P36057"
+            },
+            {
+                "query": "Vaccine Name",
+                "original_match_label": "vaccine name",
+                "original_match_uri": "https://orkg.org/property/P41607",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41607"
+            },
+            {
+                "query": "antigen used",
+                "original_match_label": "antigen used",
+                "original_match_uri": "https://orkg.org/property/P60009",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P60009"
+            },
+            {
+                "query": "approach",
+                "original_match_label": "approach",
+                "original_match_uri": "https://orkg.org/property/P33",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/HAS_APPROACH"
+            },
+            {
+                "query": "belongs to Smart City Dimension",
+                "original_match_label": "belongs to Smart City Dimension",
+                "original_match_uri": "https://orkg.org/property/P41026",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "copyright license",
+                "original_match_label": "copyright license",
+                "original_match_uri": "https://orkg.org/property/wikidata:P275",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/wikidata:P275"
+            },
+            {
+                "query": "data source",
+                "original_match_label": "data source",
+                "original_match_uri": "https://orkg.org/property/P112020",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P17001"
+            },
+            {
+                "query": "dataset",
+                "original_match_label": "dataset",
+                "original_match_uri": "https://orkg.org/property/P2005",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P18087"
+            },
+            {
+                "query": "deals with",
+                "original_match_label": "deals with",
+                "original_match_uri": "https://orkg.org/property/P5001",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P174686"
+            },
+            {
+                "query": "description",
+                "original_match_label": "description",
+                "original_match_uri": "https://orkg.org/property/SCHEMAORG:description",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P14"
+            },
+            {
+                "query": "discusses method",
+                "original_match_label": "discusses method",
+                "original_match_uri": "https://orkg.org/property/P41256",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/METHOD"
+            },
+            {
+                "query": "genre",
+                "original_match_label": "genre",
+                "original_match_uri": "https://orkg.org/property/SCHEMAORG:genre",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/SCHEMAORG:genre"
+            },
+            {
+                "query": "has  drug release studies",
+                "original_match_label": "has  drug release studies",
+                "original_match_uri": "https://orkg.org/property/P37408",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "has  start of period",
+                "original_match_label": "has  start of period",
+                "original_match_uri": "https://orkg.org/property/P26007",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "has Application Scope",
+                "original_match_label": "has Application Scope",
+                "original_match_uri": "https://orkg.org/property/P41030",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P45153"
+            },
+            {
+                "query": "has Data Source",
+                "original_match_label": "has Data Source",
+                "original_match_uri": "https://orkg.org/property/P41031",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P17001"
+            },
+            {
+                "query": "has Implementation level",
+                "original_match_label": "has Implementation level",
+                "original_match_uri": "https://orkg.org/property/P41040",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/HAS_IMPLEMENTATION"
+            },
+            {
+                "query": "has Recommended items",
+                "original_match_label": "has Recommended items",
+                "original_match_uri": "https://orkg.org/property/P41033",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P184089"
+            },
+            {
+                "query": "has Target users",
+                "original_match_label": "has Target users",
+                "original_match_uri": "https://orkg.org/property/P41032",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P34038"
+            },
+            {
+                "query": "has been evaluated in the City",
+                "original_match_label": "has been evaluated in the City",
+                "original_match_uri": "https://orkg.org/property/P41024",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "has been evaluated in the Country",
+                "original_match_label": "has been evaluated in the Country",
+                "original_match_uri": "https://orkg.org/property/P41025",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "has cell line",
+                "original_match_label": "has cell line",
+                "original_match_uri": "https://orkg.org/property/P34563",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P34563"
+            },
+            {
+                "query": "has communication channel",
+                "original_match_label": "has communication channel",
+                "original_match_uri": "https://orkg.org/property/P41264",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41264"
+            },
+            {
+                "query": "has conclusion",
+                "original_match_label": "has conclusion",
+                "original_match_uri": "https://orkg.org/property/P7072",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P15419"
+            },
+            {
+                "query": "has contribution type",
+                "original_match_label": "has contribution type",
+                "original_match_uri": "https://orkg.org/property/P40065",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P31"
+            },
+            {
+                "query": "has countries",
+                "original_match_label": "has countries",
+                "original_match_uri": "https://orkg.org/property/P23006",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P15237"
+            },
+            {
+                "query": "has dubject domain",
+                "original_match_label": "has dubject domain",
+                "original_match_uri": "https://orkg.org/property/P41306",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "has end of period",
+                "original_match_label": "has end of period",
+                "original_match_uri": "https://orkg.org/property/P26008",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P183031"
+            },
+            {
+                "query": "has form",
+                "original_match_label": "has form",
+                "original_match_uri": "https://orkg.org/property/P43098",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P37643"
+            },
+            {
+                "query": "has functionality",
+                "original_match_label": "has functionality",
+                "original_match_uri": "https://orkg.org/property/P43099",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P16008"
+            },
+            {
+                "query": "has material",
+                "original_match_label": "has material",
+                "original_match_uri": "https://orkg.org/property/P7000",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/MATERIAL"
+            },
+            {
+                "query": "has methodology",
+                "original_match_label": "has methodology",
+                "original_match_uri": "https://orkg.org/property/P4056",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P147021"
+            },
+            {
+                "query": "has miscellaneous qualitative",
+                "original_match_label": "has miscellaneous qualitative",
+                "original_match_uri": "https://orkg.org/property/P43105",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "has model",
+                "original_match_label": "has model",
+                "original_match_uri": "https://orkg.org/property/hasModel",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P1004"
+            },
+            {
+                "query": "has number of modules",
+                "original_match_label": "has number of modules",
+                "original_match_uri": "https://orkg.org/property/P130026",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P130026"
+            },
+            {
+                "query": "has objective",
+                "original_match_label": "has objective",
+                "original_match_uri": "https://orkg.org/property/P7077",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P67098"
+            },
+            {
+                "query": "has outcome",
+                "original_match_label": "has outcome",
+                "original_match_uri": "https://orkg.org/property/P7075",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41534"
+            },
+            {
+                "query": "has performance",
+                "original_match_label": "has performance",
+                "original_match_uri": "https://orkg.org/property/P9026",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P9026"
+            },
+            {
+                "query": "has size",
+                "original_match_label": "has size",
+                "original_match_uri": "https://orkg.org/property/P4047",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P43223"
+            },
+            {
+                "query": "has smart city instance",
+                "original_match_label": "has smart city instance",
+                "original_match_uri": "https://orkg.org/property/P41294",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "has sources",
+                "original_match_label": "has sources",
+                "original_match_uri": "https://orkg.org/property/P41257",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P110066"
+            },
+            {
+                "query": "has stakeholder",
+                "original_match_label": "has stakeholder",
+                "original_match_uri": "https://orkg.org/property/P41259",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41259"
+            },
+            {
+                "query": "has subject domain",
+                "original_match_label": "has subject domain",
+                "original_match_uri": "https://orkg.org/property/P41249",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P58056"
+            },
+            {
+                "query": "has system measurements",
+                "original_match_label": "has system measurements",
+                "original_match_uri": "https://orkg.org/property/P71047",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P71047"
+            },
+            {
+                "query": "has system qualities",
+                "original_match_label": "has system qualities",
+                "original_match_uri": "https://orkg.org/property/P43078",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P174365"
+            },
+            {
+                "query": "hazard ratio",
+                "original_match_label": "hazard ratio",
+                "original_match_uri": "https://orkg.org/property/P35004",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P35004"
+            },
+            {
+                "query": "helps achieve Smart city Goal",
+                "original_match_label": "helps achieve Smart city Goal",
+                "original_match_uri": "https://orkg.org/property/P41028",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "higher number estimated species (Method)",
+                "original_match_label": "higher number estimated species (Method)",
+                "original_match_uri": "https://orkg.org/property/P37272",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "immunoglobulin class",
+                "original_match_label": "immunoglobulin class",
+                "original_match_uri": "https://orkg.org/property/P60010",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P60010"
+            },
+            {
+                "query": "implementation",
+                "original_match_label": "implementation",
+                "original_match_uri": "https://orkg.org/property/P15",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/HAS_IMPLEMENTATION"
+            },
+            {
+                "query": "inLanguage",
+                "original_match_label": "inLanguage",
+                "original_match_uri": "https://orkg.org/property/SCHEMAORG:inLanguage",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/Language"
+            },
+            {
+                "query": "inter-annotator agreement",
+                "original_match_label": "inter-annotator agreement",
+                "original_match_uri": "https://orkg.org/property/P44159",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P44159"
+            },
+            {
+                "query": "is about",
+                "original_match_label": "is about",
+                "original_match_uri": "https://orkg.org/property/P4053",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P4053"
+            },
+            {
+                "query": "is based on User Preferences Type",
+                "original_match_label": "is based on User Preferences Type",
+                "original_match_uri": "https://orkg.org/property/P41036",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "keywords",
+                "original_match_label": "keywords",
+                "original_match_uri": "https://orkg.org/property/P3000",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P5024"
+            },
+            {
+                "query": "language",
+                "original_match_label": "language",
+                "original_match_uri": "https://orkg.org/property/P59186",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/Language"
+            },
+            {
+                "query": "license",
+                "original_match_label": "license",
+                "original_match_uri": "https://orkg.org/property/P45086",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/license"
+            },
+            {
+                "query": "location",
+                "original_match_label": "location",
+                "original_match_uri": "https://orkg.org/property/P5049",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/wikidata:P276"
+            },
+            {
+                "query": "location of study",
+                "original_match_label": "location of study",
+                "original_match_uri": "https://orkg.org/property/P37004",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P37041"
+            },
+            {
+                "query": "lower number estimated species (Method)",
+                "original_match_label": "lower number estimated species (Method)",
+                "original_match_uri": "https://orkg.org/property/P37276",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "materal",
+                "original_match_label": "materal",
+                "original_match_uri": "https://orkg.org/property/P41263",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/MATERIAL"
+            },
+            {
+                "query": "material",
+                "original_match_label": "material",
+                "original_match_uri": "https://orkg.org/property/MATERIAL",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/MATERIAL"
+            },
+            {
+                "query": "method",
+                "original_match_label": "method",
+                "original_match_uri": "https://orkg.org/property/METHOD",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/METHOD"
+            },
+            {
+                "query": "metric",
+                "original_match_label": "metric",
+                "original_match_uri": "https://orkg.org/property/P2006",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P2006"
+            },
+            {
+                "query": "model",
+                "original_match_label": "model",
+                "original_match_uri": "https://orkg.org/property/P20072",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P1004"
+            },
+            {
+                "query": "name",
+                "original_match_label": "name",
+                "original_match_uri": "https://orkg.org/property/P49030",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P37605"
+            },
+            {
+                "query": "norovirus genotype",
+                "original_match_label": "norovirus genotype",
+                "original_match_uri": "https://orkg.org/property/P62080",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "noroviruses found",
+                "original_match_label": "noroviruses found",
+                "original_match_uri": "https://orkg.org/property/P62079",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "number of papers",
+                "original_match_label": "number of papers",
+                "original_match_uri": "https://orkg.org/property/P34059",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P34059"
+            },
+            {
+                "query": "ontology component",
+                "original_match_label": "ontology component",
+                "original_match_uri": "https://orkg.org/property/P59103",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41128"
+            },
+            {
+                "query": "operates on",
+                "original_match_label": "operates on",
+                "original_match_uri": "https://orkg.org/property/P57091",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P5082"
+            },
+            {
+                "query": "organization",
+                "original_match_label": "organization",
+                "original_match_uri": "https://orkg.org/property/P18097",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P18097"
+            },
+            {
+                "query": "paper:published_in",
+                "original_match_label": "paper:published_in",
+                "original_match_uri": "https://orkg.org/property/P18092",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P15067"
+            },
+            {
+                "query": "patient age",
+                "original_match_label": "patient age",
+                "original_match_uri": "https://orkg.org/property/P57106",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P15279"
+            },
+            {
+                "query": "precursors",
+                "original_match_label": "precursors",
+                "original_match_uri": "https://orkg.org/property/P25007",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P175113"
+            },
+            {
+                "query": "primers",
+                "original_match_label": "primers",
+                "original_match_uri": "https://orkg.org/property/P62078",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P62078"
+            },
+            {
+                "query": "provides API",
+                "original_match_label": "provides API",
+                "original_match_uri": "https://orkg.org/property/P34591",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P71181"
+            },
+            {
+                "query": "purpose",
+                "original_match_label": "purpose",
+                "original_match_uri": "https://orkg.org/property/P5081",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P5081"
+            },
+            {
+                "query": "question answering components",
+                "original_match_label": "question answering components",
+                "original_match_uri": "https://orkg.org/property/P71136",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "question answering task",
+                "original_match_label": "question answering task",
+                "original_match_uri": "https://orkg.org/property/P71135",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41928"
+            },
+            {
+                "query": "question answering type of system",
+                "original_match_label": "question answering type of system",
+                "original_match_uri": "https://orkg.org/property/P80004",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "realizes",
+                "original_match_label": "realizes",
+                "original_match_uri": "https://orkg.org/property/P7108",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P25052"
+            },
+            {
+                "query": "reasoning abilities",
+                "original_match_label": "reasoning abilities",
+                "original_match_uri": "https://orkg.org/property/P123043",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P123043"
+            },
+            {
+                "query": "reference",
+                "original_match_label": "reference",
+                "original_match_uri": "https://orkg.org/property/P41817",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/reference"
+            },
+            {
+                "query": "research problem",
+                "original_match_label": "research problem",
+                "original_match_uri": "https://orkg.org/property/P32",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P32"
+            },
+            {
+                "query": "research_field_investigated",
+                "original_match_label": "research_field_investigated",
+                "original_match_uri": "https://orkg.org/property/P47004",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P37333"
+            },
+            {
+                "query": "result",
+                "original_match_label": "result",
+                "original_match_uri": "https://orkg.org/property/P1006",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/RESULT"
+            },
+            {
+                "query": "route of infection",
+                "original_match_label": "route of infection",
+                "original_match_uri": "https://orkg.org/property/P59241",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P59241"
+            },
+            {
+                "query": "specific domain ",
+                "original_match_label": "specific domain ",
+                "original_match_uri": "https://orkg.org/property/P130029",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "studied taxonomic group (Biology)",
+                "original_match_label": "studied taxonomic group (Biology)",
+                "original_match_uri": "https://orkg.org/property/P39141",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P41267"
+            },
+            {
+                "query": "study location (country)",
+                "original_match_label": "study location (country)",
+                "original_match_uri": "https://orkg.org/property/P37524",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P37041"
+            },
+            {
+                "query": "targets",
+                "original_match_label": "targets",
+                "original_match_uri": "https://orkg.org/property/P57097",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P34038"
+            },
+            {
+                "query": "time interval",
+                "original_match_label": "time interval",
+                "original_match_uri": "https://orkg.org/property/P70001",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P5098"
+            },
+            {
+                "query": "topic investigated",
+                "original_match_label": "topic investigated",
+                "original_match_uri": "https://orkg.org/property/P70020",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P20123"
+            },
+            {
+                "query": "type of software",
+                "original_match_label": "type of software",
+                "original_match_uri": "https://orkg.org/property/P59136",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/softwareType"
+            },
+            {
+                "query": "type study",
+                "original_match_label": "type study",
+                "original_match_uri": "https://orkg.org/property/P56011",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P4012"
+            },
+            {
+                "query": "used method",
+                "original_match_label": "used method",
+                "original_match_uri": "https://orkg.org/property/P59078",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/METHOD"
+            },
+            {
+                "query": "used methodology",
+                "original_match_label": "used methodology",
+                "original_match_uri": "https://orkg.org/property/P70006",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P147021"
+            },
+            {
+                "query": "uses Recommendation Method",
+                "original_match_label": "uses Recommendation Method",
+                "original_match_uri": "https://orkg.org/property/P41035",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P184089"
+            },
+            {
+                "query": "uses Recommendation approach",
+                "original_match_label": "uses Recommendation approach",
+                "original_match_uri": "https://orkg.org/property/P41034",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P184089"
+            },
+            {
+                "query": "uses benchmark",
+                "original_match_label": "uses benchmark",
+                "original_match_uri": "https://orkg.org/property/P38001",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/PWC_HAS_BENCHMARK"
+            },
+            {
+                "query": "uses framework",
+                "original_match_label": "uses framework",
+                "original_match_uri": "https://orkg.org/property/P1002",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P62121"
+            },
+            {
+                "query": "uses identifier system",
+                "original_match_label": "uses identifier system",
+                "original_match_uri": "https://orkg.org/property/P34592",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P34592"
+            },
+            {
+                "query": "venue investigated",
+                "original_match_label": "venue investigated",
+                "original_match_uri": "https://orkg.org/property/P70015",
+                "status": "MAPPED",
+                "mapped_to_consolidated_uri": "https://orkg.org/property/P20123"
+            }
+        ]
+    },
+    "top_ambiguous_examples": {
+        "original_top_10": [
+            {
+                "query": "operates on",
+                "hits_original": 477,
+                "hits_consolidated": 111
+            },
+            {
+                "query": "has functionality",
+                "hits_original": 473,
+                "hits_consolidated": 33
+            },
+            {
+                "query": "is about",
+                "hits_original": 465,
+                "hits_consolidated": 83
+            },
+            {
+                "query": "has number of modules",
+                "hits_original": 453,
+                "hits_consolidated": 129
+            },
+            {
+                "query": "deals with",
+                "hits_original": 440,
+                "hits_consolidated": 91
+            },
+            {
+                "query": "Type of knowledge source",
+                "hits_original": 379,
+                "hits_consolidated": 33
+            },
+            {
+                "query": "On evaluation dataset",
+                "hits_original": 378,
+                "hits_consolidated": 25
+            },
+            {
+                "query": "discusses method",
+                "hits_original": 366,
+                "hits_consolidated": 44
+            },
+            {
+                "query": "realizes",
+                "hits_original": 273,
+                "hits_consolidated": 76
+            },
+            {
+                "query": "Data used",
+                "hits_original": 267,
+                "hits_consolidated": 24
+            }
+        ],
+        "consolidated_top_10": [
+            {
+                "query": "has number of modules",
+                "hits_original": 453,
+                "hits_consolidated": 129
+            },
+            {
+                "query": "number of papers",
+                "hits_original": 223,
+                "hits_consolidated": 120
+            },
+            {
+                "query": "operates on",
+                "hits_original": 477,
+                "hits_consolidated": 111
+            },
+            {
+                "query": "Number of training data mentions",
+                "hits_original": 244,
+                "hits_consolidated": 107
+            },
+            {
+                "query": "Number of test data mentions",
+                "hits_original": 204,
+                "hits_consolidated": 101
+            },
+            {
+                "query": "deals with",
+                "hits_original": 440,
+                "hits_consolidated": 91
+            },
+            {
+                "query": "purpose",
+                "hits_original": 167,
+                "hits_consolidated": 84
+            },
+            {
+                "query": "implementation",
+                "hits_original": 157,
+                "hits_consolidated": 83
+            },
+            {
+                "query": "is about",
+                "hits_original": 465,
+                "hits_consolidated": 83
+            },
+            {
+                "query": "Has number of user interactions",
+                "hits_original": 255,
+                "hits_consolidated": 79
+            }
+        ]
+    }
+}
