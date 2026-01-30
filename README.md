@@ -94,6 +94,8 @@ python Gold_Standard_evaluation.py
 
 The authors gratefully acknowledge Nechakhin, D'Souza, and Eger for publishing the ORKG Gold Standard Properties Dataset (Vladyslav Nechakhin, Jennifer D’Souza (2024). ORKG Properties and LLM-Generated Research Dimensions Evaluation Dataset [Data set]. LUIS. https://doi.org/10.25835/6oyn9d1n), which served as the evaluation dataset for this study.
 
+This work is supported by the European Union’s HORIZON Research and Innovation Programme under grant agreement No 101120657, project ENFIELD (European Lighthouse to Manifest Trustworthy and Green AI).
+
 ## License
 
 This project is licensed under **CC BY-SA 4.0**.
