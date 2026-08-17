@@ -37,3 +37,13 @@ ENV/
 .AppleDouble
 .LSOverride
 ._*
+
+# --- Pipeline run caches ---
+# Per-decision LLM caches (JSONL) and embedding matrices (.npz) written to
+# runs/<name>/cache/. Reproducible from the checkpoints, ~49 MB for a full run,
+# deliberately not versioned.
+**/runs/*/cache/
+
+# --- Secrets ---
+.env
+.env.*
