@@ -19,30 +19,64 @@ Input:
     - Original ORKG Property Dump
     - OPO Consolidated Ontology (JSON-LD)
 
-Output:
-    - `evaluation_results.json`: Quantitative metrics and mapping details.
-    - `figure_eval.png`: Violin plot comparing search ambiguity (Original vs. Consolidated).
+Output (file names are version-specific, see --results / --figure):
+    - `evaluation_results_<version>.json`: Quantitative metrics and mapping details.
+    - `figure_eval_<version>.png`: Violin plot comparing search ambiguity (Original vs. Consolidated).
 """
 
+import argparse
 import pandas as pd
 import json
 import ast
 import torch
 import torch.nn.functional as F
-from transformers import AutoModel, AutoTokenizer
+from transformers import AutoModel, AutoTokenizer, __version__ as transformers_version
 from tqdm import tqdm
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy import stats
 from typing import List, Dict, Any, Tuple
 
+# Fixed across versions: changing the gold standard or the embedding model makes the
+# numbers incomparable with the paper.
 GOLD_STANDARD_FILE = 'orkg_properties_llm_dimensions_dataset(1).csv'
-ORIGINAL_PROPERTIES_FILE = 'orkg_properties_original_2025-12-31.json'
-CONSOLIDATED_FILE = 'opo-consolidated_2026-01-07.jsonld'
-
 MODEL_ID = "Qwen/Qwen3-Embedding-8B"
 ONTOLOGY_URI = "https://w3id.org/orkg-properties-ontology-consolidated"
 THRESHOLD = 0.1
+
+# Version-specific, overridable on the command line. The defaults evaluate v1.1.0.
+# The original property dump must be the snapshot the consolidated ontology was built
+# from -- a different export would compare two different states of ORKG.
+DEFAULT_ORIGINAL_PROPERTIES_FILE = 'v1.1.0/opo/input/orkg_properties_2026-08-14.json'
+DEFAULT_CONSOLIDATED_FILE = 'ontology/opo-consolidated-1.1.0.jsonld'
+DEFAULT_RESULTS_FILE = 'evaluation_results_1.1.0.json'
+DEFAULT_FIGURE_FILE = 'figure_eval_1.1.0.png'
+
+# v1.0.0 -- the version reported in the paper -- is reproduced with:
+#   python Gold_Standard_evaluation.py \
+#       --original orkg_properties_original_2025-12-31.json \
+#       --consolidated opo-consolidated_2026-01-07.jsonld \
+#       --results evaluation_results.json --figure figure_eval.png
+
+
+def parse_args() -> argparse.Namespace:
+    """Command-line arguments; defaults evaluate the current version (v1.1.0)."""
+    p = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    p.add_argument('--gold-standard', default=GOLD_STANDARD_FILE,
+                   help='Gold Standard CSV (keep as is for comparability with the paper)')
+    p.add_argument('--original', default=DEFAULT_ORIGINAL_PROPERTIES_FILE,
+                   help='JSON dump of the original ORKG properties the ontology was built from')
+    p.add_argument('--consolidated', default=DEFAULT_CONSOLIDATED_FILE,
+                   help='OPO-Consolidated ontology in JSON-LD')
+    p.add_argument('--results', default=DEFAULT_RESULTS_FILE,
+                   help='Where to write the JSON report')
+    p.add_argument('--figure', default=DEFAULT_FIGURE_FILE,
+                   help='Where to write the violin plot')
+    p.add_argument('--threshold', type=float, default=THRESHOLD,
+                   help='Cosine distance threshold for a search hit')
+    p.add_argument('--no-show', action='store_true',
+                   help='Do not open the plot in a window (for unattended runs)')
+    return p.parse_args()
 
 
 def load_gs(path: str) -> List[str]:
@@ -154,7 +188,8 @@ def get_embeddings(texts: List[str], model: AutoModel, tokenizer: AutoTokenizer)
     return torch.cat(res, dim=0)
 
 
-def plot_violin_final(orig_counts: List[int], cons_counts: List[int], threshold: float, sig_stars: str = "") -> None:
+def plot_violin_final(orig_counts: List[int], cons_counts: List[int], threshold: float, sig_stars: str = "",
+                      out_path: str = DEFAULT_FIGURE_FILE, show: bool = True) -> None:
     """
     Generates the comparison Violin Plot (matches Figure 4 in the paper).
 
@@ -163,6 +198,8 @@ def plot_violin_final(orig_counts: List[int], cons_counts: List[int], threshold:
         cons_counts: List of search result counts for the Consolidated ontology.
         threshold: The similarity threshold used.
         sig_stars: Significance notation (e.g., '***') to display on the plot.
+        out_path: File the figure is written to.
+        show: Whether to open the figure in a window.
     """
     print("\nGenerating Visualization (Violin Plot)...")
 
@@ -212,19 +249,25 @@ def plot_violin_final(orig_counts: List[int], cons_counts: List[int], threshold:
     ax.spines['right'].set_visible(False)
 
     plt.tight_layout()
-    plt.savefig('figure_eval.png', dpi=300)
-    print("Figure saved as 'figure_eval.png'.")
-    plt.show()
+    plt.savefig(out_path, dpi=300)
+    print(f"Figure saved as '{out_path}'.")
+    if show:
+        plt.show()
 
 
 if __name__ == "__main__":
+    args = parse_args()
+    THRESHOLD = args.threshold
+
     device = "cuda" if torch.cuda.is_available() else "mps" if torch.backends.mps.is_available() else "cpu"
     print(f"Evaluation utilizing device: {device}")
+    print(f"Original:     {args.original}")
+    print(f"Consolidated: {args.consolidated}")
 
     # 1. Load Data
-    gs = load_gs(GOLD_STANDARD_FILE)
-    orig_entries = load_orig(ORIGINAL_PROPERTIES_FILE)
-    cons_entries, uri_mappings = load_cons_and_mappings(CONSOLIDATED_FILE)
+    gs = load_gs(args.gold_standard)
+    orig_entries = load_orig(args.original)
+    cons_entries, uri_mappings = load_cons_and_mappings(args.consolidated)
 
     orig_uris = [e['uri'] for e in orig_entries]
     orig_labels = [e['label'] for e in orig_entries]
@@ -234,7 +277,18 @@ if __name__ == "__main__":
     # 2. Generate Embeddings
     print("Initializing Model and Generating Embeddings...")
     tokenizer = AutoTokenizer.from_pretrained(MODEL_ID, trust_remote_code=True)
-    model = AutoModel.from_pretrained(MODEL_ID, trust_remote_code=True).to(device)
+
+    # Pin float32. transformers v5 changed the from_pretrained default to the dtype declared
+    # in the model config, which is bfloat16 for Qwen3-Embedding-8B; v4 defaulted to float32.
+    # This metric counts similarities against a hard threshold and is precision-sensitive: the
+    # identical v1.0.0 ontology scores 7.98 average hits in float32 and 12.79 in bfloat16.
+    # Without this pin the results silently stop being comparable with the published evaluation.
+    try:
+        model = AutoModel.from_pretrained(MODEL_ID, trust_remote_code=True, dtype=torch.float32)
+    except TypeError:  # transformers < 5 spells the argument torch_dtype
+        model = AutoModel.from_pretrained(MODEL_ID, trust_remote_code=True, torch_dtype=torch.float32)
+    model = model.to(device)
+    assert next(model.parameters()).dtype == torch.float32, "the embedding model must run in float32"
 
     gs_vec = get_embeddings(gs, model, tokenizer)
     orig_vec = get_embeddings(orig_labels, model, tokenizer)
@@ -317,7 +371,23 @@ if __name__ == "__main__":
 
     # 6. Export Results
     json_output = {
-        "parameters": {"threshold": THRESHOLD, "model": MODEL_ID},
+        "parameters": {
+            "threshold": THRESHOLD,
+            "model": MODEL_ID,
+            "gold_standard_file": args.gold_standard,
+            "original_properties_file": args.original,
+            "consolidated_file": args.consolidated,
+            "original_properties_count": len(orig_entries),
+            "canonical_properties_count": len(cons_entries),
+            "mappings_count": len(uri_mappings),
+            # Recorded because the metric is precision-sensitive; see the dtype pin above.
+            "environment": {
+                "torch": torch.__version__,
+                "transformers": transformers_version,
+                "device": device,
+                "model_dtype": str(next(model.parameters()).dtype),
+            },
+        },
         "statistics": {
             "original_avg": float(np.mean(orig_counts)),
             "consolidated_avg": float(np.mean(cons_counts)),
@@ -336,10 +406,11 @@ if __name__ == "__main__":
         }
     }
 
-    with open("evaluation_results.json", "w", encoding="utf-8") as f:
+    with open(args.results, "w", encoding="utf-8") as f:
         json.dump(json_output, f, indent=4)
-    print("Evaluation results saved to 'evaluation_results.json'.")
+    print(f"Evaluation results saved to '{args.results}'.")
 
     # 7. Generate Plot
-    plot_violin_final(orig_counts, cons_counts, THRESHOLD, sig_stars)
+    plot_violin_final(orig_counts, cons_counts, THRESHOLD, sig_stars,
+                      out_path=args.figure, show=not args.no_show)
     print("\nEvaluation Complete.")

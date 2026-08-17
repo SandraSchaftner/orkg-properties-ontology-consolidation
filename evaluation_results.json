@@ -7,7 +7,7 @@
         "original_avg": 47.43873517786561,
         "consolidated_avg": 7.980237154150197,
         "wilcoxon_statistic": 78.0,
-        "p_value": 9.579555931840243e-41,
+        "p_value": 9.579555931840243e-41
     },
     "path_validation": {
         "total_queries": 253,

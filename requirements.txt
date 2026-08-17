@@ -1,12 +1,23 @@
-pandas
-numpy
-scipy
-torch
-sentence-transformers
-transformers
-scikit-learn
-openai
-rdflib
-pyyaml
-tqdm
-matplotlib
+# Pinned to the versions the v1.1.0 evaluation was run with (2026-08-17, Python 3.14).
+#
+# The pins matter for reproducibility: this evaluation counts embedding similarities
+# against a hard threshold, so it is sensitive to the numerical precision of the
+# embedding model. transformers v5 changed the from_pretrained default to the dtype
+# declared in the model config (bfloat16 for Qwen3-Embedding-8B), where v4 defaulted
+# to float32 -- on the identical v1.0.0 ontology that moves the headline metric from
+# 7.98 to 12.79 average search hits. Gold_Standard_evaluation.py therefore pins
+# float32 explicitly and asserts it, but the library versions are pinned as well so a
+# run reproduces rather than merely resembles the published numbers.
+
+pandas==3.0.5
+numpy==2.5.2
+scipy==1.18.0
+torch==2.13.0
+sentence-transformers==5.7.0
+transformers==5.15.0
+scikit-learn==1.9.0
+openai==3.1.0
+rdflib==7.6.0
+pyyaml==6.0.3
+tqdm==4.70.0
+matplotlib==3.11.1
