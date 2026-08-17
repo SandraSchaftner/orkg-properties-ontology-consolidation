@@ -1,0 +1,358 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://orkg.org/property/P5038> skos:exactMatch <https://orkg.org/property/P5027> ;
+    owl:equivalentProperty <https://orkg.org/property/P5027> ;
+    rdfs:label "Aggregation" .
+<https://orkg.org/property/P5089> skos:exactMatch <https://orkg.org/property/P2001> ;
+    owl:equivalentProperty <https://orkg.org/property/P2001> ;
+    rdfs:label "algorithm" .
+<https://orkg.org/property/P5042> skos:exactMatch <https://orkg.org/property/P5031> ;
+    owl:equivalentProperty <https://orkg.org/property/P5031> ;
+    rdfs:label "Application type" .
+<https://orkg.org/property/P4040> skos:exactMatch <https://orkg.org/property/P4035> ;
+    owl:equivalentProperty <https://orkg.org/property/P4035> ;
+    rdfs:label "between" .
+<https://orkg.org/property/P4043> skos:exactMatch <https://orkg.org/property/P4038> ;
+    owl:equivalentProperty <https://orkg.org/property/P4038> ;
+    rdfs:label "could be applicated to" .
+<https://orkg.org/property/P4017> skos:exactMatch <https://orkg.org/property/DATA> ;
+    owl:equivalentProperty <https://orkg.org/property/DATA> ;
+    rdfs:label "Data" .
+<https://orkg.org/property/P14> skos:exactMatch <https://orkg.org/property/description> ;
+    owl:equivalentProperty <https://orkg.org/property/description> ;
+    rdfs:label "description" .
+<https://orkg.org/property/P7037> skos:exactMatch <https://orkg.org/property/description> ;
+    owl:equivalentProperty <https://orkg.org/property/description> ;
+    rdfs:label "Description" .
+<https://orkg.org/property/P5040> skos:exactMatch <https://orkg.org/property/P5029> ;
+    owl:equivalentProperty <https://orkg.org/property/P5029> ;
+    rdfs:label "Disk" .
+<https://orkg.org/property/P5041> skos:exactMatch <https://orkg.org/property/P5030> ;
+    owl:equivalentProperty <https://orkg.org/property/P5030> ;
+    rdfs:label "Domain" .
+<https://orkg.org/property/P5091> skos:exactMatch <https://orkg.org/property/P34> ;
+    owl:equivalentProperty <https://orkg.org/property/P34> ;
+    rdfs:label "evaluation" .
+<https://orkg.org/property/P5085> skos:exactMatch <https://orkg.org/property/P17> ;
+    owl:equivalentProperty <https://orkg.org/property/P17> ;
+    rdfs:label "has part" .
+<https://orkg.org/property/P5039> skos:exactMatch <https://orkg.org/property/P5028> ;
+    owl:equivalentProperty <https://orkg.org/property/P5028> ;
+    rdfs:label "Incremental" .
+<https://orkg.org/property/P4039> skos:exactMatch <https://orkg.org/property/P4034> ;
+    owl:equivalentProperty <https://orkg.org/property/P4034> ;
+    rdfs:label "is" .
+<https://orkg.org/property/P5094> skos:exactMatch <https://orkg.org/property/P4001> ;
+    owl:equivalentProperty <https://orkg.org/property/P4001> ;
+    rdfs:label "label" .
+<https://orkg.org/property/P4042> skos:exactMatch <https://orkg.org/property/P4037> ;
+    owl:equivalentProperty <https://orkg.org/property/P4037> ;
+    rdfs:label "listing" .
+<https://orkg.org/property/P7033> skos:exactMatch <https://orkg.org/property/P4016> ;
+    owl:equivalentProperty <https://orkg.org/property/P4016> ;
+    rdfs:label "Material" .
+<https://orkg.org/property/P5072> skos:exactMatch <https://orkg.org/property/P3004> ;
+    owl:equivalentProperty <https://orkg.org/property/P3004> ;
+    rdfs:label "precision" .
+<https://orkg.org/property/P4018> skos:exactMatch <https://orkg.org/property/PROCESS> ;
+    owl:equivalentProperty <https://orkg.org/property/PROCESS> ;
+    rdfs:label "Process" .
+<https://orkg.org/property/P5015> skos:exactMatch <https://orkg.org/property/P5073> ;
+    owl:equivalentProperty <https://orkg.org/property/P5073> ;
+    rdfs:label "Recall" .
+<https://orkg.org/property/P6002> skos:exactMatch <https://orkg.org/property/P6001> ;
+    owl:equivalentProperty <https://orkg.org/property/P6001> ;
+    rdfs:label "Results" .
+<https://orkg.org/property/P5037> skos:exactMatch <https://orkg.org/property/P5026> ;
+    owl:equivalentProperty <https://orkg.org/property/P5026> ;
+    rdfs:label "Sampling" .
+<https://orkg.org/property/P4012> skos:exactMatch <https://orkg.org/property/type> ;
+    owl:equivalentProperty <https://orkg.org/property/type> ;
+    rdfs:label "type" .
+<https://orkg.org/property/P1003> skos:exactMatch <https://orkg.org/property/url> ;
+    owl:equivalentProperty <https://orkg.org/property/url> ;
+    rdfs:label "url" .
+<https://orkg.org/property/P4041> skos:exactMatch <https://orkg.org/property/P4036> ;
+    owl:equivalentProperty <https://orkg.org/property/P4036> ;
+    rdfs:label "using" .
+<https://orkg.org/property/P7043> skos:exactMatch <https://orkg.org/property/P5064> ;
+    owl:equivalentProperty <https://orkg.org/property/P5064> ;
+    rdfs:label "Website" .
+<https://orkg.org/property/P5063> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "A sensor network" .
+<https://orkg.org/property/P5057> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "Accelerometer vibration sensor (sd1)" .
+<https://orkg.org/property/P5058> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "Accelerometer vibration sensor (sd2)" .
+<https://orkg.org/property/P5059> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "Accelerometer vibration sensor (sd3)" .
+<https://orkg.org/property/P5074> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "actual" .
+<https://orkg.org/property/P5079> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "Apache Cassandra" .
+<https://orkg.org/property/P5077> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "Apache Jena" .
+<https://orkg.org/property/P5080> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "Apache Storm" .
+<https://orkg.org/property/P4069> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "attaining" .
+<https://orkg.org/property/P4033> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "available" .
+<https://orkg.org/property/P5062> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "AXIS 211W Datasheet" .
+<https://orkg.org/property/P5060> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "AXIS 211W Wireless Network Camera" .
+<https://orkg.org/property/P5061> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "AXIS Communications" .
+<https://orkg.org/property/P4035> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "between" .
+<https://orkg.org/property/P4032> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "between advertisements and Information National Training Organisation and Library and Information Management Employability Skills" .
+<https://orkg.org/property/P7008> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "by using" .
+<https://orkg.org/property/P4038> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "could be applicated to" .
+<https://orkg.org/property/P4063> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "detecting" .
+<https://orkg.org/property/P5029> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "Disk" .
+<https://orkg.org/property/P4066> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "employing" .
+<https://orkg.org/property/P4073> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "fastText" .
+<https://orkg.org/property/P4048> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "from" .
+<https://orkg.org/property/P4025> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "from Chartered Institute of Library and Information Professional\u2019s Library and Information Gazette" .
+<https://orkg.org/property/P4031> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "general computing skills" .
+<https://orkg.org/property/P16> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "has" .
+<https://orkg.org/property/P7007> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "in presence of" .
+<https://orkg.org/property/P4011> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "in Scheme" .
+<https://orkg.org/property/P5028> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "Incremental" .
+<https://orkg.org/property/P4078> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "Information science" .
+<https://orkg.org/property/P4034> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "is" .
+<https://orkg.org/property/P3> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "is a" .
+<https://orkg.org/property/P4071> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "Jobs for lower level staticians are restricted to" .
+<https://orkg.org/property/P4067> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "leveraging" .
+<https://orkg.org/property/P5018> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "On" .
+<https://orkg.org/property/P4026> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "over the period May 2006-2007" .
+<https://orkg.org/property/P5093> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "pavement" .
+<https://orkg.org/property/P5021> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "Phrase mapping task" .
+<https://orkg.org/property/P4057> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "Planung" .
+<https://orkg.org/property/P5075> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "predicted" .
+<https://orkg.org/property/P3007> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "propose" .
+<https://orkg.org/property/P4064> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "providing" .
+<https://orkg.org/property/P5023> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "Query construction task" .
+<https://orkg.org/property/P5020> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "Question analysis task" .
+<https://orkg.org/property/P4000> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "R4001" .
+<https://orkg.org/property/P4002> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "R4009" .
+<https://orkg.org/property/P5099> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "R6900" .
+<https://orkg.org/property/P5100> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "R6904" .
+<https://orkg.org/property/P5101> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "R6906" .
+<https://orkg.org/property/P5102> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "R6908" .
+<https://orkg.org/property/P5104> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "R6915" .
+<https://orkg.org/property/P5105> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "R6918" .
+<https://orkg.org/property/P5106> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "R6926" .
+<https://orkg.org/property/P5107> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "R6928" .
+<https://orkg.org/property/P5108> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "R6933" .
+<https://orkg.org/property/P5109> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "R6935" .
+<https://orkg.org/property/P5110> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "R6938" .
+<https://orkg.org/property/P5111> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "R6939" .
+<https://orkg.org/property/P7017> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "R8136" .
+<https://orkg.org/property/P7018> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "R8138" .
+<https://orkg.org/property/P7019> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "R8141" .
+<https://orkg.org/property/P7020> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "R8145" .
+<https://orkg.org/property/P7021> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "R8148" .
+<https://orkg.org/property/P7022> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "R8150" .
+<https://orkg.org/property/P7023> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "R8156" .
+<https://orkg.org/property/P7024> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "R8160" .
+<https://orkg.org/property/P7025> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "R8167" .
+<https://orkg.org/property/P7026> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "R8168" .
+<https://orkg.org/property/P7027> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "R8169" .
+<https://orkg.org/property/P7028> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "R8171" .
+<https://orkg.org/property/P7029> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "R8176" .
+<https://orkg.org/property/P7030> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "R8179" .
+<https://orkg.org/property/P7032> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "R8180" .
+<https://orkg.org/property/P7031> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "R8183" .
+<https://orkg.org/property/P4068> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "recognizing and normalizing" .
+<https://orkg.org/property/P4070> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "required skills for high-level staticians are" .
+<https://orkg.org/property/P2000> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "robotised the workflow" .
+<https://orkg.org/property/P4046> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "SADASdAD" .
+<https://orkg.org/property/P4045> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "SASD" .
+<https://orkg.org/property/P4072> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "sdfdasfsdfsf" .
+<https://orkg.org/property/P5050> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "see also" .
+<https://orkg.org/property/P4062> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "showing" .
+<https://orkg.org/property/P2002> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "Stable" .
+<https://orkg.org/property/P7005> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "targeting" .
+<https://orkg.org/property/P5010> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "Test questions" .
+<https://orkg.org/property/P5011> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "Train questions" .
+<https://orkg.org/property/P5034> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "User recommendation" .
+<https://orkg.org/property/P4036> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "using" .
+<https://orkg.org/property/P5054> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "vibration" .
+<https://orkg.org/property/P5066> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "Waikato Environment for Knowledge Analysis" .
+<https://orkg.org/property/P5055> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "WBS CM301 Datasheet" .
+<https://orkg.org/property/P5052> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "Webrosensor Oy" .
+<https://orkg.org/property/P7001> skos:exactMatch <https://orkg.org/property/P41267> ;
+    owl:equivalentProperty <https://orkg.org/property/P41267> ;
+    rdfs:label "wha" .

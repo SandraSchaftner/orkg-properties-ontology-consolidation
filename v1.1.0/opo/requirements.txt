@@ -1,0 +1,14 @@
+# Dependencies of the OPO consolidation pipeline only.
+# The analysis notebook does NOT need these — see the requirements.txt in the repo root.
+pandas
+numpy
+requests
+tqdm
+pyyaml
+rdflib
+
+# Steps 3 and 4 embed property labels locally (the inference server has no
+# embedding endpoint). These are the heavy ones, ~3 GB.
+sentence-transformers
+torch
+scikit-learn

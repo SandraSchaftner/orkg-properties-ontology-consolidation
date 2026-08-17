@@ -1,0 +1,275 @@
+uri,id,label,description,created_at
+https://orkg.org/property/P5063,P5063,A sensor network,,2019-12-17T12:37:34.5+01:00
+https://orkg.org/property/P5057,P5057,Accelerometer vibration sensor (sd1),,2019-12-17T12:37:34.481+01:00
+https://orkg.org/property/P5058,P5058,Accelerometer vibration sensor (sd2),,2019-12-17T12:37:34.484+01:00
+https://orkg.org/property/P5059,P5059,Accelerometer vibration sensor (sd3),,2019-12-17T12:37:34.487+01:00
+https://orkg.org/property/P5068,P5068,acronym,,2019-12-17T12:37:34.519+01:00
+https://orkg.org/property/P5074,P5074,actual,,2019-12-17T12:37:34.535+01:00
+https://orkg.org/property/P0,P0,addresses,Physical address of the item.,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P7,P7,affiliation,"An organization that this person is affiliated with. For example, a school/university.",2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5027,P5027,Aggregation,,2019-12-17T11:40:16.048+01:00
+https://orkg.org/property/P4058,P4058,Aktivität,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P2001,P2001,Algorithm,"A finite sequence of rigorous well-defined instructions, typically used to solve a class of specific problems or to perform a computation.",2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5079,P5079,Apache Cassandra,,2019-12-17T12:37:34.549+01:00
+https://orkg.org/property/P5077,P5077,Apache Jena,,2019-12-17T12:37:34.543+01:00
+https://orkg.org/property/P5080,P5080,Apache Storm,,2019-12-17T12:37:34.552+01:00
+https://orkg.org/property/P5031,P5031,Application type,,2019-12-17T11:40:16.094+01:00
+https://orkg.org/property/P33,P33,approach,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5043,P5043,Approach type,The type of an approach implemented.,2019-12-17T11:45:56.122+01:00
+https://orkg.org/property/P7015,P7015,Architecture,,2019-12-19T15:06:37.405+01:00
+https://orkg.org/property/P4069,P4069,attaining,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P6,P6,author,The author of this content.,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P4033,P4033,available,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5062,P5062,AXIS 211W Datasheet,,2019-12-17T12:37:34.497+01:00
+https://orkg.org/property/P5060,P5060,AXIS 211W Wireless Network Camera,,2019-12-17T12:37:34.49+01:00
+https://orkg.org/property/P5061,P5061,AXIS Communications,,2019-12-17T12:37:34.493+01:00
+https://orkg.org/property/P4054,P4054,based on,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P2003,P2003,Best complexity,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P4035,P4035,between,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P4032,P4032,between advertisements and Information National Training Organisation and Library and Information Management Employability Skills,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P7008,P7008,by using,,2019-12-19T11:51:22.285+01:00
+https://orkg.org/property/P4060,P4060,capable of,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P4024,P4024,Challenge,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5070,P5070,class,,2019-12-17T12:37:34.525+01:00
+https://orkg.org/property/P7038,P7038,Class count,,2020-01-17T12:34:56.839+01:00
+https://orkg.org/property/P5095,P5095,class mappings,,2019-12-17T12:37:34.596+01:00
+https://orkg.org/property/P5088,P5088,classes,,2019-12-17T12:37:34.575+01:00
+https://orkg.org/property/P3003,P3003,Classification,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5007,P5007,Clustering,,2019-12-17T09:42:25.598+01:00
+https://orkg.org/property/P4005,P4005,code List,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P7012,P7012,Cohort size,,2019-12-19T15:06:37.314+01:00
+https://orkg.org/property/P4019,P4019,Company,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P4008,P4008,component,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P1008,P1008,conducted at,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5090,P5090,configuration,,2019-12-17T12:37:34.581+01:00
+https://orkg.org/property/P4038,P4038,could be applicated to,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/DATA,DATA,data,"Facts or information, escpecially when examined and used to find out things or to make decisions.",2019-01-06T15:04:07.692Z
+https://orkg.org/property/P7040,P7040,Data property count,,2020-01-17T12:34:56.862+01:00
+https://orkg.org/property/P5032,P5032,Data types,,2019-12-17T11:41:44.969+01:00
+https://orkg.org/property/P2005,P2005,dataset,"collection of data used in the study/contribution. May refer for example to a URL, a text description or to the name of a dataset item in ORKG to be described using the ""dataset"" template.",2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5056,P5056,datasheet,,2019-12-17T12:37:34.478+01:00
+https://orkg.org/property/P5001,P5001,deals with,,2019-12-17T09:42:25.418+01:00
+https://orkg.org/property/P23,P23,defines,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P7014,P7014,Demo video,,2019-12-19T15:06:37.382+01:00
+https://orkg.org/property/P4076,P4076,describes,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/description,description,description,"Algorithms, Tools, performance metrics",2019-01-06T15:04:07.692Z
+https://orkg.org/property/P4063,P4063,detecting,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P4004,P4004,dimension,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5022,P5022,Disambiguation task,,2019-12-17T11:39:36.425+01:00
+https://orkg.org/property/P5029,P5029,Disk,,2019-12-17T11:40:16.072+01:00
+https://orkg.org/property/P5044,P5044,Document type,,2019-12-17T11:45:56.144+01:00
+https://orkg.org/property/P10,P10,DOI,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5030,P5030,Domain,"The domain property specifies the general area or field in which the SLMs are designed to operate. The respective values are generic, coding, or scientific.",2019-12-17T11:40:16.082+01:00
+https://orkg.org/property/P8,P8,email,Email address.,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P4066,P4066,employing,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P2,P2,employs,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P22,P22,environment,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P34,P34,evaluation,Model Evaluation is the process through which we quantify the quality of a system's predictions. ,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5004,P5004,Evidence,,2019-12-17T09:42:25.504+01:00
+https://orkg.org/property/P7036,P7036,Example class,,2020-01-17T12:34:56.816+01:00
+https://orkg.org/property/exampleOfUsage,exampleOfUsage,example of usage,,2019-12-17T11:39:36.19+01:00
+https://orkg.org/property/P1007,P1007,experiment,"A scientific procedure undertaken to make a discovery, test a hypothesis, or demonstrate a known fact.",2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5016,P5016,F-measure,,2019-12-17T11:39:36.294+01:00
+https://orkg.org/property/P4073,P4073,fastText,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P3001,P3001,Feature extraction,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P3002,P3002,Feature selection,"Selection of the features for machine learning model (e.g. manual, trial-error, F test, reccursive feature elimination, etc.)",2019-01-06T15:04:07.692Z
+https://orkg.org/property/P24,P24,field,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P7016,P7016,Figure,,2019-12-19T15:06:37.435+01:00
+https://orkg.org/property/P5025,P5025,Filter,,2019-12-17T11:40:16.024+01:00
+https://orkg.org/property/P4065,P4065,finding,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P2008,P2008,Formalization,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P4048,P4048,from,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P4025,P4025,from Chartered Institute of Library and Information Professional’s Library and Information Gazette,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P7035,P7035,Full name,,2020-01-17T12:34:56.805+01:00
+https://orkg.org/property/P4031,P4031,general computing skills,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5008,P5008,Graph,,2019-12-17T09:42:25.631+01:00
+https://orkg.org/property/P16,P16,has,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P4050,P4050,Has edges,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P7013,P7013,Has formula,,2019-12-19T15:06:37.363+01:00
+https://orkg.org/property/P6003,P6003,has ingredient,,2019-12-17T15:56:36.958+01:00
+https://orkg.org/property/P7000,P7000,has material,Material(-type) which was investigated,2019-12-17T16:25:04.549+01:00
+https://orkg.org/property/P4056,P4056,has methodology,"the knowledge, which the research involved",2019-01-06T15:04:07.692Z
+https://orkg.org/property/P7003,P7003,has number,,2019-12-18T15:04:00.565+01:00
+https://orkg.org/property/HAS_ORCID,HAS_ORCID,Has ORCID,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P17,P17,has part,Indicates a CreativeWork that is (in some sense) a part of this CreativeWork. Reverse property isPartOf.,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P6004,P6004,has property,,2019-12-17T15:56:36.963+01:00
+https://orkg.org/property/hasPublishedVersion,hasPublishedVersion,has published version,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P4047,P4047,has size,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P4015,P4015,has specified input,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P4014,P4014,has specified numeric value,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P4003,P4003,has specified output,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P36,P36,has subfield,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P4059,P4059,Has url,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P7002,P7002,has user license,,2019-12-18T14:40:13.702+01:00
+https://orkg.org/property/P4009,P4009,has value specification,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P7044,P7044,Has video,,2020-01-17T18:23:37.674+01:00
+https://orkg.org/property/P5000,P5000,Heuristic followed,,2019-12-17T09:42:25.22+01:00
+https://orkg.org/property/icon,icon,icon,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P15,P15,implementation,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P7007,P7007,in presence of,,2019-12-18T16:11:18.429+01:00
+https://orkg.org/property/P4011,P4011,in Scheme,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5028,P5028,Incremental,,2019-12-17T11:40:16.061+01:00
+https://orkg.org/property/P4078,P4078,Information science,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P19,P19,input,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5076,P5076,instances,,2019-12-17T12:37:34.54+01:00
+https://orkg.org/property/P4022,P4022,Institution,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P7042,P7042,IRI,,2020-01-17T12:34:56.888+01:00
+https://orkg.org/property/P4034,P4034,is,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P3,P3,is a,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P4053,P4053,is about,describe about the article major contribution,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P4061,P4061,is dependent of,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P4052,P4052,is independent of,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5092,P5092,is property of,,2019-12-17T12:37:34.587+01:00
+https://orkg.org/property/P4071,P4071,Jobs for lower level staticians are restricted to,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5024,P5024,Keyword,,2019-12-17T11:40:16.009+01:00
+https://orkg.org/property/P3000,P3000,keywords,Keywords or tags used to describe this content. Multiple entries in a keywords list are typically delimited by commas.,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P4001,P4001,label,Used to provide a human-readable version of a resource's name.,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5013,P5013,Language,The language used by the LLM Hallucination Benchmark,2019-12-17T11:39:36.212+01:00
+https://orkg.org/property/P4067,P4067,leveraging,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5006,P5006,Limitations,shows the limitations of benchmark,2019-12-17T09:42:25.565+01:00
+https://orkg.org/property/P4037,P4037,listing,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5049,P5049,location,"site, place, position",2019-12-17T12:37:34.456+01:00
+https://orkg.org/property/P4021,P4021,MAE,%,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5051,P5051,manufacturer,,2019-12-17T12:37:34.462+01:00
+https://orkg.org/property/P4020,P4020,MAPE,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P4016,P4016,Material,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P4006,P4006,measure,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P1005,P1005,method,The methodological approach underlying the contribution.,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P2006,P2006,metric,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5083,P5083,mode,,2019-12-17T12:37:34.561+01:00
+https://orkg.org/property/P1004,P1004,model,models,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P4074,P4074,Multipartite Rank,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5087,P5087,number of hidden neurons,,2019-12-17T12:37:34.572+01:00
+https://orkg.org/property/P7039,P7039,Object property count,,2020-01-17T12:34:56.85+01:00
+https://orkg.org/property/P5069,P5069,Observation,,2019-12-17T12:37:34.522+01:00
+https://orkg.org/property/P5053,P5053,observes,,2019-12-17T12:37:34.469+01:00
+https://orkg.org/property/P5018,P5018,On,,2019-12-17T11:39:36.336+01:00
+https://orkg.org/property/onHomepage,onHomepage,onHomepage,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P7034,P7034,Ontology,,2020-01-17T12:34:56.777+01:00
+https://orkg.org/property/P5082,P5082,operation,,2019-12-17T12:37:34.558+01:00
+https://orkg.org/property/P9,P9,ORCID,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5103,P5103,order,,2019-12-17T12:44:59.59+01:00
+https://orkg.org/property/P20,P20,output,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P4026,P4026,over the period May 2006-2007,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P18,P18,part of,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P1009,P1009,participants,"Persons who are taking place in an activity, event or experiment. ",2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5093,P5093,pavement,,2019-12-17T12:37:34.59+01:00
+https://orkg.org/property/P5097,P5097,performance,,2019-12-17T12:37:34.601+01:00
+https://orkg.org/property/P5003,P5003,Performance metric,"statistical error measures used to evaluate the performance of the model - e.g. coefficient of determination, coefficient of correlation, root mean squared error, etc.",2019-12-17T09:42:25.472+01:00
+https://orkg.org/property/P7011,P7011,Performed at,,2019-12-19T15:06:37.288+01:00
+https://orkg.org/property/P4023,P4023,Person,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5021,P5021,Phrase mapping task,,2019-12-17T11:39:36.403+01:00
+https://orkg.org/property/P4057,P4057,Planung,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P3004,P3004,precision,The fraction of relevant instances among all retrieved instances.,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5075,P5075,predicted,,2019-12-17T12:37:34.538+01:00
+https://orkg.org/property/P5035,P5035,Preferences,,2019-12-17T11:41:45.013+01:00
+https://orkg.org/property/P2007,P2007,presents,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P11,P11,problem,"A situation, person, or thing that needs attention and needs to be dealt with or solved.",2019-01-06T15:04:07.692Z
+https://orkg.org/property/PROCESS,PROCESS,Process,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P21,P21,programming language,The computer programming language.,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P3007,P3007,propose,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P4051,P4051,provided by,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P4064,P4064,providing,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5081,P5081,purpose,The reason for which the item was created,2019-12-17T12:37:34.555+01:00
+https://orkg.org/property/P5023,P5023,Query construction task,,2019-12-17T11:39:36.445+01:00
+https://orkg.org/property/P5014,P5014,Question amount,,2019-12-17T11:39:36.235+01:00
+https://orkg.org/property/P5020,P5020,Question analysis task,,2019-12-17T11:39:36.38+01:00
+https://orkg.org/property/P5012,P5012,Question language,,2019-12-17T11:39:36.19+01:00
+https://orkg.org/property/P4000,P4000,R4001,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P4002,P4002,R4009,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5099,P5099,R6900,,2019-12-17T12:44:55.155+01:00
+https://orkg.org/property/P5100,P5100,R6904,,2019-12-17T12:44:56.312+01:00
+https://orkg.org/property/P5101,P5101,R6906,,2019-12-17T12:44:57.414+01:00
+https://orkg.org/property/P5102,P5102,R6908,,2019-12-17T12:44:58.537+01:00
+https://orkg.org/property/P5104,P5104,R6915,,2019-12-17T12:45:00.867+01:00
+https://orkg.org/property/P5105,P5105,R6918,,2019-12-17T12:45:01.84+01:00
+https://orkg.org/property/P5106,P5106,R6926,,2019-12-17T12:45:14.048+01:00
+https://orkg.org/property/P5107,P5107,R6928,,2019-12-17T12:45:14.337+01:00
+https://orkg.org/property/P5108,P5108,R6933,,2019-12-17T12:45:15.413+01:00
+https://orkg.org/property/P5109,P5109,R6935,,2019-12-17T12:45:15.727+01:00
+https://orkg.org/property/P5110,P5110,R6938,,2019-12-17T12:45:16.189+01:00
+https://orkg.org/property/P5111,P5111,R6939,,2019-12-17T12:45:16.581+01:00
+https://orkg.org/property/P7017,P7017,R8136,,2019-12-19T15:06:38.104+01:00
+https://orkg.org/property/P7018,P7018,R8138,,2019-12-19T15:06:38.384+01:00
+https://orkg.org/property/P7019,P7019,R8141,,2019-12-19T15:06:40.037+01:00
+https://orkg.org/property/P7020,P7020,R8145,,2019-12-19T15:06:42.255+01:00
+https://orkg.org/property/P7021,P7021,R8148,,2019-12-19T15:06:42.669+01:00
+https://orkg.org/property/P7022,P7022,R8150,,2019-12-19T15:06:42.92+01:00
+https://orkg.org/property/P7023,P7023,R8156,,2019-12-19T15:06:43.827+01:00
+https://orkg.org/property/P7024,P7024,R8160,,2019-12-19T15:06:45.07+01:00
+https://orkg.org/property/P7025,P7025,R8167,,2019-12-19T15:06:57.548+01:00
+https://orkg.org/property/P7026,P7026,R8168,,2019-12-19T15:06:57.75+01:00
+https://orkg.org/property/P7027,P7027,R8169,,2019-12-19T15:06:57.927+01:00
+https://orkg.org/property/P7028,P7028,R8171,,2019-12-19T15:06:58.174+01:00
+https://orkg.org/property/P7029,P7029,R8176,,2019-12-19T15:06:58.78+01:00
+https://orkg.org/property/P7030,P7030,R8179,,2019-12-19T15:06:59.187+01:00
+https://orkg.org/property/P7032,P7032,R8180,,2019-12-19T15:07:01.448+01:00
+https://orkg.org/property/P7031,P7031,R8183,,2019-12-19T15:07:00.548+01:00
+https://orkg.org/property/P4013,P4013,range,The range is the difference between the highest and lowest values in a set of numbers.,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5073,P5073,recall,The fraction of relevant items that an AI search returns out of the total number of relevant items in the original population. ,2019-12-17T12:37:34.533+01:00
+https://orkg.org/property/P4068,P4068,recognizing and normalizing,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P4,P4,refers to,provides context what is being refered to in a given statement,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P7045,P7045,Related video,,2020-01-17T18:29:48.203+01:00
+https://orkg.org/property/P4070,P4070,required skills for high-level staticians are,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P4044,P4044,restricted to,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P1006,P1006,result,The final output of the system being described ,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P6001,P6001,results,"Description of the main findings of the study, based on the outcome measures investigated. When multiple outcome measures are involved, each result is numbered and assigned to a different subsection. When statistical significance values were reported, they are inlcuded. ",2019-12-17T15:56:36.949+01:00
+https://orkg.org/property/P2000,P2000,robotised the workflow,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5096,P5096,rule,,2019-12-17T12:37:34.598+01:00
+https://orkg.org/property/P5017,P5017,Runtime,,2019-12-17T11:39:36.314+01:00
+https://orkg.org/property/P4046,P4046,SADASdAD,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P4055,P4055,sample size,total number of replicates (n) across all treatments in a study,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5026,P5026,Sampling,,2019-12-17T11:40:16.036+01:00
+https://orkg.org/property/P4045,P4045,SASD,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P7047,P7047,Scope,,2020-01-21T10:53:07.043+01:00
+https://orkg.org/property/P4072,P4072,sdfdasfsdfsf,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5050,P5050,see also,,2019-12-17T12:37:34.459+01:00
+https://orkg.org/property/P7046,P7046,Semantic representation,,2020-01-21T10:53:07.029+01:00
+https://orkg.org/property/P3005,P3005,Sensitivity,the proportion of samples that are genuinely positive that give a positive result using the test in question,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5071,P5071,sensor,"a device which detects or measures a physical property and records, indicates, or otherwise responds to it.",2019-12-17T12:37:34.528+01:00
+https://orkg.org/property/P4062,P4062,showing,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P12,P12,solution,The answer to a problem.,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P4077,P4077,source code,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P3006,P3006,Specificity,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P2002,P2002,Stable,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5036,P5036,Statistics,,2019-12-17T11:41:45.023+01:00
+https://orkg.org/property/P4007,P4007,structure,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5048,P5048,sub system,,2019-12-17T12:37:34.451+01:00
+https://orkg.org/property/P5046,P5046,Summary characteristics,,2019-12-17T11:45:56.184+01:00
+https://orkg.org/property/P5045,P5045,Summary usage,,2019-12-17T11:45:56.164+01:00
+https://orkg.org/property/P7009,P7009,Supports RDF,,2019-12-19T15:06:37.048+01:00
+https://orkg.org/property/P7005,P7005,targeting,,2019-12-18T15:17:54.576+01:00
+https://orkg.org/property/P5009,P5009,Task,"Task is a multi-valued field with the following subfields: 1) Task Type -this field describes the nature of the task used to evaluate hallucinations in LLMs (i.e. Generative QA, Multi-Choice QA, ​Detection) 2) Input -this field specifies the type of input provided to the model for the task (i.e. Question, Paragraph & Concept, Query, Document) 3)  Label -this field indicates the type of label or expected output used for evaluation (i.e. Answer, Passage, Response, Summary) 4) Metric-this field describes the metrics used to evaluate the model's performance (i.e. LLM-Judge & Human, Acc: Accuracy, EM: Exact Match, AUROC: Area Under the Receiver Operating Characteristic curve, ​P & R & F1: Precision, Recall, and F1 score, Balanced accuracy)",2019-12-17T11:39:36.12+01:00
+https://orkg.org/property/P5019,P5019,Technique,,2019-12-17T11:39:36.36+01:00
+https://orkg.org/property/P5010,P5010,Test questions,,2019-12-17T11:39:36.144+01:00
+https://orkg.org/property/P5098,P5098,time,,2019-12-17T12:37:34.604+01:00
+https://orkg.org/property/P4010,P4010,top Concept Of,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5011,P5011,Train questions,,2019-12-17T11:39:36.167+01:00
+https://orkg.org/property/type,type,type,"The type of the resource being described (e.g., image, text, sound, etc.)",2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5005,P5005,Uncertainty,,2019-12-17T09:42:25.531+01:00
+https://orkg.org/property/P7004,P7004,unit,Is the unit of a physical measured value. Typically is placed in the line above a value.,2019-12-18T15:04:34.397+01:00
+https://orkg.org/property/url,url,url,URL,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P13,P13,use case,hh,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5034,P5034,User recommendation,,2019-12-17T11:41:45.002+01:00
+https://orkg.org/property/P4075,P4075,users,Persons or organization using a resource,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5,P5,uses,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P1002,P1002,uses framework,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P1001,P1001,uses graph,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P7010,P7010,Uses graph store,,2019-12-19T15:06:37.22+01:00
+https://orkg.org/property/P1000,P1000,uses library,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P7041,P7041,Uses ontology,,2020-01-17T12:34:56.874+01:00
+https://orkg.org/property/P5002,P5002,uses similarity,,2019-12-17T09:42:25.45+01:00
+https://orkg.org/property/P4036,P4036,using,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5047,P5047,utilizes,,2019-12-17T12:37:34.445+01:00
+https://orkg.org/property/P5086,P5086,value,,2019-12-17T12:37:34.569+01:00
+https://orkg.org/property/P5067,P5067,version,,2019-12-17T12:37:34.517+01:00
+https://orkg.org/property/P5054,P5054,vibration,,2019-12-17T12:37:34.472+01:00
+https://orkg.org/property/P5033,P5033,Visualization types,,2019-12-17T11:41:44.981+01:00
+https://orkg.org/property/P5066,P5066,Waikato Environment for Knowledge Analysis,,2019-12-17T12:37:34.514+01:00
+https://orkg.org/property/P5055,P5055,WBS CM301 Datasheet,,2019-12-17T12:37:34.475+01:00
+https://orkg.org/property/P25,P25,web site,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P5052,P5052,Webrosensor Oy,,2019-12-17T12:37:34.465+01:00
+https://orkg.org/property/P5064,P5064,website,,2019-12-17T12:37:34.503+01:00
+https://orkg.org/property/P7001,P7001,wha,,2019-12-18T10:51:04.215+01:00
+https://orkg.org/property/P2004,P2004,Worst complexity,,2019-01-06T15:04:07.692Z
+https://orkg.org/property/P1,P1,yields,The techniques and methods used in this comparison.,2019-01-06T15:04:07.692Z

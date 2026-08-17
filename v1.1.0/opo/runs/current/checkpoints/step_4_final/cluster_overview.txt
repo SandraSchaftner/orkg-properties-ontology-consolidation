@@ -1,0 +1,9782 @@
+CLUSTER REPORT - Generated at 2026-08-15 17:38:36.839562
+============================================================
+
+=== CLUSTER 0 (Size: 1) ===
+- ontology design pattern
+
+=== CLUSTER 2210 (Size: 1) ===
+- prompting
+
+=== CLUSTER 2200 (Size: 1) ===
+- benefit magnitude
+
+=== CLUSTER 2201 (Size: 1) ===
+- Average MAcc
+
+=== CLUSTER 2202 (Size: 1) ===
+- Average Margin of Error - AME
+
+=== CLUSTER 2203 (Size: 1) ===
+- average number of answer
+
+=== CLUSTER 2204 (Size: 1) ===
+- Properties hierarchy
+
+=== CLUSTER 2205 (Size: 1) ===
+- access control concept
+
+=== CLUSTER 2206 (Size: 1) ===
+- average number of constraint
+
+=== CLUSTER 2207 (Size: 1) ===
+- Project duration
+
+=== CLUSTER 2208 (Size: 1) ===
+- Project language
+
+=== CLUSTER 2209 (Size: 1) ===
+- PROM
+
+=== CLUSTER 2211 (Size: 1) ===
+- belongs to Smart City Dimension
+
+=== CLUSTER 2223 (Size: 1) ===
+- base editor type
+
+=== CLUSTER 2212 (Size: 1) ===
+- Propagation Tress Size
+
+=== CLUSTER 2213 (Size: 1) ===
+- type of personnel
+
+=== CLUSTER 2214 (Size: 1) ===
+- propagation_pattern
+
+=== CLUSTER 2215 (Size: 1) ===
+- pseudo code metadata
+
+=== CLUSTER 2216 (Size: 1) ===
+- realizesMethod
+
+=== CLUSTER 2217 (Size: 1) ===
+- Average retweet per story
+
+=== CLUSTER 2218 (Size: 1) ===
+- pseudo label source
+
+=== CLUSTER 2219 (Size: 1) ===
+- read length
+
+=== CLUSTER 2220 (Size: 1) ===
+- Type of Theory
+
+=== CLUSTER 2221 (Size: 1) ===
+- Quad Table
+
+=== CLUSTER 2199 (Size: 1) ===
+- Productivity
+
+=== CLUSTER 2198 (Size: 1) ===
+- receives therapy
+
+=== CLUSTER 2197 (Size: 1) ===
+- production system
+
+=== CLUSTER 2196 (Size: 1) ===
+- reconstruction family
+
+=== CLUSTER 2175 (Size: 1) ===
+- Property table
+
+=== CLUSTER 2176 (Size: 1) ===
+- propertySource
+
+=== CLUSTER 2177 (Size: 1) ===
+- Proxy
+
+=== CLUSTER 2178 (Size: 1) ===
+- proposes theoretical pathway
+
+=== CLUSTER 2179 (Size: 1) ===
+- read type
+
+=== CLUSTER 2180 (Size: 1) ===
+- user_journey
+
+=== CLUSTER 2181 (Size: 1) ===
+- battery type
+
+=== CLUSTER 2182 (Size: 1) ===
+- user_counting_metric
+
+=== CLUSTER 2183 (Size: 1) ===
+- reagent
+
+=== CLUSTER 2184 (Size: 1) ===
+- protocol type
+
+=== CLUSTER 2185 (Size: 1) ===
+- Used Standalone?
+
+=== CLUSTER 2186 (Size: 1) ===
+- provides UI
+
+=== CLUSTER 2187 (Size: 1) ===
+- Abbreviated Source Title
+
+=== CLUSTER 2188 (Size: 1) ===
+- reads per run
+
+=== CLUSTER 2189 (Size: 1) ===
+- Avg Length
+
+=== CLUSTER 2190 (Size: 1) ===
+- Properties measured
+
+=== CLUSTER 2191 (Size: 1) ===
+- programmingEnvironment
+
+=== CLUSTER 2192 (Size: 1) ===
+- Best Paper Authors
+
+=== CLUSTER 2193 (Size: 1) ===
+- Best method
+
+=== CLUSTER 2194 (Size: 1) ===
+- record identifier
+
+=== CLUSTER 2195 (Size: 1) ===
+- reconstruction performance metrics
+
+=== CLUSTER 2222 (Size: 1) ===
+- Types of riks
+
+=== CLUSTER 2224 (Size: 1) ===
+- Qualifiers
+
+=== CLUSTER 2173 (Size: 1) ===
+- Belongs to material group
+
+=== CLUSTER 2261 (Size: 1) ===
+- Best_practices
+
+=== CLUSTER 2251 (Size: 1) ===
+- Used models
+
+=== CLUSTER 2252 (Size: 1) ===
+- Public availability
+
+=== CLUSTER 2253 (Size: 1) ===
+- public repository accession
+
+=== CLUSTER 2254 (Size: 1) ===
+- ablation study
+
+=== CLUSTER 2255 (Size: 1) ===
+- used dimensions for analysis
+
+=== CLUSTER 2256 (Size: 1) ===
+- Publication Stage
+
+=== CLUSTER 2257 (Size: 1) ===
+- Average sensibility
+
+=== CLUSTER 2258 (Size: 1) ===
+- BasisSet
+
+=== CLUSTER 2259 (Size: 1) ===
+- publishingPrinciples
+
+=== CLUSTER 2260 (Size: 1) ===
+- use case class
+
+=== CLUSTER 2262 (Size: 1) ===
+- usda link
+
+=== CLUSTER 2225 (Size: 1) ===
+- base editor details
+
+=== CLUSTER 2263 (Size: 1) ===
+- Pure/hybrid
+
+=== CLUSTER 2264 (Size: 1) ===
+- purgeDuration
+
+=== CLUSTER 2265 (Size: 1) ===
+- Re-annotation Method
+
+=== CLUSTER 2266 (Size: 1) ===
+- PurgingGas
+
+=== CLUSTER 2267 (Size: 1) ===
+- PyPI project
+
+=== CLUSTER 2268 (Size: 1) ===
+- type of rTMS
+
+=== CLUSTER 2269 (Size: 1) ===
+- usageInfo
+
+=== CLUSTER 2270 (Size: 1) ===
+- Q1 has Value
+
+=== CLUSTER 2271 (Size: 1) ===
+- Abundance 
+
+=== CLUSTER 2272 (Size: 1) ===
+- update parameters
+
+=== CLUSTER 2250 (Size: 1) ===
+- Uncertainty
+
+=== CLUSTER 2249 (Size: 1) ===
+- read configuration
+
+=== CLUSTER 2248 (Size: 1) ===
+- use MARC field
+
+=== CLUSTER 2247 (Size: 1) ===
+- RE task
+
+=== CLUSTER 2226 (Size: 1) ===
+- Unit of deception
+
+=== CLUSTER 2227 (Size: 1) ===
+- Band
+
+=== CLUSTER 2228 (Size: 1) ===
+- Unique Successes
+
+=== CLUSTER 2229 (Size: 1) ===
+- Typical prefix
+
+=== CLUSTER 2230 (Size: 1) ===
+- Backpropagation
+
+=== CLUSTER 2231 (Size: 1) ===
+- Backend
+
+=== CLUSTER 2232 (Size: 1) ===
+- uav
+
+=== CLUSTER 2233 (Size: 1) ===
+- query set
+
+=== CLUSTER 2234 (Size: 1) ===
+- RDoC construct
+
+=== CLUSTER 2235 (Size: 1) ===
+- axioms count
+
+=== CLUSTER 2236 (Size: 1) ===
+- R Packages
+
+=== CLUSTER 2237 (Size: 1) ===
+- Avg. size of itemsets
+
+=== CLUSTER 2238 (Size: 1) ===
+- RDM tool
+
+=== CLUSTER 2239 (Size: 1) ===
+- Radial Basis Function
+
+=== CLUSTER 2240 (Size: 1) ===
+- Radiation scheme
+
+=== CLUSTER 2241 (Size: 1) ===
+- Raman laser used
+
+=== CLUSTER 2242 (Size: 1) ===
+- RDF dump
+
+=== CLUSTER 2243 (Size: 1) ===
+- RDBM name
+
+=== CLUSTER 2244 (Size: 1) ===
+- accelerometer
+
+=== CLUSTER 2245 (Size: 1) ===
+- Average time length per event (in hours)
+
+=== CLUSTER 2246 (Size: 1) ===
+- QoS
+
+=== CLUSTER 2174 (Size: 1) ===
+- Real locations
+
+=== CLUSTER 2172 (Size: 1) ===
+- Type of Polymerization
+
+=== CLUSTER 2274 (Size: 1) ===
+- Primary Tool 
+
+=== CLUSTER 2108 (Size: 1) ===
+- fmri
+
+=== CLUSTER 2098 (Size: 1) ===
+- F1-Score (Unrelated)
+
+=== CLUSTER 2099 (Size: 1) ===
+- Accuracy (Unrelated)
+
+=== CLUSTER 2100 (Size: 1) ===
+- General rules
+
+=== CLUSTER 2101 (Size: 1) ===
+- General outcomes
+
+=== CLUSTER 2102 (Size: 1) ===
+- covered scripts
+
+=== CLUSTER 2103 (Size: 1) ===
+- focal length
+
+=== CLUSTER 2104 (Size: 1) ===
+- f number
+
+=== CLUSTER 2105 (Size: 1) ===
+- GeneSymbol
+
+=== CLUSTER 2106 (Size: 1) ===
+- GeneID
+
+=== CLUSTER 2107 (Size: 1) ===
+- neuroimaging
+
+=== CLUSTER 2109 (Size: 1) ===
+- Entries type
+
+=== CLUSTER 2121 (Size: 1) ===
+- Film deposition method
+
+=== CLUSTER 2110 (Size: 1) ===
+- has typical computation hardware
+
+=== CLUSTER 2111 (Size: 1) ===
+- has computational requirements
+
+=== CLUSTER 2112 (Size: 1) ===
+- quantum efficiency
+
+=== CLUSTER 2113 (Size: 1) ===
+- gender
+
+=== CLUSTER 2114 (Size: 1) ===
+- Has concentration
+
+=== CLUSTER 2115 (Size: 1) ===
+- external dataset
+
+=== CLUSTER 2116 (Size: 1) ===
+- Accuracy (Disagree)
+
+=== CLUSTER 2117 (Size: 1) ===
+- additionality
+
+=== CLUSTER 2118 (Size: 1) ===
+-  Film structure
+
+=== CLUSTER 2119 (Size: 1) ===
+- Film orientation
+
+=== CLUSTER 2097 (Size: 1) ===
+- Adapter
+
+=== CLUSTER 2096 (Size: 1) ===
+- fabrication method
+
+=== CLUSTER 2095 (Size: 1) ===
+- # schema.org class
+
+=== CLUSTER 2094 (Size: 1) ===
+- # Schema.org property
+
+=== CLUSTER 2073 (Size: 1) ===
+- coordination mechanism
+
+=== CLUSTER 2074 (Size: 1) ===
+- batch id
+
+=== CLUSTER 2075 (Size: 1) ===
+- Core components
+
+=== CLUSTER 2076 (Size: 1) ===
+- Core approach 
+
+=== CLUSTER 2077 (Size: 1) ===
+- type of corpus research
+
+=== CLUSTER 2078 (Size: 1) ===
+- Cost per impression Mile (CPM)
+
+=== CLUSTER 2079 (Size: 1) ===
+- Cost per Action (CPA)
+
+=== CLUSTER 2080 (Size: 1) ===
+- Has example
+
+=== CLUSTER 2081 (Size: 1) ===
+- thermal stability
+
+=== CLUSTER 2082 (Size: 1) ===
+- chemical stability
+
+=== CLUSTER 2083 (Size: 1) ===
+- forecast horizon
+
+=== CLUSTER 2084 (Size: 1) ===
+- accountablePerson
+
+=== CLUSTER 2085 (Size: 1) ===
+- users
+
+=== CLUSTER 2086 (Size: 1) ===
+- Faithfulness
+
+=== CLUSTER 2087 (Size: 1) ===
+- Actuation Method
+
+=== CLUSTER 2088 (Size: 1) ===
+- Activation method
+
+=== CLUSTER 2089 (Size: 1) ===
+- self learning
+
+=== CLUSTER 2090 (Size: 1) ===
+- active learning
+
+=== CLUSTER 2091 (Size: 1) ===
+- facetPreference
+
+=== CLUSTER 2092 (Size: 1) ===
+- Factuality
+
+=== CLUSTER 2093 (Size: 1) ===
+- Actuality
+
+=== CLUSTER 2120 (Size: 1) ===
+- family name
+
+=== CLUSTER 2122 (Size: 1) ===
+- Ideality factor
+
+=== CLUSTER 2171 (Size: 1) ===
+- focuses on
+
+=== CLUSTER 2159 (Size: 1) ===
+- food class
+
+=== CLUSTER 2149 (Size: 1) ===
+- Measured agreement
+
+=== CLUSTER 2150 (Size: 1) ===
+- action
+
+=== CLUSTER 2151 (Size: 1) ===
+- gain
+
+=== CLUSTER 2152 (Size: 1) ===
+- Export format
+
+=== CLUSTER 2153 (Size: 1) ===
+- uses detection instrument
+
+=== CLUSTER 2154 (Size: 1) ===
+- Experimental Design
+
+=== CLUSTER 2155 (Size: 1) ===
+- package
+
+=== CLUSTER 2156 (Size: 1) ===
+- function
+
+=== CLUSTER 2157 (Size: 1) ===
+- Experimental provenance
+
+=== CLUSTER 2158 (Size: 1) ===
+- food group source
+
+=== CLUSTER 2160 (Size: 1) ===
+- native language
+
+=== CLUSTER 2123 (Size: 1) ===
+- figure of merit
+
+=== CLUSTER 2161 (Size: 1) ===
+- adopted language
+
+=== CLUSTER 2162 (Size: 1) ===
+- has Data Source
+
+=== CLUSTER 2163 (Size: 1) ===
+- experimental unit
+
+=== CLUSTER 2164 (Size: 1) ===
+- Fowlkes–Mallows index (FMI)
+
+=== CLUSTER 2165 (Size: 1) ===
+- Adjusted random index (ARI)
+
+=== CLUSTER 2166 (Size: 1) ===
+- weight decay
+
+=== CLUSTER 2167 (Size: 1) ===
+- Explainability
+
+=== CLUSTER 2168 (Size: 1) ===
+- Existence
+
+=== CLUSTER 2169 (Size: 1) ===
+- mode
+
+=== CLUSTER 2170 (Size: 1) ===
+- fragmentation method
+
+=== CLUSTER 2148 (Size: 1) ===
+- Has aerosol model scheme
+
+=== CLUSTER 2147 (Size: 1) ===
+- meta model
+
+=== CLUSTER 2146 (Size: 1) ===
+- geometrical feature
+
+=== CLUSTER 2145 (Size: 1) ===
+- topology features
+
+=== CLUSTER 2124 (Size: 1) ===
+- has  result-precison
+
+=== CLUSTER 2125 (Size: 1) ===
+- guidance
+
+=== CLUSTER 2126 (Size: 1) ===
+- spelling
+
+=== CLUSTER 2127 (Size: 1) ===
+- Grammar
+
+=== CLUSTER 2128 (Size: 1) ===
+- Guideline
+
+=== CLUSTER 2129 (Size: 1) ===
+- DesignPattern
+
+=== CLUSTER 2130 (Size: 1) ===
+- feedback_mechanism
+
+=== CLUSTER 2131 (Size: 1) ===
+- field of view
+
+=== CLUSTER 2132 (Size: 1) ===
+- 5th percentile
+
+=== CLUSTER 2133 (Size: 1) ===
+- Figure
+
+=== CLUSTER 2134 (Size: 1) ===
+- gradient clipping
+
+=== CLUSTER 2135 (Size: 1) ===
+- Github
+
+=== CLUSTER 2136 (Size: 1) ===
+- filler
+
+=== CLUSTER 2137 (Size: 1) ===
+- Hardware configuration
+
+=== CLUSTER 2138 (Size: 1) ===
+- harvest location
+
+=== CLUSTER 2139 (Size: 1) ===
+- improvement suggestion
+
+=== CLUSTER 2140 (Size: 1) ===
+- Period
+
+=== CLUSTER 2141 (Size: 1) ===
+- has  start of period
+
+=== CLUSTER 2142 (Size: 1) ===
+- has SARS-CoV-2 reference genome 
+
+=== CLUSTER 2143 (Size: 1) ===
+- GISAID URL
+
+=== CLUSTER 2144 (Size: 1) ===
+- Stage
+
+=== CLUSTER 2273 (Size: 1) ===
+- University
+
+=== CLUSTER 2275 (Size: 1) ===
+- BEV
+
+=== CLUSTER 2478 (Size: 1) ===
+- Symptoms/parameters measured 
+
+=== CLUSTER 2414 (Size: 1) ===
+- starting material
+
+=== CLUSTER 2404 (Size: 1) ===
+- Specification Languages
+
+=== CLUSTER 2405 (Size: 1) ===
+- Spectral Mapping Technique
+
+=== CLUSTER 2406 (Size: 1) ===
+- Spectroscopy_property
+
+=== CLUSTER 2407 (Size: 1) ===
+- speed
+
+=== CLUSTER 2408 (Size: 1) ===
+- actor
+
+=== CLUSTER 2409 (Size: 1) ===
+- ssim
+
+=== CLUSTER 2410 (Size: 1) ===
+- thermal cycling conditions
+
+=== CLUSTER 2411 (Size: 1) ===
+- stability test duration
+
+=== CLUSTER 2412 (Size: 1) ===
+- Annotation level
+
+=== CLUSTER 2413 (Size: 1) ===
+- Standard drugs used
+
+=== CLUSTER 2415 (Size: 1) ===
+- State space model
+
+=== CLUSTER 2427 (Size: 1) ===
+- Themes
+
+=== CLUSTER 2416 (Size: 1) ===
+- Animal model
+
+=== CLUSTER 2417 (Size: 1) ===
+- stericBlocking
+
+=== CLUSTER 2418 (Size: 1) ===
+- stickingCoefficient
+
+=== CLUSTER 2419 (Size: 1) ===
+- Theoretical guarantees
+
+=== CLUSTER 2420 (Size: 1) ===
+- stochastic depth
+
+=== CLUSTER 2421 (Size: 1) ===
+- Analyzed for features
+
+=== CLUSTER 2422 (Size: 1) ===
+- storage conditions
+
+=== CLUSTER 2423 (Size: 1) ===
+- analytical solvability
+
+=== CLUSTER 2424 (Size: 1) ===
+- Strain name
+
+=== CLUSTER 2425 (Size: 1) ===
+- strand specific method
+
+=== CLUSTER 2403 (Size: 1) ===
+- specific surface area
+
+=== CLUSTER 2402 (Size: 1) ===
+- Recurrence
+
+=== CLUSTER 2401 (Size: 1) ===
+- Template of predicate
+
+=== CLUSTER 2400 (Size: 1) ===
+- Recruitment
+
+=== CLUSTER 2379 (Size: 1) ===
+- bytes transferred
+
+=== CLUSTER 2380 (Size: 1) ===
+- # round
+
+=== CLUSTER 2381 (Size: 1) ===
+- polarity facet
+
+=== CLUSTER 2382 (Size: 1) ===
+- Vis. Types
+
+=== CLUSTER 2383 (Size: 1) ===
+- viability
+
+=== CLUSTER 2384 (Size: 1) ===
+- Vertical Partitioning
+
+=== CLUSTER 2385 (Size: 1) ===
+- Versioning approach
+
+=== CLUSTER 2386 (Size: 1) ===
+- policy recommendations
+
+=== CLUSTER 2387 (Size: 1) ===
+- verification
+
+=== CLUSTER 2388 (Size: 1) ===
+- Policy Strategy
+
+=== CLUSTER 2389 (Size: 1) ===
+- Poly dispercity index (PDI)
+
+=== CLUSTER 2390 (Size: 1) ===
+- build instructions
+
+=== CLUSTER 2391 (Size: 1) ===
+- Popular methods
+
+=== CLUSTER 2392 (Size: 1) ===
+- Population/Procedure, Sample size
+
+=== CLUSTER 2393 (Size: 1) ===
+- portability 
+
+=== CLUSTER 2394 (Size: 1) ===
+- POS Tags
+
+=== CLUSTER 2395 (Size: 1) ===
+- budget
+
+=== CLUSTER 2396 (Size: 1) ===
+- post-study_insights
+
+=== CLUSTER 2397 (Size: 1) ===
+- bonding type
+
+=== CLUSTER 2398 (Size: 1) ===
+- PPV
+
+=== CLUSTER 2399 (Size: 1) ===
+- body_part
+
+=== CLUSTER 2426 (Size: 1) ===
+- Strategy
+
+=== CLUSTER 2428 (Size: 1) ===
+- Stress type
+
+=== CLUSTER 2377 (Size: 1) ===
+- playability
+
+=== CLUSTER 2465 (Size: 1) ===
+- SPARQL compability
+
+=== CLUSTER 2455 (Size: 1) ===
+- software_adaptability
+
+=== CLUSTER 2456 (Size: 1) ===
+- Timeline
+
+=== CLUSTER 2457 (Size: 1) ===
+- Solution - Closed-form
+
+=== CLUSTER 2458 (Size: 1) ===
+- source of AIS data
+
+=== CLUSTER 2459 (Size: 1) ===
+- Time since restoration
+
+=== CLUSTER 2460 (Size: 1) ===
+- source of ion
+
+=== CLUSTER 2461 (Size: 1) ===
+- Time Complexity Analysis
+
+=== CLUSTER 2462 (Size: 1) ===
+- TicknessControl
+
+=== CLUSTER 2463 (Size: 1) ===
+- spaceGroup
+
+=== CLUSTER 2464 (Size: 1) ===
+- spacing
+
+=== CLUSTER 2466 (Size: 1) ===
+- Studied models
+
+=== CLUSTER 2429 (Size: 1) ===
+- StringencyIndex
+
+=== CLUSTER 2467 (Size: 1) ===
+- Studied Picking System
+
+=== CLUSTER 2468 (Size: 1) ===
+- Text encoder
+
+=== CLUSTER 2469 (Size: 1) ===
+- Additional Training Techniques
+
+=== CLUSTER 2470 (Size: 1) ===
+- Surface functionalized with
+
+=== CLUSTER 2471 (Size: 1) ===
+- Alg. Complexity
+
+=== CLUSTER 2472 (Size: 1) ===
+- surfaceOrientation
+
+=== CLUSTER 2473 (Size: 1) ===
+- Surgical procedure
+
+=== CLUSTER 2474 (Size: 1) ===
+- surprise_factor
+
+=== CLUSTER 2475 (Size: 1) ===
+- Sustainability Sub-Index
+
+=== CLUSTER 2476 (Size: 1) ===
+- sweep
+
+=== CLUSTER 2454 (Size: 1) ===
+- annual energy produced
+
+=== CLUSTER 2453 (Size: 1) ===
+- Software platform
+
+=== CLUSTER 2452 (Size: 1) ===
+- Software features
+
+=== CLUSTER 2451 (Size: 1) ===
+- Software entity types
+
+=== CLUSTER 2430 (Size: 1) ===
+- thematic analysis
+
+=== CLUSTER 2431 (Size: 1) ===
+- Structured data
+
+=== CLUSTER 2432 (Size: 1) ===
+- textural properties
+
+=== CLUSTER 2433 (Size: 1) ===
+- Specific traits
+
+=== CLUSTER 2434 (Size: 1) ===
+- Annotation theme
+
+=== CLUSTER 2435 (Size: 1) ===
+- ship database
+
+=== CLUSTER 2436 (Size: 1) ===
+- Speaking measure
+
+=== CLUSTER 2437 (Size: 1) ===
+- antimicrobial class
+
+=== CLUSTER 2438 (Size: 1) ===
+- signing type
+
+=== CLUSTER 2439 (Size: 1) ===
+- similar tools
+
+=== CLUSTER 2440 (Size: 1) ===
+- SimulationParameters
+
+=== CLUSTER 2441 (Size: 1) ===
+- Site selection
+
+=== CLUSTER 2442 (Size: 1) ===
+- Size of Position Embeddings
+
+=== CLUSTER 2443 (Size: 1) ===
+- size of reference scenario
+
+=== CLUSTER 2444 (Size: 1) ===
+- size selection method
+
+=== CLUSTER 2445 (Size: 1) ===
+- Skin model
+
+=== CLUSTER 2446 (Size: 1) ===
+- slide-to-roll-ratio
+
+=== CLUSTER 2447 (Size: 1) ===
+- Anthropometric indicator
+
+=== CLUSTER 2448 (Size: 1) ===
+- Social project
+
+=== CLUSTER 2449 (Size: 1) ===
+- social_metrics
+
+=== CLUSTER 2450 (Size: 1) ===
+- to jointly model
+
+=== CLUSTER 2378 (Size: 1) ===
+- PLD: Measurement-level characteristics
+
+=== CLUSTER 2376 (Size: 1) ===
+- Planting design
+
+=== CLUSTER 2276 (Size: 1) ===
+- carrierGasType
+
+=== CLUSTER 2312 (Size: 1) ===
+- yearly change
+
+=== CLUSTER 2302 (Size: 1) ===
+- calcium deposition method
+
+=== CLUSTER 2303 (Size: 1) ===
+- Physical space size
+
+=== CLUSTER 2304 (Size: 1) ===
+- physics model
+
+=== CLUSTER 2305 (Size: 1) ===
+- Categorical Facets
+
+=== CLUSTER 2306 (Size: 1) ===
+- wiki
+
+=== CLUSTER 2307 (Size: 1) ===
+- process metadata
+
+=== CLUSTER 2308 (Size: 1) ===
+- Certainty
+
+=== CLUSTER 2309 (Size: 1) ===
+- Overhead
+
+=== CLUSTER 2310 (Size: 1) ===
+- overlay topology
+
+=== CLUSTER 2311 (Size: 1) ===
+- Overpotential
+
+=== CLUSTER 2313 (Size: 1) ===
+- chemical doping method
+
+=== CLUSTER 2325 (Size: 1) ===
+- paper:scientific_relation
+
+=== CLUSTER 2314 (Size: 1) ===
+- year range of papers
+
+=== CLUSTER 2315 (Size: 1) ===
+- year of the photography taken
+
+=== CLUSTER 2316 (Size: 1) ===
+- oxidantType
+
+=== CLUSTER 2317 (Size: 1) ===
+- workstations
+
+=== CLUSTER 2318 (Size: 1) ===
+- channels
+
+=== CLUSTER 2319 (Size: 1) ===
+- Workshop type
+
+=== CLUSTER 2320 (Size: 1) ===
+- Chain of Resp.
+
+=== CLUSTER 2321 (Size: 1) ===
+- paper eligibility criteria
+
+=== CLUSTER 2322 (Size: 1) ===
+- centralization
+
+=== CLUSTER 2323 (Size: 1) ===
+- Patents
+
+=== CLUSTER 2301 (Size: 1) ===
+- Phylum (Biology)
+
+=== CLUSTER 2300 (Size: 1) ===
+- VR scenes used/developed
+
+=== CLUSTER 2299 (Size: 1) ===
+- photography type
+
+=== CLUSTER 2298 (Size: 1) ===
+- Photocatalyst
+
+=== CLUSTER 2277 (Size: 1) ===
+- Case study/Simulations
+
+=== CLUSTER 2278 (Size: 1) ===
+- Cascaded method
+
+=== CLUSTER 2279 (Size: 1) ===
+- payability
+
+=== CLUSTER 2280 (Size: 1) ===
+- Payment Scheme
+
+=== CLUSTER 2281 (Size: 1) ===
+- pdf-version
+
+=== CLUSTER 2282 (Size: 1) ===
+- peer_review_status
+
+=== CLUSTER 2283 (Size: 1) ===
+- Web interface
+
+=== CLUSTER 2284 (Size: 1) ===
+- Penetration technique
+
+=== CLUSTER 2285 (Size: 1) ===
+- weather/climate dataset used
+
+=== CLUSTER 2286 (Size: 1) ===
+- Per-Task Results
+
+=== CLUSTER 2287 (Size: 1) ===
+- perceived_utility
+
+=== CLUSTER 2288 (Size: 1) ===
+- wash conditions
+
+=== CLUSTER 2289 (Size: 1) ===
+- Percentage of total cases
+
+=== CLUSTER 2290 (Size: 1) ===
+- camera setup
+
+=== CLUSTER 2291 (Size: 1) ===
+- Weight Initialization
+
+=== CLUSTER 2292 (Size: 1) ===
+- period of damage
+
+=== CLUSTER 2293 (Size: 1) ===
+- Person
+
+=== CLUSTER 2294 (Size: 1) ===
+- pH level method
+
+=== CLUSTER 2295 (Size: 1) ===
+- pharmacological parameters
+
+=== CLUSTER 2296 (Size: 1) ===
+- warnings rate
+
+=== CLUSTER 2297 (Size: 1) ===
+- phishing attack type
+
+=== CLUSTER 2324 (Size: 1) ===
+- paper:results_relative_to_baseline
+
+=== CLUSTER 2326 (Size: 1) ===
+- cell source
+
+=== CLUSTER 2375 (Size: 1) ===
+- plant material
+
+=== CLUSTER 2363 (Size: 1) ===
+- 2nd Dataset url
+
+=== CLUSTER 2353 (Size: 1) ===
+- Primary Domain Focus
+
+=== CLUSTER 2354 (Size: 1) ===
+-  Rectification ratio (RR) 
+
+=== CLUSTER 2355 (Size: 1) ===
+- Place metadata
+
+=== CLUSTER 2356 (Size: 1) ===
+- Biodiversity: Survey Method
+
+=== CLUSTER 2357 (Size: 1) ===
+- Uses visualization grammar
+
+=== CLUSTER 2358 (Size: 1) ===
+- priming_technique
+
+=== CLUSTER 2359 (Size: 1) ===
+- Principal producing strain
+
+=== CLUSTER 2360 (Size: 1) ===
+- Prinicpal component Analysis
+
+=== CLUSTER 2361 (Size: 1) ===
+- prior_experience
+
+=== CLUSTER 2362 (Size: 1) ===
+- privacy_dimension
+
+=== CLUSTER 2364 (Size: 1) ===
+- Uses Lipid 
+
+=== CLUSTER 2327 (Size: 1) ===
+- Workload taxonomy
+
+=== CLUSTER 2365 (Size: 1) ===
+- uses identifier system
+
+=== CLUSTER 2366 (Size: 1) ===
+- Procedural changes
+
+=== CLUSTER 2367 (Size: 1) ===
+- Procedure
+
+=== CLUSTER 2368 (Size: 1) ===
+- Process indicator
+
+=== CLUSTER 2369 (Size: 1) ===
+- Pre/Post-conditions
+
+=== CLUSTER 2370 (Size: 1) ===
+- #Tasks Trained
+
+=== CLUSTER 2371 (Size: 1) ===
+- Variational Scope
+
+=== CLUSTER 2372 (Size: 1) ===
+- vector
+
+=== CLUSTER 2373 (Size: 1) ===
+- byteSize
+
+=== CLUSTER 2374 (Size: 1) ===
+- Plane
+
+=== CLUSTER 2352 (Size: 1) ===
+- usesExogenousTimeSeries
+
+=== CLUSTER 2351 (Size: 1) ===
+- Primary Advantages
+
+=== CLUSTER 2350 (Size: 1) ===
+- Price Deflator Used
+
+=== CLUSTER 2349 (Size: 1) ===
+- biological source material
+
+=== CLUSTER 2328 (Size: 1) ===
+- Parameter estimation method
+
+=== CLUSTER 2329 (Size: 1) ===
+- Paraphrases
+
+=== CLUSTER 2330 (Size: 1) ===
+- Working fluid
+
+=== CLUSTER 2331 (Size: 1) ===
+- Wikimedia import URL
+
+=== CLUSTER 2332 (Size: 1) ===
+- Participant: University
+
+=== CLUSTER 2333 (Size: 1) ===
+- CCS concepts
+
+=== CLUSTER 2334 (Size: 1) ===
+- Participating systems
+
+=== CLUSTER 2335 (Size: 1) ===
+- pass or fail
+
+=== CLUSTER 2336 (Size: 1) ===
+- passivation material
+
+=== CLUSTER 2337 (Size: 1) ===
+- Physiological status
+
+=== CLUSTER 2338 (Size: 1) ===
+- Piezoelectric coefficient measured
+
+=== CLUSTER 2339 (Size: 1) ===
+- voxel spacing
+
+=== CLUSTER 2340 (Size: 1) ===
+- Biography
+
+=== CLUSTER 2341 (Size: 1) ===
+- Validation comment
+
+=== CLUSTER 2342 (Size: 1) ===
+- Predicates
+
+=== CLUSTER 2343 (Size: 1) ===
+- biometrics 
+
+=== CLUSTER 2344 (Size: 1) ===
+- predisposes
+
+=== CLUSTER 2345 (Size: 1) ===
+- biomarkers
+
+=== CLUSTER 2346 (Size: 1) ===
+- preserves
+
+=== CLUSTER 2347 (Size: 1) ===
+- pressure range
+
+=== CLUSTER 2348 (Size: 1) ===
+- Pretraining compute [PetaFLOPs-days]
+
+=== CLUSTER 2072 (Size: 1) ===
+- coordinator
+
+=== CLUSTER 2071 (Size: 1) ===
+- coordinate location
+
+=== CLUSTER 2070 (Size: 1) ===
+- convolutional layers
+
+=== CLUSTER 1802 (Size: 1) ===
+- Open source
+
+=== CLUSTER 1792 (Size: 1) ===
+- Output Representation
+
+=== CLUSTER 1793 (Size: 1) ===
+- Output artifact
+
+=== CLUSTER 1794 (Size: 1) ===
+- Target variable
+
+=== CLUSTER 1795 (Size: 1) ===
+- Template
+
+=== CLUSTER 1796 (Size: 1) ===
+- Original Dataset
+
+=== CLUSTER 1797 (Size: 1) ===
+- original_article
+
+=== CLUSTER 1798 (Size: 1) ===
+- origin
+
+=== CLUSTER 1799 (Size: 1) ===
+- required input
+
+=== CLUSTER 1800 (Size: 1) ===
+- optional input
+
+=== CLUSTER 1801 (Size: 1) ===
+- operatingSystem
+
+=== CLUSTER 1803 (Size: 1) ===
+- Instance Of Template
+
+=== CLUSTER 1815 (Size: 1) ===
+- perceptual_metrics
+
+=== CLUSTER 1804 (Size: 1) ===
+- paper:external_ontology_support
+
+=== CLUSTER 1805 (Size: 1) ===
+- Ontology Extension Rationale
+
+=== CLUSTER 1806 (Size: 1) ===
+- indexing
+
+=== CLUSTER 1807 (Size: 1) ===
+- improves
+
+=== CLUSTER 1808 (Size: 1) ===
+- pixel size
+
+=== CLUSTER 1809 (Size: 1) ===
+- Indicator
+
+=== CLUSTER 1810 (Size: 1) ===
+- Physical parameter
+
+=== CLUSTER 1811 (Size: 1) ===
+- hidden size
+
+=== CLUSTER 1812 (Size: 1) ===
+- Highlights
+
+=== CLUSTER 1813 (Size: 1) ===
+- years of data
+
+=== CLUSTER 1791 (Size: 1) ===
+- innovation
+
+=== CLUSTER 1790 (Size: 1) ===
+- initial legal status
+
+=== CLUSTER 1789 (Size: 1) ===
+- legal outcome
+
+=== CLUSTER 1788 (Size: 1) ===
+- infrastructure
+
+=== CLUSTER 1767 (Size: 1) ===
+- no of transformer blocks
+
+=== CLUSTER 1768 (Size: 1) ===
+- trend
+
+=== CLUSTER 1769 (Size: 1) ===
+- process name
+
+=== CLUSTER 1770 (Size: 1) ===
+- probe type
+
+=== CLUSTER 1771 (Size: 1) ===
+- model has time complexity
+
+=== CLUSTER 1772 (Size: 1) ===
+- has typical computation time
+
+=== CLUSTER 1773 (Size: 1) ===
+- has URI
+
+=== CLUSTER 1774 (Size: 1) ===
+- primer type
+
+=== CLUSTER 1775 (Size: 1) ===
+- prime editor type
+
+=== CLUSTER 1776 (Size: 1) ===
+- pmt type
+
+=== CLUSTER 1777 (Size: 1) ===
+- pmt id
+
+=== CLUSTER 1778 (Size: 1) ===
+- PubMed ID
+
+=== CLUSTER 1779 (Size: 1) ===
+- placeholder
+
+=== CLUSTER 1780 (Size: 1) ===
+- placed in
+
+=== CLUSTER 1781 (Size: 1) ===
+- incentive system
+
+=== CLUSTER 1782 (Size: 1) ===
+- Quality Indicators
+
+=== CLUSTER 1783 (Size: 1) ===
+- inference engine
+
+=== CLUSTER 1784 (Size: 1) ===
+- overall satisfaction
+
+=== CLUSTER 1785 (Size: 1) ===
+- modeling language
+
+=== CLUSTER 1786 (Size: 1) ===
+- information modelling methodology
+
+=== CLUSTER 1787 (Size: 1) ===
+- information_type
+
+=== CLUSTER 1814 (Size: 1) ===
+- psnr
+
+=== CLUSTER 1816 (Size: 1) ===
+- patient characteristics
+
+=== CLUSTER 1765 (Size: 1) ===
+- has transitions
+
+=== CLUSTER 1853 (Size: 1) ===
+- approximate precision
+
+=== CLUSTER 1843 (Size: 1) ===
+- area of expertise
+
+=== CLUSTER 1844 (Size: 1) ===
+- Method developed
+
+=== CLUSTER 1845 (Size: 1) ===
+- developer
+
+=== CLUSTER 1846 (Size: 1) ===
+- Area
+
+=== CLUSTER 1847 (Size: 1) ===
+- archival signature
+
+=== CLUSTER 1848 (Size: 1) ===
+- research artifact
+
+=== CLUSTER 1849 (Size: 1) ===
+- artifact index
+
+=== CLUSTER 1850 (Size: 1) ===
+- radius
+
+=== CLUSTER 1851 (Size: 1) ===
+- diameter
+
+=== CLUSTER 1852 (Size: 1) ===
+- recall CTA
+
+=== CLUSTER 1854 (Size: 1) ===
+- Conference date
+
+=== CLUSTER 1817 (Size: 1) ===
+- Host material
+
+=== CLUSTER 1855 (Size: 1) ===
+- Appointment Date
+
+=== CLUSTER 1856 (Size: 1) ===
+- dimension / has measurement value
+
+=== CLUSTER 1857 (Size: 1) ===
+- indirect_property
+
+=== CLUSTER 1858 (Size: 1) ===
+- direct_property
+
+=== CLUSTER 1859 (Size: 1) ===
+- directly negatively regulates quantity of
+
+=== CLUSTER 1860 (Size: 1) ===
+- Disassembly line type
+
+=== CLUSTER 1861 (Size: 1) ===
+- Application Pattern
+
+=== CLUSTER 1862 (Size: 1) ===
+- derived data
+
+=== CLUSTER 1863 (Size: 1) ===
+- Dependency
+
+=== CLUSTER 1864 (Size: 1) ===
+- affordance_description
+
+=== CLUSTER 1842 (Size: 1) ===
+- Principles
+
+=== CLUSTER 1841 (Size: 1) ===
+- hcd step
+
+=== CLUSTER 1840 (Size: 1) ===
+- article type
+
+=== CLUSTER 1839 (Size: 1) ===
+- discusses method
+
+=== CLUSTER 1818 (Size: 1) ===
+- purification method
+
+=== CLUSTER 1819 (Size: 1) ===
+- icon
+
+=== CLUSTER 1820 (Size: 1) ===
+- ICT components
+
+=== CLUSTER 1821 (Size: 1) ===
+- path_length
+
+=== CLUSTER 1822 (Size: 1) ===
+- path
+
+=== CLUSTER 1823 (Size: 1) ===
+- Illustrative Example
+
+=== CLUSTER 1824 (Size: 1) ===
+- image detection method
+
+=== CLUSTER 1825 (Size: 1) ===
+- label generation technique
+
+=== CLUSTER 1826 (Size: 1) ===
+- image generation technique
+
+=== CLUSTER 1827 (Size: 1) ===
+- image resolution
+
+=== CLUSTER 1828 (Size: 1) ===
+- image transformation strategy
+
+=== CLUSTER 1829 (Size: 1) ===
+- Parser 
+
+=== CLUSTER 1830 (Size: 1) ===
+- ReferenceCount
+
+=== CLUSTER 1831 (Size: 1) ===
+- vaccine name
+
+=== CLUSTER 1832 (Size: 1) ===
+- pandemic name
+
+=== CLUSTER 1833 (Size: 1) ===
+- throughput
+
+=== CLUSTER 1834 (Size: 1) ===
+- yield
+
+=== CLUSTER 1835 (Size: 1) ===
+- completeness
+
+=== CLUSTER 1836 (Size: 1) ===
+- recordedAt
+
+=== CLUSTER 1837 (Size: 1) ===
+- archivedAt
+
+=== CLUSTER 1838 (Size: 1) ===
+- described by source
+
+=== CLUSTER 1766 (Size: 1) ===
+- processing level
+
+=== CLUSTER 1764 (Size: 1) ===
+- has training set
+
+=== CLUSTER 2069 (Size: 1) ===
+- output layers
+
+=== CLUSTER 1700 (Size: 1) ===
+- Technical Experiment
+
+=== CLUSTER 1690 (Size: 1) ===
+- Has edges
+
+=== CLUSTER 1691 (Size: 1) ===
+- stoichiometry
+
+=== CLUSTER 1692 (Size: 1) ===
+- molar ratios
+
+=== CLUSTER 1693 (Size: 1) ===
+- workflow engine
+
+=== CLUSTER 1694 (Size: 1) ===
+- model workflow
+
+=== CLUSTER 1695 (Size: 1) ===
+- skewness
+
+=== CLUSTER 1696 (Size: 1) ===
+- kurtosis
+
+=== CLUSTER 1697 (Size: 1) ===
+- Model Prediction
+
+=== CLUSTER 1698 (Size: 1) ===
+- mixed_methods
+
+=== CLUSTER 1699 (Size: 1) ===
+- missing data handling
+
+=== CLUSTER 1701 (Size: 1) ===
+- Lab Experiment
+
+=== CLUSTER 1713 (Size: 1) ===
+- subcycleSequence
+
+=== CLUSTER 1702 (Size: 1) ===
+- micro-F1
+
+=== CLUSTER 1703 (Size: 1) ===
+- triangulation
+
+=== CLUSTER 1704 (Size: 1) ===
+- Method/Technique(s)/ Database
+
+=== CLUSTER 1705 (Size: 1) ===
+- Methodology maturity
+
+=== CLUSTER 1706 (Size: 1) ===
+- Metamodel maturity
+
+=== CLUSTER 1707 (Size: 1) ===
+- Metal used
+
+=== CLUSTER 1708 (Size: 1) ===
+- metal precursor
+
+=== CLUSTER 1709 (Size: 1) ===
+- lead to
+
+=== CLUSTER 1710 (Size: 1) ===
+- lemma
+
+=== CLUSTER 1711 (Size: 1) ===
+- Measurement Location
+
+=== CLUSTER 1689 (Size: 1) ===
+- Has nodes
+
+=== CLUSTER 1688 (Size: 1) ===
+- multi-method_approaches
+
+=== CLUSTER 1687 (Size: 1) ===
+- Multi-objective approach
+
+=== CLUSTER 1686 (Size: 1) ===
+- lesson learned
+
+=== CLUSTER 1665 (Size: 1) ===
+- Maturity Definition
+
+=== CLUSTER 1666 (Size: 1) ===
+- Literature Review
+
+=== CLUSTER 1667 (Size: 1) ===
+- Materials
+
+=== CLUSTER 1668 (Size: 1) ===
+- Material structure
+
+=== CLUSTER 1669 (Size: 1) ===
+- local_relevance
+
+=== CLUSTER 1670 (Size: 1) ===
+- Management system
+
+=== CLUSTER 1671 (Size: 1) ===
+- location of producer
+
+=== CLUSTER 1672 (Size: 1) ===
+- location of consumer
+
+=== CLUSTER 1673 (Size: 1) ===
+- major elements
+
+=== CLUSTER 1674 (Size: 1) ===
+- major classes
+
+=== CLUSTER 1675 (Size: 1) ===
+- maintainer
+
+=== CLUSTER 1676 (Size: 1) ===
+- Lubrication Regime
+
+=== CLUSTER 1677 (Size: 1) ===
+- MSA
+
+=== CLUSTER 1678 (Size: 1) ===
+- MAE
+
+=== CLUSTER 1679 (Size: 1) ===
+- male:female ratio
+
+=== CLUSTER 1680 (Size: 1) ===
+- Machine Learning Method
+
+=== CLUSTER 1681 (Size: 1) ===
+- Nature of Traceability
+
+=== CLUSTER 1682 (Size: 1) ===
+- Library Catalog
+
+=== CLUSTER 1683 (Size: 1) ===
+- Libraries
+
+=== CLUSTER 1684 (Size: 1) ===
+- Keynote Title
+
+=== CLUSTER 1685 (Size: 1) ===
+- Keynote Speaker
+
+=== CLUSTER 1712 (Size: 1) ===
+- length of time series
+
+=== CLUSTER 1714 (Size: 1) ===
+- numberofSubcycles
+
+=== CLUSTER 1763 (Size: 1) ===
+- has training type
+
+=== CLUSTER 1751 (Size: 1) ===
+- Has virus variant
+
+=== CLUSTER 1741 (Size: 1) ===
+- hasScientificThesis
+
+=== CLUSTER 1742 (Size: 1) ===
+- target class
+
+=== CLUSTER 1743 (Size: 1) ===
+- object title
+
+=== CLUSTER 1744 (Size: 1) ===
+- isTranslationOf
+
+=== CLUSTER 1745 (Size: 1) ===
+- hasTranslation
+
+=== CLUSTER 1746 (Size: 1) ===
+- Odds ratio (95% CI)
+
+=== CLUSTER 1747 (Size: 1) ===
+- hazard ratio
+
+=== CLUSTER 1748 (Size: 1) ===
+- pretraining corpus
+
+=== CLUSTER 1749 (Size: 1) ===
+- Secondary arguments
+
+=== CLUSTER 1750 (Size: 1) ===
+- Primary argument
+
+=== CLUSTER 1752 (Size: 1) ===
+- Secondary outcomes
+
+=== CLUSTER 1715 (Size: 1) ===
+- Offering
+
+=== CLUSTER 1753 (Size: 1) ===
+- Primary outcomes   
+
+=== CLUSTER 1754 (Size: 1) ===
+- Synonyms
+
+=== CLUSTER 1755 (Size: 1) ===
+- Pulse duration
+
+=== CLUSTER 1756 (Size: 1) ===
+- has tagged value
+
+=== CLUSTER 1757 (Size: 1) ===
+- publisherImprint
+
+=== CLUSTER 1758 (Size: 1) ===
+- Publisher
+
+=== CLUSTER 1759 (Size: 1) ===
+- show property
+
+=== CLUSTER 1760 (Size: 1) ===
+- Prospective/retrospective
+
+=== CLUSTER 1761 (Size: 1) ===
+- has temperature value
+
+=== CLUSTER 1762 (Size: 1) ===
+- proficiency level
+
+=== CLUSTER 1740 (Size: 1) ===
+- point anomaly AUC-ROC
+
+=== CLUSTER 1739 (Size: 1) ===
+- polarization measurement
+
+=== CLUSTER 1738 (Size: 1) ===
+- Polymer
+
+=== CLUSTER 1737 (Size: 1) ===
+- Polymer charachterisation
+
+=== CLUSTER 1716 (Size: 1) ===
+- symptoms
+
+=== CLUSTER 1717 (Size: 1) ===
+- power plant type
+
+=== CLUSTER 1718 (Size: 1) ===
+- power plant scale
+
+=== CLUSTER 1719 (Size: 1) ===
+- word feature
+
+=== CLUSTER 1720 (Size: 1) ===
+- preprint
+
+=== CLUSTER 1721 (Size: 1) ===
+- Projected Year
+
+=== CLUSTER 1722 (Size: 1) ===
+- has Xray string
+
+=== CLUSTER 1723 (Size: 1) ===
+- hasChild
+
+=== CLUSTER 1724 (Size: 1) ===
+- hasAncestor
+
+=== CLUSTER 1725 (Size: 1) ===
+- hasNephew
+
+=== CLUSTER 1726 (Size: 1) ===
+- hasBrother
+
+=== CLUSTER 1727 (Size: 1) ===
+- Precursor
+
+=== CLUSTER 1728 (Size: 1) ===
+- training configuration
+
+=== CLUSTER 1729 (Size: 1) ===
+- machine learning configuration
+
+=== CLUSTER 1730 (Size: 1) ===
+- Number of facts
+
+=== CLUSTER 1731 (Size: 1) ===
+- hasFactsAbout
+
+=== CLUSTER 1732 (Size: 1) ===
+- hasKind
+
+=== CLUSTER 1733 (Size: 1) ===
+- official website
+
+=== CLUSTER 1734 (Size: 1) ===
+- official name
+
+=== CLUSTER 1735 (Size: 1) ===
+- hasValidationSource
+
+=== CLUSTER 1736 (Size: 1) ===
+- hasLegalValidation
+
+=== CLUSTER 1865 (Size: 1) ===
+- deactivation mechanism
+
+=== CLUSTER 1866 (Size: 1) ===
+- Integrity Technique
+
+=== CLUSTER 1867 (Size: 1) ===
+- Authenticity Technique
+
+=== CLUSTER 2005 (Size: 1) ===
+- causes
+
+=== CLUSTER 1995 (Size: 1) ===
+- change_metric
+
+=== CLUSTER 1996 (Size: 1) ===
+- Education mode
+
+=== CLUSTER 1997 (Size: 1) ===
+- Class learning
+
+=== CLUSTER 1998 (Size: 1) ===
+- climate scenario
+
+=== CLUSTER 1999 (Size: 1) ===
+- cell structure
+
+=== CLUSTER 2000 (Size: 1) ===
+- cell origin
+
+=== CLUSTER 2001 (Size: 1) ===
+- co-culture
+
+=== CLUSTER 2002 (Size: 1) ===
+- cell culture type
+
+=== CLUSTER 2003 (Size: 1) ===
+- co-located with
+
+=== CLUSTER 2004 (Size: 1) ===
+- co2 capture technique
+
+=== CLUSTER 2006 (Size: 1) ===
+- definition domain
+
+=== CLUSTER 2018 (Size: 1) ===
+- binding affinity
+
+=== CLUSTER 2007 (Size: 1) ===
+- codomain
+
+=== CLUSTER 2008 (Size: 1) ===
+- thermal efficiency
+
+=== CLUSTER 2009 (Size: 1) ===
+-  Coefficient of performance COP
+
+=== CLUSTER 2010 (Size: 1) ===
+- Cognitive tests
+
+=== CLUSTER 2011 (Size: 1) ===
+- Has Ensemble Size
+
+=== CLUSTER 2012 (Size: 1) ===
+- Cohort size
+
+=== CLUSTER 2013 (Size: 1) ===
+- Nitrogen source
+
+=== CLUSTER 2014 (Size: 1) ===
+- Carbon source
+
+=== CLUSTER 2015 (Size: 1) ===
+- color shade
+
+=== CLUSTER 2016 (Size: 1) ===
+- column type annotation
+
+=== CLUSTER 1994 (Size: 1) ===
+- Uses metric
+
+=== CLUSTER 1993 (Size: 1) ===
+- Chapters
+
+=== CLUSTER 1992 (Size: 1) ===
+- Claims
+
+=== CLUSTER 1991 (Size: 1) ===
+- Chemical Composition
+
+=== CLUSTER 1970 (Size: 1) ===
+- conductivity
+
+=== CLUSTER 1971 (Size: 1) ===
+- contamination
+
+=== CLUSTER 1972 (Size: 1) ===
+- blockchain usage
+
+=== CLUSTER 1973 (Size: 1) ===
+- blockchain type
+
+=== CLUSTER 1974 (Size: 1) ===
+- Bleu Score
+
+=== CLUSTER 1975 (Size: 1) ===
+- Evaluation Method BI
+
+=== CLUSTER 1976 (Size: 1) ===
+- confidence_level
+
+=== CLUSTER 1977 (Size: 1) ===
+- connectionist model
+
+=== CLUSTER 1978 (Size: 1) ===
+- connects to
+
+=== CLUSTER 1979 (Size: 1) ===
+- has socio-policital factor type
+
+=== CLUSTER 1980 (Size: 1) ===
+- biological replication
+
+=== CLUSTER 1981 (Size: 1) ===
+- considers stochastic elements
+
+=== CLUSTER 1982 (Size: 1) ===
+- Goodness of fit
+
+=== CLUSTER 1983 (Size: 1) ===
+- C Statistic
+
+=== CLUSTER 1984 (Size: 1) ===
+- duration of preparation 
+
+=== CLUSTER 1985 (Size: 1) ===
+- calcination duration
+
+=== CLUSTER 1986 (Size: 1) ===
+- commentCount
+
+=== CLUSTER 1987 (Size: 1) ===
+- installation_date
+
+=== CLUSTER 1988 (Size: 1) ===
+- calibration_date
+
+=== CLUSTER 1989 (Size: 1) ===
+- Repository
+
+=== CLUSTER 1990 (Size: 1) ===
+- cites repository
+
+=== CLUSTER 2017 (Size: 1) ===
+- column property annotation
+
+=== CLUSTER 2019 (Size: 1) ===
+- gold-standard corpora
+
+=== CLUSTER 1868 (Size: 1) ===
+- sponsor
+
+=== CLUSTER 2057 (Size: 1) ===
+- contentRating
+
+=== CLUSTER 2047 (Size: 1) ===
+- Data augmentation technique
+
+=== CLUSTER 2048 (Size: 1) ===
+- raw data
+
+=== CLUSTER 2049 (Size: 1) ===
+- cpa method
+
+=== CLUSTER 2050 (Size: 1) ===
+- coupling
+
+=== CLUSTER 2051 (Size: 1) ===
+- country
+
+=== CLUSTER 2052 (Size: 1) ===
+- basic requirement
+
+=== CLUSTER 2053 (Size: 1) ===
+- BibliographyType
+
+=== CLUSTER 2054 (Size: 1) ===
+- Frequency of update
+
+=== CLUSTER 2055 (Size: 1) ===
+- bias
+
+=== CLUSTER 2056 (Size: 1) ===
+- isFamilyFriendly
+
+=== CLUSTER 2058 (Size: 1) ===
+- contentReferenceTime
+
+=== CLUSTER 2020 (Size: 1) ===
+- bilingual corpora used
+
+=== CLUSTER 2059 (Size: 1) ===
+- Best score
+
+=== CLUSTER 2060 (Size: 1) ===
+- benefit statement
+
+=== CLUSTER 2061 (Size: 1) ===
+- benefit category
+
+=== CLUSTER 2062 (Size: 1) ===
+- Core Methodology
+
+=== CLUSTER 2063 (Size: 1) ===
+- Benchmark Methodology
+
+=== CLUSTER 2064 (Size: 1) ===
+- behavior
+
+=== CLUSTER 2065 (Size: 1) ===
+- convergence criterion
+
+=== CLUSTER 2066 (Size: 1) ===
+- Conversion
+
+=== CLUSTER 2067 (Size: 1) ===
+- converts to
+
+=== CLUSTER 2068 (Size: 1) ===
+- Converter used
+
+=== CLUSTER 2046 (Size: 1) ===
+- dark noise rate
+
+=== CLUSTER 2045 (Size: 1) ===
+- noise model
+
+=== CLUSTER 2044 (Size: 1) ===
+- average power output
+
+=== CLUSTER 2043 (Size: 1) ===
+- rated power
+
+=== CLUSTER 2021 (Size: 1) ===
+- Data extraction tools
+
+=== CLUSTER 2022 (Size: 1) ===
+- curated problems
+
+=== CLUSTER 2023 (Size: 1) ===
+- Basic reproduction number
+
+=== CLUSTER 2024 (Size: 1) ===
+- Uses dataset
+
+=== CLUSTER 2025 (Size: 1) ===
+- creates
+
+=== CLUSTER 2026 (Size: 1) ===
+- Band Parameters
+
+=== CLUSTER 2027 (Size: 1) ===
+- compatibility
+
+=== CLUSTER 2028 (Size: 1) ===
+- award
+
+=== CLUSTER 2029 (Size: 1) ===
+- avg number of column
+
+=== CLUSTER 2030 (Size: 1) ===
+- Crystallinity
+
+=== CLUSTER 2031 (Size: 1) ===
+- Curation_strategy
+
+=== CLUSTER 2032 (Size: 1) ===
+- curated by
+
+=== CLUSTER 2033 (Size: 1) ===
+- Avg Entities
+
+=== CLUSTER 2034 (Size: 1) ===
+- Avg Characters
+
+=== CLUSTER 2035 (Size: 1) ===
+- content_quality
+
+=== CLUSTER 2036 (Size: 1) ===
+- content analysis
+
+=== CLUSTER 2037 (Size: 1) ===
+- Curator involvement
+
+=== CLUSTER 2038 (Size: 1) ===
+- currency
+
+=== CLUSTER 2039 (Size: 1) ===
+- Curve fitting
+
+=== CLUSTER 2040 (Size: 1) ===
+- curve analysis method
+
+=== CLUSTER 2042 (Size: 1) ===
+- dark field correction
+
+=== CLUSTER 1969 (Size: 1) ===
+- Resistivity
+
+=== CLUSTER 1968 (Size: 1) ===
+- blog post
+
+=== CLUSTER 1967 (Size: 1) ===
+- creativeWorkStatus
+
+=== CLUSTER 1904 (Size: 1) ===
+- Engine
+
+=== CLUSTER 1894 (Size: 1) ===
+- distance category
+
+=== CLUSTER 1895 (Size: 1) ===
+- distinctive property
+
+=== CLUSTER 1896 (Size: 1) ===
+- order of equation
+
+=== CLUSTER 1897 (Size: 1) ===
+- equation type
+
+=== CLUSTER 1898 (Size: 1) ===
+- AlternateIdentifier
+
+=== CLUSTER 1899 (Size: 1) ===
+- energy range
+
+=== CLUSTER 1900 (Size: 1) ===
+- emission range
+
+=== CLUSTER 1901 (Size: 1) ===
+- Encryption Type
+
+=== CLUSTER 1902 (Size: 1) ===
+- EndPage
+
+=== CLUSTER 1903 (Size: 1) ===
+- allows editing
+
+=== CLUSTER 1905 (Size: 1) ===
+- environment
+
+=== CLUSTER 1966 (Size: 1) ===
+- Booktitle
+
+=== CLUSTER 1906 (Size: 1) ===
+- enzymes
+
+=== CLUSTER 1907 (Size: 1) ===
+- Blinding of outcome assessment
+
+=== CLUSTER 1908 (Size: 1) ===
+- allocation concealment
+
+=== CLUSTER 1909 (Size: 1) ===
+- Equipment
+
+=== CLUSTER 1910 (Size: 1) ===
+- API endpoint URL
+
+=== CLUSTER 1911 (Size: 1) ===
+- MaterialProperties
+
+=== CLUSTER 1912 (Size: 1) ===
+- ALDMethod
+
+=== CLUSTER 1913 (Size: 1) ===
+- ALD scheme (precursors)
+
+=== CLUSTER 1914 (Size: 1) ===
+- Ethnicity
+
+=== CLUSTER 1915 (Size: 1) ===
+- method evaluated
+
+=== CLUSTER 1893 (Size: 1) ===
+- display size
+
+=== CLUSTER 1892 (Size: 1) ===
+- AspectRatio
+
+=== CLUSTER 1891 (Size: 1) ===
+- Assessment tools
+
+=== CLUSTER 1890 (Size: 1) ===
+- denaturation method
+
+=== CLUSTER 1869 (Size: 1) ===
+- image encoder
+
+=== CLUSTER 1870 (Size: 1) ===
+- Audio encoder
+
+=== CLUSTER 1871 (Size: 1) ===
+- Dataset Domain
+
+=== CLUSTER 1872 (Size: 1) ===
+- audience
+
+=== CLUSTER 1873 (Size: 1) ===
+- Reference data
+
+=== CLUSTER 1874 (Size: 1) ===
+- attributes number
+
+=== CLUSTER 1875 (Size: 1) ===
+- Validation data size
+
+=== CLUSTER 1876 (Size: 1) ===
+- denoising
+
+=== CLUSTER 1877 (Size: 1) ===
+- De-striping
+
+=== CLUSTER 1878 (Size: 1) ===
+- Nuclearity
+
+=== CLUSTER 1879 (Size: 1) ===
+- Atomicity
+
+=== CLUSTER 1880 (Size: 1) ===
+- dependability
+
+=== CLUSTER 1881 (Size: 1) ===
+- is about
+
+=== CLUSTER 1882 (Size: 1) ===
+- refinement strategy
+
+=== CLUSTER 1883 (Size: 1) ===
+- decision strategy
+
+=== CLUSTER 1884 (Size: 1) ===
+- safety_defect_rate
+
+=== CLUSTER 1885 (Size: 1) ===
+- defects
+
+=== CLUSTER 1886 (Size: 1) ===
+- degree
+
+=== CLUSTER 1887 (Size: 1) ===
+- Removal
+
+=== CLUSTER 1888 (Size: 1) ===
+- models merged
+
+=== CLUSTER 1889 (Size: 1) ===
+- initial denaturation
+
+=== CLUSTER 1916 (Size: 1) ===
+- evaluated property
+
+=== CLUSTER 1917 (Size: 1) ===
+- Evaluation Protocol
+
+=== CLUSTER 1918 (Size: 1) ===
+- Aims and Objectives
+
+=== CLUSTER 1943 (Size: 1) ===
+- Annotation software
+
+=== CLUSTER 1945 (Size: 1) ===
+- economic metrics
+
+=== CLUSTER 1946 (Size: 1) ===
+- Annotation scheme
+
+=== CLUSTER 1947 (Size: 1) ===
+- Annotation approach
+
+=== CLUSTER 1948 (Size: 1) ===
+- angle
+
+=== CLUSTER 1949 (Size: 1) ===
+- Editor
+
+=== CLUSTER 1950 (Size: 1) ===
+- analytical characterisation
+
+=== CLUSTER 1951 (Size: 1) ===
+- Effect size
+
+=== CLUSTER 1952 (Size: 1) ===
+- analysis software
+
+=== CLUSTER 1953 (Size: 1) ===
+- Automated search
+
+=== CLUSTER 1954 (Size: 1) ===
+- data scaling
+
+=== CLUSTER 1955 (Size: 1) ===
+- NL Component
+
+=== CLUSTER 1956 (Size: 1) ===
+- conditions
+
+=== CLUSTER 1957 (Size: 1) ===
+- bus width
+
+=== CLUSTER 1958 (Size: 1) ===
+- Construction Type
+
+=== CLUSTER 1959 (Size: 1) ===
+- Building Methodology
+
+=== CLUSTER 1960 (Size: 1) ===
+- compliance test
+
+=== CLUSTER 1961 (Size: 1) ===
+- compliance level 1
+
+=== CLUSTER 1962 (Size: 1) ===
+- construct
+
+=== CLUSTER 1963 (Size: 1) ===
+- composition
+
+=== CLUSTER 1964 (Size: 1) ===
+- Computational complexity
+
+=== CLUSTER 1965 (Size: 1) ===
+- computational environment
+
+=== CLUSTER 1944 (Size: 1) ===
+- includes economic foci
+
+=== CLUSTER 1942 (Size: 1) ===
+- Data annotation granularities
+
+=== CLUSTER 1919 (Size: 1) ===
+- AI system type
+
+=== CLUSTER 1941 (Size: 1) ===
+- annotation source
+
+=== CLUSTER 1920 (Size: 1) ===
+- evaluation_dimensions
+
+=== CLUSTER 1921 (Size: 1) ===
+- Exact reaction
+
+=== CLUSTER 1922 (Size: 1) ===
+- exact match
+
+=== CLUSTER 1923 (Size: 1) ===
+- email
+
+=== CLUSTER 1924 (Size: 1) ===
+- Training data count
+
+=== CLUSTER 1925 (Size: 1) ===
+- element
+
+=== CLUSTER 1926 (Size: 1) ===
+- amplitude type
+
+=== CLUSTER 1927 (Size: 1) ===
+- amplitude step number
+
+=== CLUSTER 1928 (Size: 1) ===
+- immunogenicity
+
+=== CLUSTER 1929 (Size: 1) ===
+- antigen used
+
+=== CLUSTER 1930 (Size: 1) ===
+- Answer selection technique
+
+=== CLUSTER 1931 (Size: 1) ===
+- drop out probability
+
+=== CLUSTER 1932 (Size: 1) ===
+- Encapsulation efficiency
+
+=== CLUSTER 1933 (Size: 1) ===
+- staining
+
+=== CLUSTER 1934 (Size: 1) ===
+- dyes used
+
+=== CLUSTER 1935 (Size: 1) ===
+- Annotator identity
+
+=== CLUSTER 1936 (Size: 1) ===
+- Expressivity
+
+=== CLUSTER 1937 (Size: 1) ===
+- Dynamism
+
+=== CLUSTER 1938 (Size: 1) ===
+- ecological organizational scale
+
+=== CLUSTER 1939 (Size: 1) ===
+- ecological study system
+
+=== CLUSTER 1940 (Size: 1) ===
+- annotation version
+
+=== CLUSTER 2477 (Size: 1) ===
+- Swelling coefficient
+
+=== CLUSTER 2479 (Size: 1) ===
+- synergyValue
+
+=== CLUSTER 1663 (Size: 1) ===
+- Maximum experimental range
+
+=== CLUSTER 3025 (Size: 1) ===
+- necessity
+
+=== CLUSTER 3015 (Size: 1) ===
+- Mission
+
+=== CLUSTER 3016 (Size: 1) ===
+- Missing time period
+
+=== CLUSTER 3017 (Size: 1) ===
+- multi step processing
+
+=== CLUSTER 3018 (Size: 1) ===
+- multi-fidelity
+
+=== CLUSTER 3019 (Size: 1) ===
+- Contribution Year
+
+=== CLUSTER 3020 (Size: 1) ===
+- Nanomaterial
+
+=== CLUSTER 3021 (Size: 1) ===
+- New data sources
+
+=== CLUSTER 3022 (Size: 1) ===
+- Neural network developed
+
+=== CLUSTER 3023 (Size: 1) ===
+- neighbor feature
+
+=== CLUSTER 3024 (Size: 1) ===
+- Context Efficiency
+
+=== CLUSTER 3026 (Size: 1) ===
+- Context Predicate
+
+=== CLUSTER 3038 (Size: 1) ===
+- number of type
+
+=== CLUSTER 3027 (Size: 1) ===
+- Name of Scheme
+
+=== CLUSTER 3028 (Size: 1) ===
+- Multipartite Rank
+
+=== CLUSTER 3029 (Size: 1) ===
+- context_extension_method
+
+=== CLUSTER 3030 (Size: 1) ===
+- Multiway
+
+=== CLUSTER 3031 (Size: 1) ===
+- multivariate frequency analysis
+
+=== CLUSTER 3032 (Size: 1) ===
+- Contextual factors_Local conditions
+
+=== CLUSTER 3033 (Size: 1) ===
+- Multiple periods
+
+=== CLUSTER 3034 (Size: 1) ===
+- continent
+
+=== CLUSTER 3035 (Size: 1) ===
+- number of groups
+
+=== CLUSTER 3036 (Size: 1) ===
+- Number of Heads
+
+=== CLUSTER 3014 (Size: 1) ===
+- coordination geometry
+
+=== CLUSTER 3013 (Size: 1) ===
+- Mobility
+
+=== CLUSTER 3012 (Size: 1) ===
+- moc type
+
+=== CLUSTER 3011 (Size: 1) ===
+- model vs. observations
+
+=== CLUSTER 2990 (Size: 1) ===
+- conditioning steps
+
+=== CLUSTER 2991 (Size: 1) ===
+- Number of development passages
+
+=== CLUSTER 2992 (Size: 1) ===
+- number of databases
+
+=== CLUSTER 2993 (Size: 1) ===
+- Number of data sources
+
+=== CLUSTER 2994 (Size: 1) ===
+- Conference code
+
+=== CLUSTER 2995 (Size: 1) ===
+- number of ctiteria
+
+=== CLUSTER 2996 (Size: 1) ===
+- Confidentiality (Privacy) Technique
+
+=== CLUSTER 2997 (Size: 1) ===
+- Number of complexes
+
+=== CLUSTER 2998 (Size: 1) ===
+- no of labels
+
+=== CLUSTER 2999 (Size: 1) ===
+- nmr
+
+=== CLUSTER 3000 (Size: 1) ===
+- content_types
+
+=== CLUSTER 3001 (Size: 1) ===
+- contentLocation
+
+=== CLUSTER 3002 (Size: 1) ===
+- MRR
+
+=== CLUSTER 3003 (Size: 1) ===
+- Contributor Roles
+
+=== CLUSTER 3004 (Size: 1) ===
+- more effective than
+
+=== CLUSTER 3005 (Size: 1) ===
+- monitoring duration
+
+=== CLUSTER 3006 (Size: 1) ===
+- Molecular Mechanism
+
+=== CLUSTER 3007 (Size: 1) ===
+- Control structure
+
+=== CLUSTER 3008 (Size: 1) ===
+- Controlled Experiment
+
+=== CLUSTER 3009 (Size: 1) ===
+- Models (Estimators)
+
+=== CLUSTER 3010 (Size: 1) ===
+- controls description
+
+=== CLUSTER 3037 (Size: 1) ===
+- Number of HTTP requests
+
+=== CLUSTER 3039 (Size: 1) ===
+- Cloud scheme
+
+=== CLUSTER 2988 (Size: 1) ===
+- Number of evaluated users
+
+=== CLUSTER 3077 (Size: 1) ===
+- compare contribution
+
+=== CLUSTER 3066 (Size: 1) ===
+- Class entropy
+
+=== CLUSTER 3067 (Size: 1) ===
+- Original Features (Accuracy)
+
+=== CLUSTER 3068 (Size: 1) ===
+- class mappings
+
+=== CLUSTER 3069 (Size: 1) ===
+- organizer
+
+=== CLUSTER 3070 (Size: 1) ===
+- cleaning algorithm
+
+=== CLUSTER 3071 (Size: 1) ===
+- Climate condition
+
+=== CLUSTER 3072 (Size: 1) ===
+- number of videos
+
+=== CLUSTER 3073 (Size: 1) ===
+- Number of training headlines
+
+=== CLUSTER 3074 (Size: 1) ===
+- Number of identifiers
+
+=== CLUSTER 3076 (Size: 1) ===
+- Comparator
+
+=== CLUSTER 3078 (Size: 1) ===
+- comparsion operator
+
+=== CLUSTER 3040 (Size: 1) ===
+- Operating conditions
+
+=== CLUSTER 3079 (Size: 1) ===
+- competency question
+
+=== CLUSTER 3080 (Size: 1) ===
+- Compilation method
+
+=== CLUSTER 3081 (Size: 1) ===
+- compiledBy
+
+=== CLUSTER 3082 (Size: 1) ===
+- has economic (behavioural) rationale
+
+=== CLUSTER 3083 (Size: 1) ===
+- Number of paragraphs
+
+=== CLUSTER 3084 (Size: 1) ===
+- Number of ontologies referenced
+
+=== CLUSTER 3085 (Size: 1) ===
+- Number of Objectives
+
+=== CLUSTER 3086 (Size: 1) ===
+- Number of modifications
+
+=== CLUSTER 3087 (Size: 1) ===
+- number of mathematical expressions
+
+=== CLUSTER 3088 (Size: 1) ===
+- Number of Latent Entity Types
+
+=== CLUSTER 3065 (Size: 1) ===
+- Optimization function
+
+=== CLUSTER 3064 (Size: 1) ===
+- Class count
+
+=== CLUSTER 3063 (Size: 1) ===
+- OSI Model layer location
+
+=== CLUSTER 3062 (Size: 1) ===
+- Other designations
+
+=== CLUSTER 3041 (Size: 1) ===
+- open_access_models
+
+=== CLUSTER 3042 (Size: 1) ===
+- code List
+
+=== CLUSTER 3043 (Size: 1) ===
+- onOffRatio
+
+=== CLUSTER 3044 (Size: 1) ===
+- CODEN
+
+=== CLUSTER 3045 (Size: 1) ===
+- Offers an application
+
+=== CLUSTER 3046 (Size: 1) ===
+- off target assessment
+
+=== CLUSTER 3047 (Size: 1) ===
+- Ocean model family
+
+=== CLUSTER 3048 (Size: 1) ===
+- occurs in
+
+=== CLUSTER 3049 (Size: 1) ===
+- occlussion level
+
+=== CLUSTER 3050 (Size: 1) ===
+- Observed Rate
+
+=== CLUSTER 3051 (Size: 1) ===
+- obs_used_for_testing
+
+=== CLUSTER 3052 (Size: 1) ===
+- Object`s cration time/period
+
+=== CLUSTER 3053 (Size: 1) ===
+- OAS
+
+=== CLUSTER 3054 (Size: 1) ===
+- Operationalisierung
+
+=== CLUSTER 3055 (Size: 1) ===
+- optical parameters
+
+=== CLUSTER 3056 (Size: 1) ===
+- closed-loop 
+
+=== CLUSTER 3057 (Size: 1) ===
+- orkgSubmitter
+
+=== CLUSTER 3058 (Size: 1) ===
+- Cites
+
+=== CLUSTER 3059 (Size: 1) ===
+- Claim-Evidence links
+
+=== CLUSTER 3060 (Size: 1) ===
+- OtherAspects
+
+=== CLUSTER 3061 (Size: 1) ===
+- Other Metrics (%)
+
+=== CLUSTER 2989 (Size: 1) ===
+- Condition investigated
+
+=== CLUSTER 2987 (Size: 1) ===
+- Condition
+
+=== CLUSTER 3090 (Size: 1) ===
+- Number of Identity Chains
+
+=== CLUSTER 2923 (Size: 1) ===
+- has sensor recording
+
+=== CLUSTER 2913 (Size: 1) ===
+- executes
+
+=== CLUSTER 2914 (Size: 1) ===
+- experienced by
+
+=== CLUSTER 2915 (Size: 1) ===
+- has toxin
+
+=== CLUSTER 2916 (Size: 1) ===
+- export source
+
+=== CLUSTER 2917 (Size: 1) ===
+- has time unit
+
+=== CLUSTER 2918 (Size: 1) ===
+- Experimental treatment
+
+=== CLUSTER 2919 (Size: 1) ===
+- Has TCR result
+
+=== CLUSTER 2920 (Size: 1) ===
+- explanation ranking method
+
+=== CLUSTER 2921 (Size: 1) ===
+- Exploited data
+
+=== CLUSTER 2922 (Size: 1) ===
+- exploratory question
+
+=== CLUSTER 2924 (Size: 1) ===
+- feature importance score
+
+=== CLUSTER 2936 (Size: 1) ===
+- focal_point
+
+=== CLUSTER 2925 (Size: 1) ===
+- follows_research_tradition
+
+=== CLUSTER 2926 (Size: 1) ===
+- has scaling parameter
+
+=== CLUSTER 2927 (Size: 1) ===
+- flexibility
+
+=== CLUSTER 2928 (Size: 1) ===
+- Has Priori Knowledge
+
+=== CLUSTER 2929 (Size: 1) ===
+- Flow diagram creation
+
+=== CLUSTER 2930 (Size: 1) ===
+- has preparation method
+
+=== CLUSTER 2931 (Size: 1) ===
+- Fluency
+
+=== CLUSTER 2932 (Size: 1) ===
+- fluorinationDetails
+
+=== CLUSTER 2933 (Size: 1) ===
+- Flyweight
+
+=== CLUSTER 2934 (Size: 1) ===
+- Has physical material interactions
+
+=== CLUSTER 2912 (Size: 1) ===
+- has triplestore
+
+=== CLUSTER 2911 (Size: 1) ===
+- has turning point at 
+
+=== CLUSTER 2910 (Size: 1) ===
+- Exchange arragements
+
+=== CLUSTER 2909 (Size: 1) ===
+- Excercise
+
+=== CLUSTER 2888 (Size: 1) ===
+- has ocular bioavailability
+
+=== CLUSTER 2889 (Size: 1) ===
+- Fault tolerance
+
+=== CLUSTER 2890 (Size: 1) ===
+- Extensability
+
+=== CLUSTER 2891 (Size: 1) ===
+- external series uri
+
+=== CLUSTER 2892 (Size: 1) ===
+- Extinction coefficient
+
+=== CLUSTER 2893 (Size: 1) ===
+- extreme values choice
+
+=== CLUSTER 2894 (Size: 1) ===
+- has stress condition design
+
+=== CLUSTER 2895 (Size: 1) ===
+- F1: persistent URL
+
+=== CLUSTER 2896 (Size: 1) ===
+- F2: metadata available
+
+=== CLUSTER 2897 (Size: 1) ===
+- Facade
+
+=== CLUSTER 2898 (Size: 1) ===
+- face_validity
+
+=== CLUSTER 2899 (Size: 1) ===
+- facilitates_transition
+
+=== CLUSTER 2900 (Size: 1) ===
+- Has solution sample input
+
+=== CLUSTER 2901 (Size: 1) ===
+- Factory Method
+
+=== CLUSTER 2902 (Size: 1) ===
+- Has Software Products
+
+=== CLUSTER 2903 (Size: 1) ===
+- farming stage
+
+=== CLUSTER 2904 (Size: 1) ===
+- Fatigue mitigation technique
+
+=== CLUSTER 2905 (Size: 1) ===
+- Exposure vessel
+
+=== CLUSTER 2906 (Size: 1) ===
+- Exporting results
+
+=== CLUSTER 2907 (Size: 1) ===
+- has symbol
+
+=== CLUSTER 2908 (Size: 1) ===
+- Experimental data
+
+=== CLUSTER 2935 (Size: 1) ===
+- has patient
+
+=== CLUSTER 2937 (Size: 1) ===
+- has pageviews
+
+=== CLUSTER 2986 (Size: 1) ===
+- concatenation
+
+=== CLUSTER 2974 (Size: 1) ===
+- Node type
+
+=== CLUSTER 2964 (Size: 1) ===
+- Number of ALD cycles
+
+=== CLUSTER 2965 (Size: 1) ===
+- consent_method
+
+=== CLUSTER 2966 (Size: 1) ===
+- considers communication failures
+
+=== CLUSTER 2967 (Size: 1) ===
+- nuclease source
+
+=== CLUSTER 2968 (Size: 1) ===
+- noticeability
+
+=== CLUSTER 2969 (Size: 1) ===
+- construct name
+
+=== CLUSTER 2970 (Size: 1) ===
+- Consumed services
+
+=== CLUSTER 2971 (Size: 1) ===
+- non-visual effect investigated
+
+=== CLUSTER 2972 (Size: 1) ===
+- Non-repudiation Technique
+
+=== CLUSTER 2973 (Size: 1) ===
+- container type
+
+=== CLUSTER 2975 (Size: 1) ===
+- No. of Tiles
+
+=== CLUSTER 2938 (Size: 1) ===
+- Focus Group
+
+=== CLUSTER 2976 (Size: 1) ===
+- no. of facets k
+
+=== CLUSTER 2977 (Size: 1) ===
+- contains triangular pattern
+
+=== CLUSTER 2978 (Size: 1) ===
+- No.
+
+=== CLUSTER 2979 (Size: 1) ===
+- Number of annotators
+
+=== CLUSTER 2980 (Size: 1) ===
+- number of chunks
+
+=== CLUSTER 2981 (Size: 1) ===
+- Isolation source
+
+=== CLUSTER 2982 (Size: 1) ===
+- number of coefficients
+
+=== CLUSTER 2983 (Size: 1) ===
+- Computational method used
+
+=== CLUSTER 2984 (Size: 1) ===
+- Computer-based format
+
+=== CLUSTER 2985 (Size: 1) ===
+- number of features
+
+=== CLUSTER 2963 (Size: 1) ===
+- Number of catchphrases
+
+=== CLUSTER 2962 (Size: 1) ===
+- dilution factor
+
+=== CLUSTER 2961 (Size: 1) ===
+- isIdenticalTo
+
+=== CLUSTER 2960 (Size: 1) ===
+- isGeneratedBy
+
+=== CLUSTER 2939 (Size: 1) ===
+- Focus marker
+
+=== CLUSTER 2940 (Size: 1) ===
+- focusOnTaxonomyFormat
+
+=== CLUSTER 2941 (Size: 1) ===
+- folio number
+
+=== CLUSTER 2942 (Size: 1) ===
+- has Process areas
+
+=== CLUSTER 2943 (Size: 1) ===
+- Has Prognostic Variable
+
+=== CLUSTER 2944 (Size: 1) ===
+- Fleet composition
+
+=== CLUSTER 2945 (Size: 1) ===
+- Fill factor, FF
+
+=== CLUSTER 2946 (Size: 1) ===
+- federated learning architecture
+
+=== CLUSTER 2947 (Size: 1) ===
+- feedstock
+
+=== CLUSTER 2948 (Size: 1) ===
+- Field Experiment
+
+=== CLUSTER 2949 (Size: 1) ===
+- has restoration method
+
+=== CLUSTER 2950 (Size: 1) ===
+- File Attachments
+
+=== CLUSTER 2951 (Size: 1) ===
+- Has repository
+
+=== CLUSTER 2952 (Size: 1) ===
+- has rendered model
+
+=== CLUSTER 2953 (Size: 1) ===
+- has public display user
+
+=== CLUSTER 2954 (Size: 1) ===
+- has regressions
+
+=== CLUSTER 2955 (Size: 1) ===
+- Has radiant energy input
+
+=== CLUSTER 2956 (Size: 1) ===
+- FilmProperties
+
+=== CLUSTER 2957 (Size: 1) ===
+- fixation method
+
+=== CLUSTER 2958 (Size: 1) ===
+- Fixed grid
+
+=== CLUSTER 2959 (Size: 1) ===
+- fixture
+
+=== CLUSTER 3089 (Size: 1) ===
+- Number of indicators
+
+=== CLUSTER 3091 (Size: 1) ===
+- Communication Protocol
+
+=== CLUSTER 2480 (Size: 1) ===
+- syntactic_module
+
+=== CLUSTER 3230 (Size: 1) ===
+- Data Cleaning
+
+=== CLUSTER 3220 (Size: 1) ===
+- Cumulative Incidence (CI)
+
+=== CLUSTER 3221 (Size: 1) ===
+- MaterialDeposited
+
+=== CLUSTER 3222 (Size: 1) ===
+- longitudinal_studies
+
+=== CLUSTER 3223 (Size: 1) ===
+- Material/Method
+
+=== CLUSTER 3224 (Size: 1) ===
+- Data assimilation technique
+
+=== CLUSTER 3225 (Size: 1) ===
+- magnification
+
+=== CLUSTER 3226 (Size: 1) ===
+- MACRO F1 value
+
+=== CLUSTER 3227 (Size: 1) ===
+- Macro Accuracy
+
+=== CLUSTER 3228 (Size: 1) ===
+- Machine Learning Task
+
+=== CLUSTER 3229 (Size: 1) ===
+- machine learning regressor
+
+=== CLUSTER 3231 (Size: 1) ===
+- Data Dimension
+
+=== CLUSTER 3243 (Size: 1) ===
+- Material of the cantilever
+
+=== CLUSTER 3232 (Size: 1) ===
+- Data handling
+
+=== CLUSTER 3233 (Size: 1) ===
+- Data I/O Performance
+
+=== CLUSTER 3234 (Size: 1) ===
+- data quality
+
+=== CLUSTER 3235 (Size: 1) ===
+- luminuous used
+
+=== CLUSTER 3236 (Size: 1) ===
+- LOV_registered
+
+=== CLUSTER 3237 (Size: 1) ===
+- Data validity condition
+
+=== CLUSTER 3238 (Size: 1) ===
+- Loop ID
+
+=== CLUSTER 3239 (Size: 1) ===
+- dashboard developer country
+
+=== CLUSTER 3240 (Size: 1) ===
+- Main question
+
+=== CLUSTER 3241 (Size: 1) ===
+- main_experiment
+
+=== CLUSTER 3219 (Size: 1) ===
+- membrane type
+
+=== CLUSTER 3218 (Size: 1) ===
+- memory model
+
+=== CLUSTER 3217 (Size: 1) ===
+- Memory Usage
+
+=== CLUSTER 3216 (Size: 1) ===
+- memory usage / has measurement value
+
+=== CLUSTER 3195 (Size: 1) ===
+- Critical success factors
+
+=== CLUSTER 3196 (Size: 1) ===
+- Critique d'art ID
+
+=== CLUSTER 3197 (Size: 1) ===
+- Crowdsourcing Component
+
+=== CLUSTER 3198 (Size: 1) ===
+- crRNA details
+
+=== CLUSTER 3199 (Size: 1) ===
+- maximum number of parameters (in million)
+
+=== CLUSTER 3200 (Size: 1) ===
+- cultural_dimension
+
+=== CLUSTER 3201 (Size: 1) ===
+- Culture conditions
+
+=== CLUSTER 3202 (Size: 1) ===
+- measuring parameter
+
+=== CLUSTER 3203 (Size: 1) ===
+- Mechanical Properties
+
+=== CLUSTER 3204 (Size: 1) ===
+- Media/Channel
+
+=== CLUSTER 3205 (Size: 1) ===
+- Metamodel operations
+
+=== CLUSTER 3206 (Size: 1) ===
+- microbiological method type
+
+=== CLUSTER 3207 (Size: 1) ===
+- Corpus elements type
+
+=== CLUSTER 3208 (Size: 1) ===
+- Method resolution
+
+=== CLUSTER 3209 (Size: 1) ===
+- Method label
+
+=== CLUSTER 3210 (Size: 1) ===
+- Method (primary production)
+
+=== CLUSTER 3211 (Size: 1) ===
+- counterpart
+
+=== CLUSTER 3212 (Size: 1) ===
+- county
+
+=== CLUSTER 3213 (Size: 1) ===
+- membership metadata
+
+=== CLUSTER 3214 (Size: 1) ===
+- Meta-analysis
+
+=== CLUSTER 3215 (Size: 1) ===
+- created_web_Application
+
+=== CLUSTER 3242 (Size: 1) ===
+- cycles
+
+=== CLUSTER 3244 (Size: 1) ===
+- Material Accessible
+
+=== CLUSTER 3193 (Size: 1) ===
+- Measure of propagule pressure
+
+=== CLUSTER 3287 (Size: 1) ===
+- False Negative Rate
+
+=== CLUSTER 3276 (Size: 1) ===
+- Support material
+
+=== CLUSTER 3277 (Size: 1) ===
+- has support
+
+=== CLUSTER 3278 (Size: 1) ===
+- recommendation
+
+=== CLUSTER 3279 (Size: 1) ===
+- Future reccomendation
+
+=== CLUSTER 3280 (Size: 1) ===
+- AI paradigm
+
+=== CLUSTER 3281 (Size: 1) ===
+- AI techniques
+
+=== CLUSTER 3282 (Size: 1) ===
+- Cost
+
+=== CLUSTER 3283 (Size: 1) ===
+- has cost model
+
+=== CLUSTER 3285 (Size: 1) ===
+- frame rate
+
+=== CLUSTER 3286 (Size: 1) ===
+- perception_rate
+
+=== CLUSTER 3288 (Size: 1) ===
+- False Positive Rate
+
+=== CLUSTER 3245 (Size: 1) ===
+- mass loading
+
+=== CLUSTER 3289 (Size: 1) ===
+- Number of tokens
+
+=== CLUSTER 3290 (Size: 1) ===
+- has next step
+
+=== CLUSTER 3291 (Size: 1) ===
+- has previous step
+
+=== CLUSTER 3292 (Size: 1) ===
+- Ground Truth Source
+
+=== CLUSTER 3293 (Size: 1) ===
+- Groundtruth Speci cation
+
+=== CLUSTER 3294 (Size: 1) ===
+- Average Recall
+
+=== CLUSTER 3295 (Size: 1) ===
+- Best Average Recall
+
+=== CLUSTER 3296 (Size: 1) ===
+- accuracy
+
+=== CLUSTER 3297 (Size: 1) ===
+- Precision (%)
+
+=== CLUSTER 3298 (Size: 1) ===
+- application
+
+=== CLUSTER 3275 (Size: 1) ===
+- original_research_finding
+
+=== CLUSTER 3273 (Size: 1) ===
+- benchmark_model
+
+=== CLUSTER 3272 (Size: 1) ===
+- benchmark_result
+
+=== CLUSTER 3271 (Size: 1) ===
+- Benchmark
+
+=== CLUSTER 3246 (Size: 1) ===
+- mask
+
+=== CLUSTER 3247 (Size: 1) ===
+- Mapping to other identifiers
+
+=== CLUSTER 3248 (Size: 1) ===
+- MAP_score
+
+=== CLUSTER 3249 (Size: 1) ===
+- Manually attaching full-text
+
+=== CLUSTER 3250 (Size: 1) ===
+- Main_manipulation_of_interest
+
+=== CLUSTER 3251 (Size: 1) ===
+- Manual
+
+=== CLUSTER 3252 (Size: 1) ===
+- manifestation of
+
+=== CLUSTER 3253 (Size: 1) ===
+- cytotoxicity
+
+=== CLUSTER 3254 (Size: 1) ===
+- Maintenance
+
+=== CLUSTER 3255 (Size: 1) ===
+- maintains linking to
+
+=== CLUSTER 3256 (Size: 1) ===
+- mainEntityOfPage
+
+=== CLUSTER 3257 (Size: 1) ===
+- # accepted submission
+
+=== CLUSTER 3258 (Size: 1) ===
+- Link
+
+=== CLUSTER 3259 (Size: 1) ===
+- baseline result
+
+=== CLUSTER 3260 (Size: 1) ===
+- Baseline
+
+=== CLUSTER 3261 (Size: 1) ===
+- threat to validity
+
+=== CLUSTER 3262 (Size: 1) ===
+- internal validity
+
+=== CLUSTER 3263 (Size: 1) ===
+- external validity
+
+=== CLUSTER 3264 (Size: 1) ===
+- construct validity
+
+=== CLUSTER 3265 (Size: 1) ===
+- conclusion validity
+
+=== CLUSTER 3270 (Size: 1) ===
+- validity_dimension
+
+=== CLUSTER 3194 (Size: 1) ===
+- Measure of disturbance
+
+=== CLUSTER 3192 (Size: 1) ===
+- Measure of resistance/susceptibility
+
+=== CLUSTER 3092 (Size: 1) ===
+- number of reblogs
+
+=== CLUSTER 3128 (Size: 1) ===
+- lifecycle_assessment
+
+=== CLUSTER 3118 (Size: 1) ===
+- level of explanation
+
+=== CLUSTER 3119 (Size: 1) ===
+- Level of application domain experience
+
+=== CLUSTER 3120 (Size: 1) ===
+- Decisions First-stage
+
+=== CLUSTER 3121 (Size: 1) ===
+- lens thickness/has value
+
+=== CLUSTER 3122 (Size: 1) ===
+- Decorator
+
+=== CLUSTER 3123 (Size: 1) ===
+- Deep Learning Model
+
+=== CLUSTER 3124 (Size: 1) ===
+- deformation type
+
+=== CLUSTER 3125 (Size: 1) ===
+- Learner Features
+
+=== CLUSTER 3126 (Size: 1) ===
+- deliverability
+
+=== CLUSTER 3127 (Size: 1) ===
+- Layer Perspective
+
+=== CLUSTER 3129 (Size: 1) ===
+- ligation strategy
+
+=== CLUSTER 3141 (Size: 1) ===
+- literature search method
+
+=== CLUSTER 3130 (Size: 1) ===
+- datasheet
+
+=== CLUSTER 3131 (Size: 1) ===
+- dataset alias name
+
+=== CLUSTER 3132 (Size: 1) ===
+- data-driven approach
+
+=== CLUSTER 3133 (Size: 1) ===
+- located in the administrative territorial entity
+
+=== CLUSTER 3134 (Size: 1) ===
+- data_retention_policy
+
+=== CLUSTER 3135 (Size: 1) ===
+- Local Search Algorithm
+
+=== CLUSTER 3136 (Size: 1) ===
+- Local conditions
+
+=== CLUSTER 3137 (Size: 1) ===
+- loading parameters
+
+=== CLUSTER 3138 (Size: 1) ===
+- dataset config
+
+=== CLUSTER 3139 (Size: 1) ===
+- lineage
+
+=== CLUSTER 3117 (Size: 1) ===
+- level of task
+
+=== CLUSTER 3116 (Size: 1) ===
+- lexical form
+
+=== CLUSTER 3115 (Size: 1) ===
+- LHAR type
+
+=== CLUSTER 3114 (Size: 1) ===
+- library type
+
+=== CLUSTER 3093 (Size: 1) ===
+- Number of relation subtypes
+
+=== CLUSTER 3094 (Size: 1) ===
+- Number of statements
+
+=== CLUSTER 3095 (Size: 1) ===
+- Number of threads
+
+=== CLUSTER 3096 (Size: 1) ===
+- number of testbeds
+
+=== CLUSTER 3097 (Size: 1) ===
+- coil model
+
+=== CLUSTER 3098 (Size: 1) ===
+- coincidence window
+
+=== CLUSTER 3099 (Size: 1) ===
+- Collection site
+
+=== CLUSTER 3100 (Size: 1) ===
+- Number of supported visualization types
+
+=== CLUSTER 3101 (Size: 1) ===
+- number of standard FAIR assessments
+
+=== CLUSTER 3102 (Size: 1) ===
+- communication modelling approach
+
+=== CLUSTER 3103 (Size: 1) ===
+-  number of speeches
+
+=== CLUSTER 3104 (Size: 1) ===
+- Number of singletons
+
+=== CLUSTER 3105 (Size: 1) ===
+- common analysis method
+
+=== CLUSTER 3106 (Size: 1) ===
+- number of scenarios
+
+=== CLUSTER 3107 (Size: 1) ===
+- Commons category
+
+=== CLUSTER 3108 (Size: 1) ===
+- number of replicates
+
+=== CLUSTER 3109 (Size: 1) ===
+- mismatch count
+
+=== CLUSTER 3110 (Size: 1) ===
+- Minimmum inhibition concentration (MIC) average
+
+=== CLUSTER 3111 (Size: 1) ===
+- minimization algorithm
+
+=== CLUSTER 3112 (Size: 1) ===
+- Latitude range
+
+=== CLUSTER 3113 (Size: 1) ===
+- lifecycle
+
+=== CLUSTER 3140 (Size: 1) ===
+- Living/updatable
+
+=== CLUSTER 3142 (Size: 1) ===
+- listing
+
+=== CLUSTER 3191 (Size: 1) ===
+- Measure of species similarity
+
+=== CLUSTER 3179 (Size: 1) ===
+- Kind of hierarchy
+
+=== CLUSTER 3169 (Size: 1) ===
+- Language of Original Document
+
+=== CLUSTER 3170 (Size: 1) ===
+- Laboratory fi ndings
+
+=== CLUSTER 3171 (Size: 1) ===
+- label smoothing
+
+=== CLUSTER 3172 (Size: 1) ===
+- department metadata
+
+=== CLUSTER 3173 (Size: 1) ===
+- lab notebook reference
+
+=== CLUSTER 3174 (Size: 1) ===
+- DepositionTemperature
+
+=== CLUSTER 3175 (Size: 1) ===
+- Depression outcomes (sources)
+
+=== CLUSTER 3176 (Size: 1) ===
+- Detailed Architectural Design
+
+=== CLUSTER 3177 (Size: 1) ===
+- knowledge cutoff date
+
+=== CLUSTER 3178 (Size: 1) ===
+- KM objectives
+
+=== CLUSTER 3180 (Size: 1) ===
+- kind
+
+=== CLUSTER 3143 (Size: 1) ===
+- Links
+
+=== CLUSTER 3181 (Size: 1) ===
+- KG Task(s) Addressed
+
+=== CLUSTER 3182 (Size: 1) ===
+- designer details
+
+=== CLUSTER 3183 (Size: 1) ===
+- Location of the research group
+
+=== CLUSTER 3184 (Size: 1) ===
+- Logical Expressivity
+
+=== CLUSTER 3185 (Size: 1) ===
+- Microneedles structure
+
+=== CLUSTER 3186 (Size: 1) ===
+- math format 
+
+=== CLUSTER 3187 (Size: 1) ===
+- Creation Type
+
+=== CLUSTER 3188 (Size: 1) ===
+- Measurement, Rater 
+
+=== CLUSTER 3189 (Size: 1) ===
+- creditText
+
+=== CLUSTER 3190 (Size: 1) ===
+- Criterion A
+
+=== CLUSTER 3168 (Size: 1) ===
+- deposits
+
+=== CLUSTER 3167 (Size: 1) ===
+- Key Quantitative Results
+
+=== CLUSTER 3166 (Size: 1) ===
+- Determinants
+
+=== CLUSTER 3165 (Size: 1) ===
+- Key Aspects Covered
+
+=== CLUSTER 3144 (Size: 1) ===
+- LinkedIn ID
+
+=== CLUSTER 3145 (Size: 1) ===
+- linearity
+
+=== CLUSTER 3146 (Size: 1) ===
+- latticeParameters
+
+=== CLUSTER 3147 (Size: 1) ===
+- Demonstrated Use Cases
+
+=== CLUSTER 3148 (Size: 1) ===
+- Logic type
+
+=== CLUSTER 3149 (Size: 1) ===
+- language of work or name
+
+=== CLUSTER 3150 (Size: 1) ===
+- Device performance
+
+=== CLUSTER 3151 (Size: 1) ===
+- json_data
+
+=== CLUSTER 3152 (Size: 1) ===
+- Dialect
+
+=== CLUSTER 3153 (Size: 1) ===
+- Join
+
+=== CLUSTER 3154 (Size: 1) ===
+- Iterator
+
+=== CLUSTER 3155 (Size: 1) ===
+- iteratively merges
+
+=== CLUSTER 3156 (Size: 1) ===
+- Dialog management component
+
+=== CLUSTER 3157 (Size: 1) ===
+- Dictionaries evaluated
+
+=== CLUSTER 3158 (Size: 1) ===
+- dietary assessment method
+
+=== CLUSTER 3159 (Size: 1) ===
+- differential expression tool
+
+=== CLUSTER 3160 (Size: 1) ===
+- digestion conditions
+
+=== CLUSTER 3161 (Size: 1) ===
+- isReferencedBy
+
+=== CLUSTER 3162 (Size: 1) ===
+- isPreceededBy
+
+=== CLUSTER 3163 (Size: 1) ===
+- isotope
+
+=== CLUSTER 3164 (Size: 1) ===
+- digitalSourceType
+
+=== CLUSTER 2887 (Size: 1) ===
+- Formal Language
+
+=== CLUSTER 2886 (Size: 1) ===
+- forward operator
+
+=== CLUSTER 2885 (Size: 1) ===
+- Has bound calculations
+
+=== CLUSTER 2618 (Size: 1) ===
+- sentiment analysis
+
+=== CLUSTER 2608 (Size: 1) ===
+- application method
+
+=== CLUSTER 2609 (Size: 1) ===
+- semi supervised learning
+
+=== CLUSTER 2610 (Size: 1) ===
+- seniority
+
+=== CLUSTER 2611 (Size: 1) ===
+- tool_calling_format
+
+=== CLUSTER 2612 (Size: 1) ===
+- Senors used
+
+=== CLUSTER 2613 (Size: 1) ===
+- senses_through
+
+=== CLUSTER 2614 (Size: 1) ===
+- Application Context (Onshore/Offshore)
+
+=== CLUSTER 2615 (Size: 1) ===
+- sensor_logs
+
+=== CLUSTER 2616 (Size: 1) ===
+- Sentence Classifier
+
+=== CLUSTER 2617 (Size: 1) ===
+- Sentences Extraction Performance F-score
+
+=== CLUSTER 2619 (Size: 1) ===
+- sequencing date
+
+=== CLUSTER 2631 (Size: 1) ===
+- Approach group
+
+=== CLUSTER 2620 (Size: 1) ===
+- apoptosis analysis method
+
+=== CLUSTER 2621 (Size: 1) ===
+- activated_parameters
+
+=== CLUSTER 2622 (Size: 1) ===
+- Seroprevalence
+
+=== CLUSTER 2623 (Size: 1) ===
+- Apnea-hypopnea index
+
+=== CLUSTER 2624 (Size: 1) ===
+- APK analysis method
+
+=== CLUSTER 2625 (Size: 1) ===
+- Settings
+
+=== CLUSTER 2626 (Size: 1) ===
+- tokenizer
+
+=== CLUSTER 2627 (Size: 1) ===
+- Sex
+
+=== CLUSTER 2628 (Size: 1) ===
+- Shape of EKC
+
+=== CLUSTER 2629 (Size: 1) ===
+- Shape Sensing Method
+
+=== CLUSTER 2607 (Size: 1) ===
+- Self-referencing
+
+=== CLUSTER 2606 (Size: 1) ===
+- self-healing
+
+=== CLUSTER 2605 (Size: 1) ===
+- top mistakes
+
+=== CLUSTER 2604 (Size: 1) ===
+- SelectiveGrowthMechanism
+
+=== CLUSTER 2583 (Size: 1) ===
+- accessService
+
+=== CLUSTER 2584 (Size: 1) ===
+- template length
+
+=== CLUSTER 2585 (Size: 1) ===
+- releasedEvent
+
+=== CLUSTER 2586 (Size: 1) ===
+- audit trail
+
+=== CLUSTER 2587 (Size: 1) ===
+- repeatedly encodes
+
+=== CLUSTER 2588 (Size: 1) ===
+- replicate group id
+
+=== CLUSTER 2589 (Size: 1) ===
+- replication package
+
+=== CLUSTER 2590 (Size: 1) ===
+- report hcd usage
+
+=== CLUSTER 2591 (Size: 1) ===
+- Reported by
+
+=== CLUSTER 2592 (Size: 1) ===
+- reporting guideline
+
+=== CLUSTER 2593 (Size: 1) ===
+- Twitter username
+
+=== CLUSTER 2594 (Size: 1) ===
+- reporting level
+
+=== CLUSTER 2595 (Size: 1) ===
+- Represent edges
+
+=== CLUSTER 2596 (Size: 1) ===
+- tune
+
+=== CLUSTER 2597 (Size: 1) ===
+- tracked_patterns
+
+=== CLUSTER 2598 (Size: 1) ===
+- Track name
+
+=== CLUSTER 2599 (Size: 1) ===
+- toughness
+
+=== CLUSTER 2600 (Size: 1) ===
+- rules violation checked (y/n)
+
+=== CLUSTER 2601 (Size: 1) ===
+- Security Model
+
+=== CLUSTER 2602 (Size: 1) ===
+- seeAlso
+
+=== CLUSTER 2603 (Size: 1) ===
+- Chemical group
+
+=== CLUSTER 2630 (Size: 1) ===
+- secondary research
+
+=== CLUSTER 2632 (Size: 1) ===
+- search strings
+
+=== CLUSTER 2581 (Size: 1) ===
+- Authors recommend
+
+=== CLUSTER 2669 (Size: 1) ===
+- Embodiment
+
+=== CLUSTER 2659 (Size: 1) ===
+- Top Terms
+
+=== CLUSTER 2660 (Size: 1) ===
+- scRNA-seq technique
+
+=== CLUSTER 2661 (Size: 1) ===
+- sdPublisher
+
+=== CLUSTER 2662 (Size: 1) ===
+- Approach family
+
+=== CLUSTER 2663 (Size: 1) ===
+- has early stopping
+
+=== CLUSTER 2664 (Size: 1) ===
+- Output indicator
+
+=== CLUSTER 2665 (Size: 1) ===
+- Elements
+
+=== CLUSTER 2666 (Size: 1) ===
+- identifies strategic condition
+
+=== CLUSTER 2667 (Size: 1) ===
+- Identified Factors 
+
+=== CLUSTER 2668 (Size: 1) ===
+- embargo date
+
+=== CLUSTER 2670 (Size: 1) ===
+- Emergency Management Phase
+
+=== CLUSTER 2633 (Size: 1) ===
+- Accuracy with ELMo
+
+=== CLUSTER 2671 (Size: 1) ===
+- IC50
+
+=== CLUSTER 2672 (Size: 1) ===
+- ibd performance metrics
+
+=== CLUSTER 2673 (Size: 1) ===
+- Hyponym-Of
+
+=== CLUSTER 2674 (Size: 1) ===
+- hydropower scheme type
+
+=== CLUSTER 2675 (Size: 1) ===
+- hydrogen utilization efficiency
+
+=== CLUSTER 2676 (Size: 1) ===
+- Emergency Type
+
+=== CLUSTER 2677 (Size: 1) ===
+- hybridization conditions
+
+=== CLUSTER 2678 (Size: 1) ===
+- hybrid_evaluation_approaches
+
+=== CLUSTER 2679 (Size: 1) ===
+- HVAC type
+
+=== CLUSTER 2680 (Size: 1) ===
+- Emission color
+
+=== CLUSTER 2658 (Size: 1) ===
+- Top-1 Accuracy (VisE-Bing)
+
+=== CLUSTER 2657 (Size: 1) ===
+- Scientific network(s)
+
+=== CLUSTER 2656 (Size: 1) ===
+- school metadata
+
+=== CLUSTER 2655 (Size: 1) ===
+- Topology
+
+=== CLUSTER 2634 (Size: 1) ===
+- run id
+
+=== CLUSTER 2635 (Size: 1) ===
+- Total tags
+
+=== CLUSTER 2636 (Size: 1) ===
+- Artifact / Contribution
+
+=== CLUSTER 2637 (Size: 1) ===
+- Running requirement
+
+=== CLUSTER 2638 (Size: 1) ===
+- total nhits
+
+=== CLUSTER 2639 (Size: 1) ===
+- Total Metadata entries
+
+=== CLUSTER 2640 (Size: 1) ===
+- Accuracy in Development set (Dev_Acc)
+
+=== CLUSTER 2641 (Size: 1) ===
+- Total Frames extracted
+
+=== CLUSTER 2642 (Size: 1) ===
+- Safety mechanism
+
+=== CLUSTER 2643 (Size: 1) ===
+- total duration value
+
+=== CLUSTER 2644 (Size: 1) ===
+- array support type
+
+=== CLUSTER 2645 (Size: 1) ===
+- array geometry
+
+=== CLUSTER 2646 (Size: 1) ===
+- Argumentation
+
+=== CLUSTER 2647 (Size: 1) ===
+- Sampling depth covered
+
+=== CLUSTER 2648 (Size: 1) ===
+- Search keyword
+
+=== CLUSTER 2649 (Size: 1) ===
+- Total Cases
+
+=== CLUSTER 2650 (Size: 1) ===
+- scaffold type
+
+=== CLUSTER 2651 (Size: 1) ===
+- total amount
+
+=== CLUSTER 2652 (Size: 1) ===
+- scanner
+
+=== CLUSTER 2653 (Size: 1) ===
+- scene type
+
+=== CLUSTER 2654 (Size: 1) ===
+- Architecture
+
+=== CLUSTER 2582 (Size: 1) ===
+- Author full names
+
+=== CLUSTER 2580 (Size: 1) ===
+- Related Figure
+
+=== CLUSTER 2884 (Size: 1) ===
+- Has hospitation rate
+
+=== CLUSTER 2516 (Size: 1) ===
+- Summarization Type
+
+=== CLUSTER 2506 (Size: 1) ===
+- Ambiguity handling
+
+=== CLUSTER 2507 (Size: 1) ===
+- study_sites
+
+=== CLUSTER 2508 (Size: 1) ===
+- ambient conditions
+
+=== CLUSTER 2509 (Size: 1) ===
+- Sub-hypothesis
+
+=== CLUSTER 2510 (Size: 1) ===
+- subset accuracy
+
+=== CLUSTER 2511 (Size: 1) ===
+- alloy designation
+
+=== CLUSTER 2512 (Size: 1) ===
+- allows_unbiased_estimation
+
+=== CLUSTER 2513 (Size: 1) ===
+- subthresholdSwing
+
+=== CLUSTER 2514 (Size: 1) ===
+- allows source attribution
+
+=== CLUSTER 2515 (Size: 1) ===
+- Allows self-learning
+
+=== CLUSTER 2517 (Size: 1) ===
+- Supports RDF
+
+=== CLUSTER 2529 (Size: 1) ===
+- administered to
+
+=== CLUSTER 2518 (Size: 1) ===
+- Summary usage
+
+=== CLUSTER 2519 (Size: 1) ===
+- Summery insoght
+
+=== CLUSTER 2520 (Size: 1) ===
+- supertask
+
+=== CLUSTER 2521 (Size: 1) ===
+- Allows personalization
+
+=== CLUSTER 2522 (Size: 1) ===
+- additionalType
+
+=== CLUSTER 2523 (Size: 1) ===
+- allows graph view
+
+=== CLUSTER 2524 (Size: 1) ===
+- Additive Manufacturing Process
+
+=== CLUSTER 2525 (Size: 1) ===
+- adjusted pvalue threshold
+
+=== CLUSTER 2526 (Size: 1) ===
+- Supported functions
+
+=== CLUSTER 2527 (Size: 1) ===
+- Test data count
+
+=== CLUSTER 2505 (Size: 1) ===
+- AMHS configuration
+
+=== CLUSTER 2504 (Size: 1) ===
+- Study groups
+
+=== CLUSTER 2503 (Size: 1) ===
+- amount of explained triples
+
+=== CLUSTER 2502 (Size: 1) ===
+- Suggested action
+
+=== CLUSTER 2481 (Size: 1) ===
+- synthesiser
+
+=== CLUSTER 2482 (Size: 1) ===
+- Terms learning
+
+=== CLUSTER 2483 (Size: 1) ===
+- Temporal character
+
+=== CLUSTER 2484 (Size: 1) ===
+- system properties
+
+=== CLUSTER 2485 (Size: 1) ===
+- Agile
+Method
+
+=== CLUSTER 2486 (Size: 1) ===
+- table selection technique
+
+=== CLUSTER 2487 (Size: 1) ===
+- table source
+
+=== CLUSTER 2488 (Size: 1) ===
+- tabular dataset
+
+=== CLUSTER 2489 (Size: 1) ===
+- Agent Architecture
+
+=== CLUSTER 2490 (Size: 1) ===
+- TemplateComponentOrder
+
+=== CLUSTER 2491 (Size: 1) ===
+- Taxonomy classes
+
+=== CLUSTER 2492 (Size: 1) ===
+- Team Name
+
+=== CLUSTER 2493 (Size: 1) ===
+- tech metadata
+
+=== CLUSTER 2494 (Size: 1) ===
+- afterpulsing probability
+
+=== CLUSTER 2495 (Size: 1) ===
+- Technology
+
+=== CLUSTER 2496 (Size: 1) ===
+- Template sub-template
+
+=== CLUSTER 2497 (Size: 1) ===
+- technology_probe_approach
+
+=== CLUSTER 2498 (Size: 1) ===
+- Adverse effect type
+
+=== CLUSTER 2499 (Size: 1) ===
+- Supports tasks
+
+=== CLUSTER 2500 (Size: 1) ===
+- Supports research data
+
+=== CLUSTER 2501 (Size: 1) ===
+- Supports reference extraction
+
+=== CLUSTER 2528 (Size: 1) ===
+- test collection
+
+=== CLUSTER 2530 (Size: 1) ===
+- Supports owl:sameAs Inference
+
+=== CLUSTER 2579 (Size: 1) ===
+- type of diffractive optical element
+
+=== CLUSTER 2567 (Size: 1) ===
+- trigger_condition
+
+=== CLUSTER 2557 (Size: 1) ===
+- Training loss
+
+=== CLUSTER 2558 (Size: 1) ===
+- Risk of bias
+
+=== CLUSTER 2559 (Size: 1) ===
+- rl_algorithm
+
+=== CLUSTER 2560 (Size: 1) ===
+- RMA_workflows
+
+=== CLUSTER 2561 (Size: 1) ===
+- Training activities period
+
+=== CLUSTER 2562 (Size: 1) ===
+- rpm
+
+=== CLUSTER 2563 (Size: 1) ===
+- Accuracy for BOW+POS
+
+=== CLUSTER 2564 (Size: 1) ===
+- Attribute types
+
+=== CLUSTER 2565 (Size: 1) ===
+- Representation Layer
+
+=== CLUSTER 2566 (Size: 1) ===
+- Shared material
+
+=== CLUSTER 2568 (Size: 1) ===
+- Average Hierarchical Score
+
+=== CLUSTER 2531 (Size: 1) ===
+- ap-score CTA
+
+=== CLUSTER 2569 (Size: 1) ===
+- reference ground configuration
+
+=== CLUSTER 2570 (Size: 1) ===
+- Type of Laser
+
+=== CLUSTER 2571 (Size: 1) ===
+- Type of Inquiry
+
+=== CLUSTER 2572 (Size: 1) ===
+- Reference importing
+
+=== CLUSTER 2573 (Size: 1) ===
+- accessibilityHazard
+
+=== CLUSTER 2574 (Size: 1) ===
+- Region of data collection
+
+=== CLUSTER 2575 (Size: 1) ===
+- Registry Established Year
+
+=== CLUSTER 2576 (Size: 1) ===
+- Type of Disability Addressed
+
+=== CLUSTER 2577 (Size: 1) ===
+- reimplemented
+
+=== CLUSTER 2578 (Size: 1) ===
+- Reinforce Learning
+
+=== CLUSTER 2556 (Size: 1) ===
+- risk assessement objective
+
+=== CLUSTER 2555 (Size: 1) ===
+- Reviews method
+
+=== CLUSTER 2554 (Size: 1) ===
+- assimilation window
+
+=== CLUSTER 2553 (Size: 1) ===
+- reverse transcription step
+
+=== CLUSTER 2532 (Size: 1) ===
+- Token match
+
+=== CLUSTER 2533 (Size: 1) ===
+- average insert size
+
+=== CLUSTER 2534 (Size: 1) ===
+- translationOfWork
+
+=== CLUSTER 2535 (Size: 1) ===
+- Research demographic
+
+=== CLUSTER 2536 (Size: 1) ===
+- Transformation Role
+
+=== CLUSTER 2537 (Size: 1) ===
+- Research Infrastructure
+
+=== CLUSTER 2538 (Size: 1) ===
+- Atomic_property
+
+=== CLUSTER 2539 (Size: 1) ===
+- training_environment_scale
+
+=== CLUSTER 2540 (Size: 1) ===
+- Research-Based Criteria
+
+=== CLUSTER 2541 (Size: 1) ===
+- residential location
+
+=== CLUSTER 2542 (Size: 1) ===
+- residual connections
+
+=== CLUSTER 2543 (Size: 1) ===
+- Resistance
+
+=== CLUSTER 2544 (Size: 1) ===
+- Atmospheric correction model
+
+=== CLUSTER 2545 (Size: 1) ===
+- Response generation component
+
+=== CLUSTER 2546 (Size: 1) ===
+- Result Geographic Location
+
+=== CLUSTER 2547 (Size: 1) ===
+- Results format
+
+=== CLUSTER 2548 (Size: 1) ===
+- Results/ Benefits
+
+=== CLUSTER 2549 (Size: 1) ===
+- astronomical image type
+
+=== CLUSTER 2550 (Size: 1) ===
+- Associated Data
+
+=== CLUSTER 2551 (Size: 1) ===
+- Training title
+
+=== CLUSTER 2552 (Size: 1) ===
+- Training place
+
+=== CLUSTER 2681 (Size: 1) ===
+- Elevation
+
+=== CLUSTER 2682 (Size: 1) ===
+- electrolyte
+
+=== CLUSTER 2683 (Size: 1) ===
+- Example class
+
+=== CLUSTER 2821 (Size: 1) ===
+- has load profile
+
+=== CLUSTER 2811 (Size: 1) ===
+- Examined (sub-)group
+
+=== CLUSTER 2812 (Size: 1) ===
+- example of usage
+
+=== CLUSTER 2813 (Size: 1) ===
+- Circuit
+
+=== CLUSTER 2814 (Size: 1) ===
+- Has Material Transaction
+
+=== CLUSTER 2815 (Size: 1) ===
+- genetic algorithm technique
+
+=== CLUSTER 2816 (Size: 1) ===
+- Has manufacturing process
+
+=== CLUSTER 2817 (Size: 1) ===
+- genre
+
+=== CLUSTER 2818 (Size: 1) ===
+- geografischer Untersuchungsrahmen
+
+=== CLUSTER 2819 (Size: 1) ===
+- geographical dataset
+
+=== CLUSTER 2820 (Size: 1) ===
+- has local name
+
+=== CLUSTER 2822 (Size: 1) ===
+- Geometric Correction
+
+=== CLUSTER 2834 (Size: 1) ===
+- Has number of votes
+
+=== CLUSTER 2823 (Size: 1) ===
+- geometric mean
+
+=== CLUSTER 2824 (Size: 1) ===
+- geometry
+
+=== CLUSTER 2825 (Size: 1) ===
+- Geometry specification
+
+=== CLUSTER 2826 (Size: 1) ===
+- grounded theory
+
+=== CLUSTER 2827 (Size: 1) ===
+- has latent variables
+
+=== CLUSTER 2828 (Size: 1) ===
+- habitat
+
+=== CLUSTER 2829 (Size: 1) ===
+- hallucination type
+
+=== CLUSTER 2830 (Size: 1) ===
+- Generic Use Case
+
+=== CLUSTER 2831 (Size: 1) ===
+- Generation method
+
+=== CLUSTER 2832 (Size: 1) ===
+- has user license
+
+=== CLUSTER 2810 (Size: 1) ===
+- Input indicator
+
+=== CLUSTER 2809 (Size: 1) ===
+- Dropout rate
+
+=== CLUSTER 2808 (Size: 1) ===
+- drift addressed
+
+=== CLUSTER 2807 (Size: 1) ===
+- Input type of KG
+
+=== CLUSTER 2786 (Size: 1) ===
+- Inductive Study
+
+=== CLUSTER 2787 (Size: 1) ===
+- individual light history
+
+=== CLUSTER 2788 (Size: 1) ===
+- Econometric model
+
+=== CLUSTER 2789 (Size: 1) ===
+- Indication
+
+=== CLUSTER 2790 (Size: 1) ===
+- index type
+
+=== CLUSTER 2791 (Size: 1) ===
+-  Ecosystem services investigated
+
+=== CLUSTER 2792 (Size: 1) ===
+- increment
+
+=== CLUSTER 2793 (Size: 1) ===
+- Inhibition Constant
+
+=== CLUSTER 2794 (Size: 1) ===
+- dynamic range
+
+=== CLUSTER 2795 (Size: 1) ===
+- initialization
+
+=== CLUSTER 2796 (Size: 1) ===
+- DR","Conclusions","Results","Methods","source"
+
+=== CLUSTER 2797 (Size: 1) ===
+- intended public
+
+=== CLUSTER 2798 (Size: 1) ===
+- DosingTime
+
+=== CLUSTER 2799 (Size: 1) ===
+- Integrity constraints
+
+=== CLUSTER 2800 (Size: 1) ===
+- integration with editors
+
+=== CLUSTER 2801 (Size: 1) ===
+- Downstream Application
+
+=== CLUSTER 2802 (Size: 1) ===
+- integrates model
+
+=== CLUSTER 2803 (Size: 1) ===
+- drawn from
+
+=== CLUSTER 2804 (Size: 1) ===
+- Duration of Programme
+
+=== CLUSTER 2805 (Size: 1) ===
+- insertions
+
+=== CLUSTER 2806 (Size: 1) ===
+- input_devices
+
+=== CLUSTER 2833 (Size: 1) ===
+- Gene_Class
+
+=== CLUSTER 2835 (Size: 1) ===
+- Has number of user interactions
+
+=== CLUSTER 2684 (Size: 1) ===
+- Elasticity
+
+=== CLUSTER 2872 (Size: 1) ===
+- has international travel
+
+=== CLUSTER 2862 (Size: 1) ===
+- has end of period
+
+=== CLUSTER 2863 (Size: 1) ===
+- Has dielectric constant
+
+=== CLUSTER 2864 (Size: 1) ===
+- has electrical grid properties
+
+=== CLUSTER 2865 (Size: 1) ===
+- has disposition
+
+=== CLUSTER 2866 (Size: 1) ===
+- Has ECS result
+
+=== CLUSTER 2867 (Size: 1) ===
+- has ecosystem type
+
+=== CLUSTER 2868 (Size: 1) ===
+- Has heading level
+
+=== CLUSTER 2869 (Size: 1) ===
+- Has component type
+
+=== CLUSTER 2870 (Size: 1) ===
+- has command line option
+
+=== CLUSTER 2871 (Size: 1) ===
+- Has antimicrobial properties
+
+=== CLUSTER 2873 (Size: 1) ===
+- has accessability type
+
+=== CLUSTER 2836 (Size: 1) ===
+- fraction
+
+=== CLUSTER 2874 (Size: 1) ===
+- has activation function
+
+=== CLUSTER 2875 (Size: 1) ===
+- Has information processing paradigm
+
+=== CLUSTER 2876 (Size: 1) ===
+- has anova
+
+=== CLUSTER 2877 (Size: 1) ===
+- has inducer
+
+=== CLUSTER 2878 (Size: 1) ===
+- Has incidence
+
+=== CLUSTER 2879 (Size: 1) ===
+- has boundary
+
+=== CLUSTER 2880 (Size: 1) ===
+- has bandwidth usage
+
+=== CLUSTER 2881 (Size: 1) ===
+- has base oil
+
+=== CLUSTER 2882 (Size: 1) ===
+- Has bias parameter alpha
+
+=== CLUSTER 2883 (Size: 1) ===
+- has binary
+
+=== CLUSTER 2861 (Size: 1) ===
+- has demand
+
+=== CLUSTER 2860 (Size: 1) ===
+- has delivery mode 
+
+=== CLUSTER 2859 (Size: 1) ===
+- has evidenced antecedent
+
+=== CLUSTER 2858 (Size: 1) ===
+- has date 
+
+=== CLUSTER 2837 (Size: 1) ===
+- has number of modules
+
+=== CLUSTER 2838 (Size: 1) ===
+- full length
+
+=== CLUSTER 2839 (Size: 1) ===
+- Functions identical to
+
+=== CLUSTER 2840 (Size: 1) ===
+- fusion level
+
+=== CLUSTER 2841 (Size: 1) ===
+- Galiciana work ID
+
+=== CLUSTER 2842 (Size: 1) ===
+- has morphological result
+
+=== CLUSTER 2843 (Size: 1) ===
+- Game Genres
+
+=== CLUSTER 2844 (Size: 1) ===
+- gamma sources used
+
+=== CLUSTER 2845 (Size: 1) ===
+- Has Mineralogy
+
+=== CLUSTER 2846 (Size: 1) ===
+- Gauge Factor (GF)
+
+=== CLUSTER 2847 (Size: 1) ===
+- gauge length
+
+=== CLUSTER 2848 (Size: 1) ===
+- has mentors
+
+=== CLUSTER 2849 (Size: 1) ===
+- hardware burden
+
+=== CLUSTER 2850 (Size: 1) ===
+- Has kernel function
+
+=== CLUSTER 2851 (Size: 1) ===
+- Has Kaggle Competition
+
+=== CLUSTER 2852 (Size: 1) ===
+- has Interval
+
+=== CLUSTER 2853 (Size: 1) ===
+- has composite indicator
+
+=== CLUSTER 2854 (Size: 1) ===
+- Has gamma
+
+=== CLUSTER 2855 (Size: 1) ===
+- Has Configuration
+
+=== CLUSTER 2856 (Size: 1) ===
+- has corresponding pattern step
+
+=== CLUSTER 2857 (Size: 1) ===
+- has Customer Interaction
+
+=== CLUSTER 2785 (Size: 1) ===
+- Industry 4.0 technology
+
+=== CLUSTER 2784 (Size: 1) ===
+- Infection Rate
+
+=== CLUSTER 2783 (Size: 1) ===
+- Inference time 
+
+=== CLUSTER 2720 (Size: 1) ===
+- hasMathematicalProperty
+
+=== CLUSTER 2710 (Size: 1) ===
+- Evaluation tracks
+
+=== CLUSTER 2711 (Size: 1) ===
+- hasBasicInformation
+
+=== CLUSTER 2712 (Size: 1) ===
+-  has_venue
+
+=== CLUSTER 2713 (Size: 1) ===
+- has_kind_of_messages
+
+=== CLUSTER 2714 (Size: 1) ===
+- has_kind_of_appeal
+
+=== CLUSTER 2715 (Size: 1) ===
+- evaluation_taxonomies
+
+=== CLUSTER 2716 (Size: 1) ===
+- Event types
+
+=== CLUSTER 2717 (Size: 1) ===
+- has wind power density
+
+=== CLUSTER 2718 (Size: 1) ===
+- has viscosity
+
+=== CLUSTER 2719 (Size: 1) ===
+- hasMappingtoSource
+
+=== CLUSTER 2721 (Size: 1) ===
+- hasMediaType
+
+=== CLUSTER 2782 (Size: 1) ===
+- Inferential statistic results
+
+=== CLUSTER 2722 (Size: 1) ===
+- hasSubtitle
+
+=== CLUSTER 2723 (Size: 1) ===
+- End-to-end system performance
+
+=== CLUSTER 2724 (Size: 1) ===
+- Historic map
+
+=== CLUSTER 2725 (Size: 1) ===
+- energy resolution
+
+=== CLUSTER 2726 (Size: 1) ===
+- energy scale uncertainty
+
+=== CLUSTER 2727 (Size: 1) ===
+- engineered variant
+
+=== CLUSTER 2728 (Size: 1) ===
+- EPI accession numbers
+
+=== CLUSTER 2729 (Size: 1) ===
+- hasSpouse
+
+=== CLUSTER 2730 (Size: 1) ===
+- hasMinCount / hasMaxCount
+
+=== CLUSTER 2731 (Size: 1) ===
+- Erosion Assessment Approach
+
+=== CLUSTER 2709 (Size: 1) ===
+- hasGND
+
+=== CLUSTER 2708 (Size: 1) ===
+- hasGreatGrandparent
+
+=== CLUSTER 2707 (Size: 1) ===
+- HasInterface
+
+=== CLUSTER 2706 (Size: 1) ===
+- Estimated value
+
+=== CLUSTER 2685 (Size: 1) ===
+- In-vivo study
+
+=== CLUSTER 2686 (Size: 1) ===
+- In-/excluding references
+
+=== CLUSTER 2687 (Size: 1) ===
+- editEIDR
+
+=== CLUSTER 2688 (Size: 1) ===
+- edition number
+
+=== CLUSTER 2689 (Size: 1) ===
+- Implication
+
+=== CLUSTER 2690 (Size: 1) ===
+- Implemented queries
+
+=== CLUSTER 2691 (Size: 1) ===
+- Education course
+
+=== CLUSTER 2692 (Size: 1) ===
+- eeg
+
+=== CLUSTER 2693 (Size: 1) ===
+- implant model
+
+=== CLUSTER 2694 (Size: 1) ===
+- impedance
+
+=== CLUSTER 2695 (Size: 1) ===
+- impairments focused on
+
+=== CLUSTER 2696 (Size: 1) ===
+- efered index
+
+=== CLUSTER 2697 (Size: 1) ===
+- efforts
+
+=== CLUSTER 2698 (Size: 1) ===
+- Images  dimensions
+
+=== CLUSTER 2699 (Size: 1) ===
+- EID
+
+=== CLUSTER 2700 (Size: 1) ===
+- Emission lifetime
+
+=== CLUSTER 2701 (Size: 1) ===
+- Hoover Coefficient of Concentration
+
+=== CLUSTER 2702 (Size: 1) ===
+- Emphasis
+
+=== CLUSTER 2703 (Size: 1) ===
+- Historical edidences
+
+=== CLUSTER 2704 (Size: 1) ===
+- Estimated infectious period
+
+=== CLUSTER 2705 (Size: 1) ===
+- Estimated removed rate
+
+=== CLUSTER 2732 (Size: 1) ===
+- hasScenario
+
+=== CLUSTER 2733 (Size: 1) ===
+- hasResourceLocation
+
+=== CLUSTER 2734 (Size: 1) ===
+- hasPropertyPath
+
+=== CLUSTER 2759 (Size: 1) ===
+- is plural of
+
+=== CLUSTER 2761 (Size: 1) ===
+- ISBN
+
+=== CLUSTER 2762 (Size: 1) ===
+- is wearable
+
+=== CLUSTER 2763 (Size: 1) ===
+- is software/hardware design institution
+
+=== CLUSTER 2764 (Size: 1) ===
+- is review paper?
+
+=== CLUSTER 2765 (Size: 1) ===
+- Disambiguation task
+
+=== CLUSTER 2766 (Size: 1) ===
+- is medical institution
+
+=== CLUSTER 2767 (Size: 1) ===
+- dispersion estimation
+
+=== CLUSTER 2768 (Size: 1) ===
+- is larger than
+
+=== CLUSTER 2769 (Size: 1) ===
+- Disclosures
+
+=== CLUSTER 2770 (Size: 1) ===
+- is explained in
+
+=== CLUSTER 2771 (Size: 1) ===
+- Discourse structure
+
+=== CLUSTER 2772 (Size: 1) ===
+- is communicated through
+
+=== CLUSTER 2773 (Size: 1) ===
+- is an individual of taxon
+
+=== CLUSTER 2774 (Size: 1) ===
+- Does not cause
+
+=== CLUSTER 2775 (Size: 1) ===
+- Inter-cluster topology
+
+=== CLUSTER 2776 (Size: 1) ===
+- increased in magnitude relative to
+
+=== CLUSTER 2777 (Size: 1) ===
+- intensities
+
+=== CLUSTER 2778 (Size: 1) ===
+- Dynamical Core
+
+=== CLUSTER 2779 (Size: 1) ===
+- information_architecture
+
+=== CLUSTER 2780 (Size: 1) ===
+- eats
+
+=== CLUSTER 2781 (Size: 1) ===
+- influences_design
+
+=== CLUSTER 2760 (Size: 1) ===
+- isContinuedBy
+
+=== CLUSTER 2758 (Size: 1) ===
+- display arrangement
+
+=== CLUSTER 2735 (Size: 1) ===
+- hasPolicy
+
+=== CLUSTER 2757 (Size: 1) ===
+- Involved methods
+
+=== CLUSTER 2736 (Size: 1) ===
+- HasOpenness
+
+=== CLUSTER 2737 (Size: 1) ===
+- edge treatment
+
+=== CLUSTER 2738 (Size: 1) ===
+- includedInDataCatalog
+
+=== CLUSTER 2739 (Size: 1) ===
+- includes social foci
+
+=== CLUSTER 2740 (Size: 1) ===
+- Domain specific task
+
+=== CLUSTER 2741 (Size: 1) ===
+- Dissolution Conditions
+
+=== CLUSTER 2742 (Size: 1) ===
+- invader taxon
+
+=== CLUSTER 2743 (Size: 1) ===
+- Intrusion Detection Type
+
+=== CLUSTER 2744 (Size: 1) ===
+- introduces construct
+
+=== CLUSTER 2745 (Size: 1) ===
+- diversity statement
+
+=== CLUSTER 2746 (Size: 1) ===
+- Document type
+
+=== CLUSTER 2747 (Size: 1) ===
+- documentary support
+
+=== CLUSTER 2748 (Size: 1) ===
+- Documentation
+
+=== CLUSTER 2749 (Size: 1) ===
+- interpretedAsClaim
+
+=== CLUSTER 2750 (Size: 1) ===
+- Interoperability
+
+=== CLUSTER 2751 (Size: 1) ===
+- International project
+
+=== CLUSTER 2752 (Size: 1) ===
+- internal rate of return
+
+=== CLUSTER 2753 (Size: 1) ===
+- Internal identifier
+
+=== CLUSTER 2754 (Size: 1) ===
+- interdisciplinary_methods
+
+=== CLUSTER 2755 (Size: 1) ===
+- Intercept
+
+=== CLUSTER 2756 (Size: 1) ===
+- Investigation Method
+
+=== CLUSTER 1664 (Size: 1) ===
+- likelihood
+
+=== CLUSTER 1662 (Size: 1) ===
+- maximum stimulator output
+
+=== CLUSTER 1 (Size: 1) ===
+- Uses ontology
+
+=== CLUSTER 574 (Size: 1) ===
+- proposed_method
+
+=== CLUSTER 564 (Size: 1) ===
+- brand
+
+=== CLUSTER 565 (Size: 1) ===
+- wavelength
+
+=== CLUSTER 566 (Size: 1) ===
+- Sequencing
+
+=== CLUSTER 567 (Size: 1) ===
+- technology used
+
+=== CLUSTER 568 (Size: 1) ===
+- extraction method
+
+=== CLUSTER 569 (Size: 1) ===
+- researcher
+
+=== CLUSTER 570 (Size: 1) ===
+- has_value
+
+=== CLUSTER 571 (Size: 1) ===
+- temporal resolution
+
+=== CLUSTER 572 (Size: 1) ===
+- Mean Squared Error (MSE)
+
+=== CLUSTER 573 (Size: 1) ===
+- root mean square error (RMSE)
+
+=== CLUSTER 575 (Size: 1) ===
+- Augment
+
+=== CLUSTER 587 (Size: 1) ===
+- Max. reduction
+
+=== CLUSTER 576 (Size: 1) ===
+- mean
+
+=== CLUSTER 577 (Size: 1) ===
+- Average post per event
+
+=== CLUSTER 578 (Size: 1) ===
+- uses tool
+
+=== CLUSTER 579 (Size: 1) ===
+- output
+
+=== CLUSTER 580 (Size: 1) ===
+- documentation link
+
+=== CLUSTER 581 (Size: 1) ===
+- assay type
+
+=== CLUSTER 582 (Size: 1) ===
+- reactant
+
+=== CLUSTER 583 (Size: 1) ===
+- reagent details
+
+=== CLUSTER 584 (Size: 1) ===
+- Sacrificial Reagent
+
+=== CLUSTER 585 (Size: 1) ===
+- reaction details
+
+=== CLUSTER 563 (Size: 1) ===
+- manufacturer
+
+=== CLUSTER 562 (Size: 1) ===
+- has quality
+
+=== CLUSTER 561 (Size: 1) ===
+- CitationCount
+
+=== CLUSTER 560 (Size: 1) ===
+- CitesPerYear
+
+=== CLUSTER 539 (Size: 1) ===
+- uses embeddings
+
+=== CLUSTER 540 (Size: 1) ===
+- reproducibility
+
+=== CLUSTER 541 (Size: 1) ===
+- machine learning algorithm
+
+=== CLUSTER 542 (Size: 1) ===
+- Quality
+
+=== CLUSTER 543 (Size: 1) ===
+- outperforms
+
+=== CLUSTER 544 (Size: 1) ===
+- problem
+
+=== CLUSTER 545 (Size: 1) ===
+- comprises domain
+
+=== CLUSTER 546 (Size: 1) ===
+- funder
+
+=== CLUSTER 547 (Size: 1) ===
+- age
+
+=== CLUSTER 548 (Size: 1) ===
+- investigated part
+
+=== CLUSTER 549 (Size: 1) ===
+- Clock rate
+
+=== CLUSTER 550 (Size: 1) ===
+- framework
+
+=== CLUSTER 551 (Size: 1) ===
+- risk_levels
+
+=== CLUSTER 552 (Size: 1) ===
+- risk statement
+
+=== CLUSTER 553 (Size: 1) ===
+- Risk type
+
+=== CLUSTER 554 (Size: 1) ===
+- risk probability
+
+=== CLUSTER 555 (Size: 1) ===
+- covered via
+
+=== CLUSTER 556 (Size: 1) ===
+- shown by
+
+=== CLUSTER 557 (Size: 1) ===
+- chosen by
+
+=== CLUSTER 558 (Size: 1) ===
+- determined by
+
+=== CLUSTER 559 (Size: 1) ===
+- confirmed by
+
+=== CLUSTER 586 (Size: 1) ===
+- maximum value
+
+=== CLUSTER 588 (Size: 1) ===
+- max size
+
+=== CLUSTER 537 (Size: 1) ===
+- Identification method
+
+=== CLUSTER 625 (Size: 1) ===
+- response rate
+
+=== CLUSTER 615 (Size: 1) ===
+- Learning method
+
+=== CLUSTER 616 (Size: 1) ===
+- Learning tool
+
+=== CLUSTER 617 (Size: 1) ===
+- Learning purpose
+
+=== CLUSTER 618 (Size: 1) ===
+- learning model
+
+=== CLUSTER 619 (Size: 1) ===
+- learning technique
+
+=== CLUSTER 620 (Size: 1) ===
+- adaptation
+
+=== CLUSTER 621 (Size: 1) ===
+- signal-to-noise_ratio
+
+=== CLUSTER 622 (Size: 1) ===
+- transform
+
+=== CLUSTER 623 (Size: 1) ===
+- Data split
+
+=== CLUSTER 624 (Size: 1) ===
+- Heuristic followed
+
+=== CLUSTER 626 (Size: 1) ===
+- drop rate
+
+=== CLUSTER 589 (Size: 1) ===
+- max count
+
+=== CLUSTER 627 (Size: 1) ===
+- rate
+
+=== CLUSTER 628 (Size: 1) ===
+- attention_rate
+
+=== CLUSTER 629 (Size: 1) ===
+- acceptance rate
+
+=== CLUSTER 630 (Size: 1) ===
+- positive rate
+
+=== CLUSTER 631 (Size: 1) ===
+- Annotators
+
+=== CLUSTER 632 (Size: 1) ===
+- annotate guideline
+
+=== CLUSTER 633 (Size: 1) ===
+- question type
+
+=== CLUSTER 634 (Size: 1) ===
+- target audience
+
+=== CLUSTER 635 (Size: 1) ===
+- artefact type
+
+=== CLUSTER 636 (Size: 1) ===
+- assumption
+
+=== CLUSTER 614 (Size: 1) ===
+- has model
+
+=== CLUSTER 613 (Size: 1) ===
+- population
+
+=== CLUSTER 612 (Size: 1) ===
+- demonstrates
+
+=== CLUSTER 611 (Size: 1) ===
+- Concept
+
+=== CLUSTER 590 (Size: 1) ===
+- has maximum at
+
+=== CLUSTER 591 (Size: 1) ===
+- Number of entities
+
+=== CLUSTER 592 (Size: 1) ===
+- constraints
+
+=== CLUSTER 593 (Size: 1) ===
+- analysis method
+
+=== CLUSTER 594 (Size: 1) ===
+- has version
+
+=== CLUSTER 595 (Size: 1) ===
+- structure
+
+=== CLUSTER 596 (Size: 1) ===
+- lower limit
+
+=== CLUSTER 597 (Size: 1) ===
+- Experimental Dataset
+
+=== CLUSTER 598 (Size: 1) ===
+- surface properties
+
+=== CLUSTER 599 (Size: 1) ===
+- surfaceModifications
+
+=== CLUSTER 600 (Size: 1) ===
+- surfaceModel
+
+=== CLUSTER 601 (Size: 1) ===
+- surfaceArea
+
+=== CLUSTER 602 (Size: 1) ===
+- surfaceFacet
+
+=== CLUSTER 603 (Size: 1) ===
+- knowledge graph
+
+=== CLUSTER 604 (Size: 1) ===
+- Number Of Knowledge Graphs
+
+=== CLUSTER 605 (Size: 1) ===
+- Uses knowledge graph
+
+=== CLUSTER 606 (Size: 1) ===
+- label
+
+=== CLUSTER 607 (Size: 1) ===
+- Concepts
+
+=== CLUSTER 608 (Size: 1) ===
+- top Concept Of
+
+=== CLUSTER 609 (Size: 1) ===
+- Focus/concept
+
+=== CLUSTER 610 (Size: 1) ===
+- Concept Identifier
+
+=== CLUSTER 538 (Size: 1) ===
+- Identifier knowledge
+
+=== CLUSTER 536 (Size: 1) ===
+- identifierType
+
+=== CLUSTER 638 (Size: 1) ===
+- efficiency model
+
+=== CLUSTER 472 (Size: 1) ===
+- theoretical_frameworks
+
+=== CLUSTER 461 (Size: 1) ===
+- Validation
+
+=== CLUSTER 462 (Size: 1) ===
+- Validation Method
+
+=== CLUSTER 463 (Size: 1) ===
+- Validation procedure
+
+=== CLUSTER 464 (Size: 1) ===
+- submitted papers
+
+=== CLUSTER 465 (Size: 1) ===
+- number of papers
+
+=== CLUSTER 466 (Size: 1) ===
+- Papers
+
+=== CLUSTER 467 (Size: 1) ===
+- Papers Foci
+
+=== CLUSTER 469 (Size: 1) ===
+- base model
+
+=== CLUSTER 470 (Size: 1) ===
+- component
+
+=== CLUSTER 471 (Size: 1) ===
+- theoretical_implications
+
+=== CLUSTER 473 (Size: 1) ===
+- theoretical_justification
+
+=== CLUSTER 485 (Size: 1) ===
+- licence
+
+=== CLUSTER 474 (Size: 1) ===
+- theories
+
+=== CLUSTER 475 (Size: 1) ===
+- threshold measurement
+
+=== CLUSTER 476 (Size: 1) ===
+- trigger threshold
+
+=== CLUSTER 477 (Size: 1) ===
+- threshold ratio
+
+=== CLUSTER 478 (Size: 1) ===
+- Query
+
+=== CLUSTER 479 (Size: 1) ===
+- has assay method
+
+=== CLUSTER 480 (Size: 1) ===
+- has lead optimization assay
+
+=== CLUSTER 481 (Size: 1) ===
+- has confirmatory assay
+
+=== CLUSTER 482 (Size: 1) ===
+- has assay phase characteristic
+
+=== CLUSTER 483 (Size: 1) ===
+- has assay footprint
+
+=== CLUSTER 460 (Size: 1) ===
+- validation_type
+
+=== CLUSTER 459 (Size: 1) ===
+- deviceProperties
+
+=== CLUSTER 458 (Size: 1) ===
+- User Devices
+
+=== CLUSTER 457 (Size: 1) ===
+- Device structure
+
+=== CLUSTER 434 (Size: 1) ===
+- Fake News Accuracy
+
+=== CLUSTER 435 (Size: 1) ===
+- Number of properties
+
+=== CLUSTER 436 (Size: 1) ===
+- number of data properties
+
+=== CLUSTER 437 (Size: 1) ===
+- Object property count
+
+=== CLUSTER 438 (Size: 1) ===
+- affiliation
+
+=== CLUSTER 439 (Size: 1) ===
+- Correlation
+
+=== CLUSTER 440 (Size: 1) ===
+- scenario
+
+=== CLUSTER 441 (Size: 1) ===
+- True Positive rate
+
+=== CLUSTER 442 (Size: 1) ===
+- True Negative Rate
+
+=== CLUSTER 444 (Size: 1) ===
+- Negative Predictive Rate
+
+=== CLUSTER 445 (Size: 1) ===
+- Positive Predictive Rate
+
+=== CLUSTER 446 (Size: 1) ===
+- hardware description
+
+=== CLUSTER 447 (Size: 1) ===
+- outcome measures
+
+=== CLUSTER 448 (Size: 1) ===
+- subtype
+
+=== CLUSTER 450 (Size: 1) ===
+- Phase
+
+=== CLUSTER 451 (Size: 1) ===
+- has parameter
+
+=== CLUSTER 452 (Size: 1) ===
+- System
+
+=== CLUSTER 453 (Size: 1) ===
+- Advantages
+
+=== CLUSTER 454 (Size: 1) ===
+- frequency
+
+=== CLUSTER 455 (Size: 1) ===
+- spatial resolution
+
+=== CLUSTER 456 (Size: 1) ===
+- device
+
+=== CLUSTER 484 (Size: 1) ===
+- has assay title
+
+=== CLUSTER 486 (Size: 1) ===
+- Training data
+
+=== CLUSTER 535 (Size: 1) ===
+- Unique ID
+
+=== CLUSTER 523 (Size: 1) ===
+- Reason
+
+=== CLUSTER 513 (Size: 1) ===
+- NLP data type
+
+=== CLUSTER 514 (Size: 1) ===
+- NLP data abstraction level
+
+=== CLUSTER 515 (Size: 1) ===
+- evaluated task
+
+=== CLUSTER 516 (Size: 1) ===
+- Has evaluation
+
+=== CLUSTER 517 (Size: 1) ===
+- Detection type
+
+=== CLUSTER 518 (Size: 1) ===
+- Detects
+
+=== CLUSTER 519 (Size: 1) ===
+- detection method
+
+=== CLUSTER 520 (Size: 1) ===
+- detection results
+
+=== CLUSTER 521 (Size: 1) ===
+- detection techniques
+
+=== CLUSTER 522 (Size: 1) ===
+- Resource
+
+=== CLUSTER 524 (Size: 1) ===
+- size
+
+=== CLUSTER 487 (Size: 1) ===
+- Has output
+
+=== CLUSTER 525 (Size: 1) ===
+- experiment model size
+
+=== CLUSTER 526 (Size: 1) ===
+- kernel size
+
+=== CLUSTER 527 (Size: 1) ===
+- Description Size
+
+=== CLUSTER 528 (Size: 1) ===
+- related link
+
+=== CLUSTER 529 (Size: 1) ===
+- Related Terms
+
+=== CLUSTER 530 (Size: 1) ===
+- related domain
+
+=== CLUSTER 531 (Size: 1) ===
+- Related Comparisons
+
+=== CLUSTER 532 (Size: 1) ===
+- related concept
+
+=== CLUSTER 533 (Size: 1) ===
+- alternativeName
+
+=== CLUSTER 534 (Size: 1) ===
+- ID
+
+=== CLUSTER 512 (Size: 1) ===
+- NLP data source
+
+=== CLUSTER 511 (Size: 1) ===
+- NLP dataset
+
+=== CLUSTER 510 (Size: 1) ===
+- has law competence
+
+=== CLUSTER 509 (Size: 1) ===
+- has IS/IT competence
+
+=== CLUSTER 488 (Size: 1) ===
+- sentence error rate
+
+=== CLUSTER 489 (Size: 1) ===
+- Translation error rate
+
+=== CLUSTER 490 (Size: 1) ===
+- character error rate
+
+=== CLUSTER 491 (Size: 1) ===
+- operation
+
+=== CLUSTER 492 (Size: 1) ===
+- operates on
+
+=== CLUSTER 493 (Size: 1) ===
+- operator
+
+=== CLUSTER 494 (Size: 1) ===
+- Has operations
+
+=== CLUSTER 495 (Size: 1) ===
+- Type of operation
+
+=== CLUSTER 496 (Size: 1) ===
+- NLP task type
+
+=== CLUSTER 497 (Size: 1) ===
+- NLP task input
+
+=== CLUSTER 498 (Size: 1) ===
+- NLP task output type
+
+=== CLUSTER 499 (Size: 1) ===
+- Downstream NLP Task 
+
+=== CLUSTER 500 (Size: 1) ===
+- class
+
+=== CLUSTER 501 (Size: 1) ===
+- Domain
+
+=== CLUSTER 502 (Size: 1) ===
+- interaction_outcome
+
+=== CLUSTER 503 (Size: 1) ===
+- quantity
+
+=== CLUSTER 504 (Size: 1) ===
+- hasQuantityKind
+
+=== CLUSTER 505 (Size: 1) ===
+- number of units
+
+=== CLUSTER 506 (Size: 1) ===
+- has business competence
+
+=== CLUSTER 507 (Size: 1) ===
+- has soft skills competences
+
+=== CLUSTER 508 (Size: 1) ===
+- has other skills
+
+=== CLUSTER 637 (Size: 1) ===
+- efficiency calculation
+
+=== CLUSTER 639 (Size: 1) ===
+- classification efficiency
+
+=== CLUSTER 845 (Size: 1) ===
+- is independent of
+
+=== CLUSTER 779 (Size: 1) ===
+- Analysis
+
+=== CLUSTER 769 (Size: 1) ===
+- Feature extraction
+
+=== CLUSTER 770 (Size: 1) ===
+- Feature selection
+
+=== CLUSTER 771 (Size: 1) ===
+- Feature engineering methods
+
+=== CLUSTER 772 (Size: 1) ===
+- Has measurement method
+
+=== CLUSTER 773 (Size: 1) ===
+- has measured entity
+
+=== CLUSTER 774 (Size: 1) ===
+- has system measurements
+
+=== CLUSTER 775 (Size: 1) ===
+- has section
+
+=== CLUSTER 776 (Size: 1) ===
+- sector
+
+=== CLUSTER 777 (Size: 1) ===
+- has sector
+
+=== CLUSTER 778 (Size: 1) ===
+- section
+
+=== CLUSTER 780 (Size: 1) ===
+- extension
+
+=== CLUSTER 792 (Size: 1) ===
+- reference URL
+
+=== CLUSTER 781 (Size: 1) ===
+- external tools
+
+=== CLUSTER 782 (Size: 1) ===
+- plugin
+
+=== CLUSTER 783 (Size: 1) ===
+- external feature
+
+=== CLUSTER 784 (Size: 1) ===
+- subject
+
+=== CLUSTER 785 (Size: 1) ===
+- subjectivity
+
+=== CLUSTER 786 (Size: 1) ===
+- length
+
+=== CLUSTER 787 (Size: 1) ===
+- media_format
+
+=== CLUSTER 788 (Size: 1) ===
+- FieldsOfStudy
+
+=== CLUSTER 789 (Size: 1) ===
+- level
+
+=== CLUSTER 790 (Size: 1) ===
+- rule
+
+=== CLUSTER 768 (Size: 1) ===
+- field_study
+
+=== CLUSTER 767 (Size: 1) ===
+- data availability 
+
+=== CLUSTER 766 (Size: 1) ===
+- Author Affiliation
+
+=== CLUSTER 765 (Size: 1) ===
+- available in
+
+=== CLUSTER 744 (Size: 1) ===
+- Reactor
+
+=== CLUSTER 745 (Size: 1) ===
+- stimulus
+
+=== CLUSTER 746 (Size: 1) ===
+- Follow-up
+
+=== CLUSTER 747 (Size: 1) ===
+- uses similarity
+
+=== CLUSTER 748 (Size: 1) ===
+- similarity metric
+
+=== CLUSTER 749 (Size: 1) ===
+- semantic similarity
+
+=== CLUSTER 750 (Size: 1) ===
+- Levenshtein similarity
+
+=== CLUSTER 751 (Size: 1) ===
+- mean Average Precision
+
+=== CLUSTER 752 (Size: 1) ===
+- mAP
+
+=== CLUSTER 753 (Size: 1) ===
+- training time
+
+=== CLUSTER 754 (Size: 1) ===
+- training_pipeline
+
+=== CLUSTER 755 (Size: 1) ===
+- training method
+
+=== CLUSTER 756 (Size: 1) ===
+- training
+
+=== CLUSTER 757 (Size: 1) ===
+- Relevance
+
+=== CLUSTER 758 (Size: 1) ===
+- inter-annotator agreement
+
+=== CLUSTER 759 (Size: 1) ===
+- post processing
+
+=== CLUSTER 760 (Size: 1) ===
+- Number of classes
+
+=== CLUSTER 761 (Size: 1) ===
+- Aggregate-based measures
+
+=== CLUSTER 762 (Size: 1) ===
+- Component-based measures
+
+=== CLUSTER 763 (Size: 1) ===
+- Instrument
+
+=== CLUSTER 764 (Size: 1) ===
+- uncertainty estimate
+
+=== CLUSTER 791 (Size: 1) ===
+- CitesURL
+
+=== CLUSTER 793 (Size: 1) ===
+- Article URL
+
+=== CLUSTER 742 (Size: 1) ===
+- are based on
+
+=== CLUSTER 832 (Size: 1) ===
+- Formal Proof
+
+=== CLUSTER 821 (Size: 1) ===
+- donor template
+
+=== CLUSTER 822 (Size: 1) ===
+- Donor
+
+=== CLUSTER 823 (Size: 1) ===
+- medical condition
+
+=== CLUSTER 825 (Size: 1) ===
+- sampling_method
+
+=== CLUSTER 826 (Size: 1) ===
+- Website
+
+=== CLUSTER 827 (Size: 1) ===
+- instance
+
+=== CLUSTER 828 (Size: 1) ===
+- Release
+
+=== CLUSTER 829 (Size: 1) ===
+- Latest Release
+
+=== CLUSTER 830 (Size: 1) ===
+- Release format
+
+=== CLUSTER 831 (Size: 1) ===
+- Formalization
+
+=== CLUSTER 833 (Size: 1) ===
+- Formal Theory
+
+=== CLUSTER 794 (Size: 1) ===
+- Journal URL
+
+=== CLUSTER 834 (Size: 1) ===
+- formal description
+
+=== CLUSTER 835 (Size: 1) ===
+- min count
+
+=== CLUSTER 836 (Size: 1) ===
+- segments
+
+=== CLUSTER 837 (Size: 1) ===
+- segment started at
+
+=== CLUSTER 838 (Size: 1) ===
+- segmentation
+
+=== CLUSTER 839 (Size: 1) ===
+- segment id
+
+=== CLUSTER 840 (Size: 1) ===
+- Relative error
+
+=== CLUSTER 841 (Size: 1) ===
+- variant
+
+=== CLUSTER 842 (Size: 1) ===
+- Address
+
+=== CLUSTER 843 (Size: 1) ===
+- relies on
+
+=== CLUSTER 820 (Size: 1) ===
+- donor ID
+
+=== CLUSTER 819 (Size: 1) ===
+- number of layers
+
+=== CLUSTER 818 (Size: 1) ===
+- formula
+
+=== CLUSTER 817 (Size: 1) ===
+- catalog number
+
+=== CLUSTER 795 (Size: 1) ===
+- Number of questions
+
+=== CLUSTER 796 (Size: 1) ===
+- Number of instances
+
+=== CLUSTER 797 (Size: 1) ===
+- Issue(s) Addressed	
+
+=== CLUSTER 798 (Size: 1) ===
+- Learning rate
+
+=== CLUSTER 799 (Size: 1) ===
+- accessRights
+
+=== CLUSTER 800 (Size: 1) ===
+- accessMode
+
+=== CLUSTER 801 (Size: 1) ===
+- conditionsOfAccess
+
+=== CLUSTER 802 (Size: 1) ===
+- Intended use
+
+=== CLUSTER 803 (Size: 1) ===
+- solvent
+
+=== CLUSTER 804 (Size: 1) ===
+- solubility
+
+=== CLUSTER 806 (Size: 1) ===
+- intervention duration
+
+=== CLUSTER 807 (Size: 1) ===
+- intervention time of day
+
+=== CLUSTER 808 (Size: 1) ===
+- sampling_rate
+
+=== CLUSTER 809 (Size: 1) ===
+- kit details
+
+=== CLUSTER 810 (Size: 1) ===
+- affects
+
+=== CLUSTER 811 (Size: 1) ===
+- sequencing method
+
+=== CLUSTER 812 (Size: 1) ===
+- API support
+
+=== CLUSTER 813 (Size: 1) ===
+- collaborates_with
+
+=== CLUSTER 814 (Size: 1) ===
+- session
+
+=== CLUSTER 815 (Size: 1) ===
+- sample id
+
+=== CLUSTER 816 (Size: 1) ===
+- DOI
+
+=== CLUSTER 743 (Size: 1) ===
+- Test data
+
+=== CLUSTER 741 (Size: 1) ===
+- has specified input
+
+=== CLUSTER 640 (Size: 1) ===
+- Efficiency
+
+=== CLUSTER 677 (Size: 1) ===
+- objective function
+
+=== CLUSTER 667 (Size: 1) ===
+- has drug
+
+=== CLUSTER 668 (Size: 1) ===
+- Drug loading
+
+=== CLUSTER 669 (Size: 1) ===
+- drug
+
+=== CLUSTER 670 (Size: 1) ===
+- defines
+
+=== CLUSTER 671 (Size: 1) ===
+- Deduplication
+
+=== CLUSTER 672 (Size: 1) ===
+- period of data collection
+
+=== CLUSTER 673 (Size: 1) ===
+- Visualization
+
+=== CLUSTER 674 (Size: 1) ===
+- visualizes information of
+
+=== CLUSTER 675 (Size: 1) ===
+- Data presentation
+
+=== CLUSTER 676 (Size: 1) ===
+- object of visualiztion
+
+=== CLUSTER 678 (Size: 1) ===
+- Volume
+
+=== CLUSTER 690 (Size: 1) ===
+- display_positioning
+
+=== CLUSTER 679 (Size: 1) ===
+- month
+
+=== CLUSTER 680 (Size: 1) ===
+- Protocol
+
+=== CLUSTER 681 (Size: 1) ===
+- Prototype
+
+=== CLUSTER 682 (Size: 1) ===
+- temperature
+
+=== CLUSTER 683 (Size: 1) ===
+- temperatureDependence
+
+=== CLUSTER 684 (Size: 1) ===
+- temperature program
+
+=== CLUSTER 685 (Size: 1) ===
+- max operating temperature
+
+=== CLUSTER 686 (Size: 1) ===
+- mean absolute error
+
+=== CLUSTER 687 (Size: 1) ===
+- position
+
+=== CLUSTER 688 (Size: 1) ===
+- is positioned at
+
+=== CLUSTER 666 (Size: 1) ===
+- Ranking
+
+=== CLUSTER 665 (Size: 1) ===
+- delivery method
+
+=== CLUSTER 664 (Size: 1) ===
+- Input Parameter
+
+=== CLUSTER 663 (Size: 1) ===
+- Optimization method
+
+=== CLUSTER 641 (Size: 1) ===
+- Efficiency algorithm category
+
+=== CLUSTER 642 (Size: 1) ===
+- sensor_type
+
+=== CLUSTER 643 (Size: 1) ===
+- metric
+
+=== CLUSTER 644 (Size: 1) ===
+- task metric
+
+=== CLUSTER 645 (Size: 1) ===
+- Metric Name
+
+=== CLUSTER 646 (Size: 1) ===
+- dose metric
+
+=== CLUSTER 647 (Size: 1) ===
+- batch correction
+
+=== CLUSTER 648 (Size: 1) ===
+- Correction methods
+
+=== CLUSTER 649 (Size: 1) ===
+- poisson correction
+
+=== CLUSTER 650 (Size: 1) ===
+- correction
+
+=== CLUSTER 651 (Size: 1) ===
+- baseline correction
+
+=== CLUSTER 652 (Size: 1) ===
+- Has ocean model name
+
+=== CLUSTER 653 (Size: 1) ===
+- Has sea ice model name
+
+=== CLUSTER 654 (Size: 1) ===
+- Has ocean model documantation
+
+=== CLUSTER 656 (Size: 1) ===
+- future direction
+
+=== CLUSTER 657 (Size: 1) ===
+- Disadvantage
+
+=== CLUSTER 658 (Size: 1) ===
+- Main purpose
+
+=== CLUSTER 659 (Size: 1) ===
+- optimizer
+
+=== CLUSTER 660 (Size: 1) ===
+- optimization task
+
+=== CLUSTER 661 (Size: 1) ===
+- optimization techniques
+
+=== CLUSTER 662 (Size: 1) ===
+- Optimization criteria
+
+=== CLUSTER 689 (Size: 1) ===
+- bearing position
+
+=== CLUSTER 691 (Size: 1) ===
+- Batch size
+
+=== CLUSTER 740 (Size: 1) ===
+- subtask
+
+=== CLUSTER 728 (Size: 1) ===
+- descriptive statistics
+
+=== CLUSTER 718 (Size: 1) ===
+- Etching rate
+
+=== CLUSTER 719 (Size: 1) ===
+- Type of etching mixture
+
+=== CLUSTER 720 (Size: 1) ===
+- Etching mechanism
+
+=== CLUSTER 721 (Size: 1) ===
+- Type of etching
+
+=== CLUSTER 722 (Size: 1) ===
+- number_of_attention_heads
+
+=== CLUSTER 723 (Size: 1) ===
+- network
+
+=== CLUSTER 724 (Size: 1) ===
+- Context
+
+=== CLUSTER 725 (Size: 1) ===
+- design concept
+
+=== CLUSTER 726 (Size: 1) ===
+- design_objective
+
+=== CLUSTER 727 (Size: 1) ===
+- design formula
+
+=== CLUSTER 729 (Size: 1) ===
+- download link
+
+=== CLUSTER 692 (Size: 1) ===
+- Compound
+
+=== CLUSTER 730 (Size: 1) ===
+- evidence_type
+
+=== CLUSTER 731 (Size: 1) ===
+- video
+
+=== CLUSTER 732 (Size: 1) ===
+- Clustering method
+
+=== CLUSTER 733 (Size: 1) ===
+- Solution method
+
+=== CLUSTER 734 (Size: 1) ===
+- count
+
+=== CLUSTER 735 (Size: 1) ===
+- normalization
+
+=== CLUSTER 736 (Size: 1) ===
+- Normalization types
+
+=== CLUSTER 737 (Size: 1) ===
+- norm version
+
+=== CLUSTER 738 (Size: 1) ===
+- Norm. entropy
+
+=== CLUSTER 739 (Size: 1) ===
+- has horizontal resolution
+
+=== CLUSTER 717 (Size: 1) ===
+- programming language
+
+=== CLUSTER 716 (Size: 1) ===
+- Challenge
+
+=== CLUSTER 715 (Size: 1) ===
+- iteration
+
+=== CLUSTER 714 (Size: 1) ===
+- vocabulary
+
+=== CLUSTER 693 (Size: 1) ===
+- recognizes
+
+=== CLUSTER 694 (Size: 1) ===
+- recognition type
+
+=== CLUSTER 695 (Size: 1) ===
+- recognition rate (%)
+
+=== CLUSTER 696 (Size: 1) ===
+- sample type
+
+=== CLUSTER 697 (Size: 1) ===
+- Page count
+
+=== CLUSTER 698 (Size: 1) ===
+- modeling method
+
+=== CLUSTER 699 (Size: 1) ===
+- modelling software
+
+=== CLUSTER 700 (Size: 1) ===
+- modelling interactions
+
+=== CLUSTER 701 (Size: 1) ===
+- modeling specifics
+
+=== CLUSTER 702 (Size: 1) ===
+- IsOpenAccess
+
+=== CLUSTER 703 (Size: 1) ===
+- Conference
+
+=== CLUSTER 704 (Size: 1) ===
+- Relation types
+
+=== CLUSTER 705 (Size: 1) ===
+- issn
+
+=== CLUSTER 706 (Size: 1) ===
+- journal metadata
+
+=== CLUSTER 707 (Size: 1) ===
+- Category 5
+
+=== CLUSTER 708 (Size: 1) ===
+- Category 2
+
+=== CLUSTER 709 (Size: 1) ===
+- Category 4
+
+=== CLUSTER 710 (Size: 1) ===
+- uniformity
+
+=== CLUSTER 711 (Size: 1) ===
+- conformality
+
+=== CLUSTER 712 (Size: 1) ===
+- homogeneity
+
+=== CLUSTER 713 (Size: 1) ===
+- interaction_mode
+
+=== CLUSTER 433 (Size: 1) ===
+- process characteristic
+
+=== CLUSTER 432 (Size: 1) ===
+- Control
+
+=== CLUSTER 431 (Size: 1) ===
+- average precision CEA
+
+=== CLUSTER 151 (Size: 1) ===
+- snapshot date
+
+=== CLUSTER 141 (Size: 1) ===
+- Publication location
+
+=== CLUSTER 142 (Size: 1) ===
+- Howpublished
+
+=== CLUSTER 143 (Size: 1) ===
+- has published version
+
+=== CLUSTER 144 (Size: 1) ===
+- Publications
+
+=== CLUSTER 145 (Size: 1) ===
+-  Publications / Source
+
+=== CLUSTER 146 (Size: 1) ===
+- evaluation date
+
+=== CLUSTER 147 (Size: 1) ===
+- Date
+
+=== CLUSTER 148 (Size: 1) ===
+- date reported
+
+=== CLUSTER 149 (Size: 1) ===
+- date created
+
+=== CLUSTER 150 (Size: 1) ===
+- submission date
+
+=== CLUSTER 152 (Size: 1) ===
+- Access Date
+
+=== CLUSTER 164 (Size: 1) ===
+- Google Scholar ID
+
+=== CLUSTER 153 (Size: 1) ===
+- QueryDate
+
+=== CLUSTER 154 (Size: 1) ===
+- Date Added
+
+=== CLUSTER 155 (Size: 1) ===
+- Deposit Date
+
+=== CLUSTER 156 (Size: 1) ===
+- date metadata
+
+=== CLUSTER 157 (Size: 1) ===
+- source
+
+=== CLUSTER 158 (Size: 1) ===
+- limitation
+
+=== CLUSTER 159 (Size: 1) ===
+- objective
+
+=== CLUSTER 160 (Size: 1) ===
+- Software
+
+=== CLUSTER 161 (Size: 1) ===
+- data_type
+
+=== CLUSTER 162 (Size: 1) ===
+- location
+
+=== CLUSTER 139 (Size: 1) ===
+- publication_venue
+
+=== CLUSTER 138 (Size: 1) ===
+- publication
+
+=== CLUSTER 137 (Size: 1) ===
+- Publication type
+
+=== CLUSTER 136 (Size: 1) ===
+- result
+
+=== CLUSTER 112 (Size: 1) ===
+- comparative_analysis
+
+=== CLUSTER 113 (Size: 1) ===
+- Research Method
+
+=== CLUSTER 114 (Size: 1) ===
+- Step 1
+
+=== CLUSTER 115 (Size: 1) ===
+- Step
+
+=== CLUSTER 117 (Size: 1) ===
+- Number of steps
+
+=== CLUSTER 118 (Size: 1) ===
+- step size
+
+=== CLUSTER 119 (Size: 1) ===
+- protocol_step
+
+=== CLUSTER 120 (Size: 1) ===
+- step name
+
+=== CLUSTER 121 (Size: 1) ===
+- Has steps
+
+=== CLUSTER 122 (Size: 1) ===
+- Observation
+
+=== CLUSTER 124 (Size: 1) ===
+- observation_technique
+
+=== CLUSTER 125 (Size: 1) ===
+- Observed value
+
+=== CLUSTER 126 (Size: 1) ===
+- observes
+
+=== CLUSTER 127 (Size: 1) ===
+- observed feature
+
+=== CLUSTER 128 (Size: 1) ===
+- Observer
+
+=== CLUSTER 129 (Size: 1) ===
+- Observed in
+
+=== CLUSTER 130 (Size: 1) ===
+- manual_observation
+
+=== CLUSTER 131 (Size: 1) ===
+- observation unit
+
+=== CLUSTER 132 (Size: 1) ===
+- has observations
+
+=== CLUSTER 133 (Size: 1) ===
+- Algorithm
+
+=== CLUSTER 134 (Size: 1) ===
+- contribution
+
+=== CLUSTER 163 (Size: 1) ===
+- author
+
+=== CLUSTER 165 (Size: 1) ===
+- ORCID
+
+=== CLUSTER 109 (Size: 1) ===
+- Other datasets
+
+=== CLUSTER 205 (Size: 1) ===
+- deployment_log
+
+=== CLUSTER 194 (Size: 1) ===
+- Sampling year
+
+=== CLUSTER 195 (Size: 1) ===
+- current year
+
+=== CLUSTER 196 (Size: 1) ===
+- dataset size
+
+=== CLUSTER 197 (Size: 1) ===
+- 1st Dataset Size
+
+=== CLUSTER 198 (Size: 1) ===
+- Discuss (Training size)
+
+=== CLUSTER 199 (Size: 1) ===
+- Has Dataset size
+
+=== CLUSTER 200 (Size: 1) ===
+- dataset total size
+
+=== CLUSTER 202 (Size: 1) ===
+- deployment_period
+
+=== CLUSTER 203 (Size: 1) ===
+- deployment_area
+
+=== CLUSTER 204 (Size: 1) ===
+- deployed in
+
+=== CLUSTER 206 (Size: 1) ===
+- deployment_status
+
+=== CLUSTER 166 (Size: 1) ===
+- ResearchGate ID
+
+=== CLUSTER 207 (Size: 1) ===
+- deployment_context
+
+=== CLUSTER 208 (Size: 1) ===
+- Deployment
+
+=== CLUSTER 209 (Size: 1) ===
+- deployment positions
+
+=== CLUSTER 211 (Size: 1) ===
+- data collection
+
+=== CLUSTER 212 (Size: 1) ===
+- implementation
+
+=== CLUSTER 213 (Size: 1) ===
+- Technique
+
+=== CLUSTER 214 (Size: 1) ===
+- Preprocessing
+
+=== CLUSTER 215 (Size: 1) ===
+- citation
+
+=== CLUSTER 216 (Size: 1) ===
+- Modality
+
+=== CLUSTER 217 (Size: 1) ===
+- knowledge type
+
+=== CLUSTER 193 (Size: 1) ===
+- comparison year
+
+=== CLUSTER 192 (Size: 1) ===
+- Dataset Year
+
+=== CLUSTER 191 (Size: 1) ===
+- year created
+
+=== CLUSTER 190 (Size: 1) ===
+- Launch Year
+
+=== CLUSTER 167 (Size: 1) ===
+- Publons ID
+
+=== CLUSTER 168 (Size: 1) ===
+- publication year
+
+=== CLUSTER 169 (Size: 1) ===
+- Focus
+
+=== CLUSTER 170 (Size: 1) ===
+- Transitions
+
+=== CLUSTER 171 (Size: 1) ===
+- Snowballing
+
+=== CLUSTER 172 (Size: 1) ===
+- Threshold
+
+=== CLUSTER 173 (Size: 1) ===
+- Taktfrequenz
+
+=== CLUSTER 174 (Size: 1) ===
+- Locus
+
+=== CLUSTER 175 (Size: 1) ===
+- Facets
+
+=== CLUSTER 176 (Size: 1) ===
+- Six Degrees of Francis Bacon ID
+
+=== CLUSTER 177 (Size: 1) ===
+- Crosslinker
+
+=== CLUSTER 178 (Size: 1) ===
+- Ebene der Verhandlung
+
+=== CLUSTER 179 (Size: 1) ===
+- Saturation
+
+=== CLUSTER 180 (Size: 1) ===
+- Factor
+
+=== CLUSTER 181 (Size: 1) ===
+- Binder
+
+=== CLUSTER 182 (Size: 1) ===
+- uses
+
+=== CLUSTER 183 (Size: 1) ===
+- associated with
+
+=== CLUSTER 185 (Size: 1) ===
+- Task
+
+=== CLUSTER 186 (Size: 1) ===
+- Year
+
+=== CLUSTER 188 (Size: 1) ===
+- year of measurement
+
+=== CLUSTER 189 (Size: 1) ===
+- test year
+
+=== CLUSTER 110 (Size: 1) ===
+- Data used
+
+=== CLUSTER 108 (Size: 1) ===
+- dataset description
+
+=== CLUSTER 430 (Size: 1) ===
+- average F1 CPA
+
+=== CLUSTER 39 (Size: 1) ===
+- empirical_evaluation
+
+=== CLUSTER 29 (Size: 1) ===
+- evaluation_reporting
+
+=== CLUSTER 30 (Size: 1) ===
+- Evaluation results
+
+=== CLUSTER 31 (Size: 1) ===
+- evaluation_scope
+
+=== CLUSTER 32 (Size: 1) ===
+- model evaluation technique
+
+=== CLUSTER 33 (Size: 1) ===
+- evaluation benchmark
+
+=== CLUSTER 34 (Size: 1) ===
+- evaluation_framework
+
+=== CLUSTER 35 (Size: 1) ===
+- evaluation_phases
+
+=== CLUSTER 36 (Size: 1) ===
+- analytical_evaluation
+
+=== CLUSTER 37 (Size: 1) ===
+- in-situ_evaluation
+
+=== CLUSTER 38 (Size: 1) ===
+- paper_evaluation_method
+
+=== CLUSTER 40 (Size: 1) ===
+- computational evaluation
+
+=== CLUSTER 53 (Size: 1) ===
+- experiment metadata
+
+=== CLUSTER 41 (Size: 1) ===
+- evaluation_timeline
+
+=== CLUSTER 42 (Size: 1) ===
+- evaluation setting
+
+=== CLUSTER 43 (Size: 1) ===
+- evaluation uses AI
+
+=== CLUSTER 44 (Size: 1) ===
+- evaluation criteria
+
+=== CLUSTER 45 (Size: 1) ===
+- evaluation_resources
+
+=== CLUSTER 46 (Size: 1) ===
+- experiment
+
+=== CLUSTER 48 (Size: 1) ===
+- experiment description
+
+=== CLUSTER 49 (Size: 1) ===
+- has experiment
+
+=== CLUSTER 50 (Size: 1) ===
+- experiment location
+
+=== CLUSTER 51 (Size: 1) ===
+- experiment time
+
+=== CLUSTER 27 (Size: 1) ===
+- assessed
+
+=== CLUSTER 26 (Size: 1) ===
+- Evaluation metric
+
+=== CLUSTER 25 (Size: 1) ===
+- evaluation method
+
+=== CLUSTER 24 (Size: 1) ===
+- evaluation
+
+=== CLUSTER 2 (Size: 1) ===
+- Ontology IRI
+
+=== CLUSTER 3 (Size: 1) ===
+- Ontology type
+
+=== CLUSTER 4 (Size: 1) ===
+- Ontology
+
+=== CLUSTER 5 (Size: 1) ===
+- Ontology Construction Method
+
+=== CLUSTER 6 (Size: 1) ===
+- Ontology learning component
+
+=== CLUSTER 7 (Size: 1) ===
+- ontology editor
+
+=== CLUSTER 8 (Size: 1) ===
+- SKOS ontology
+
+=== CLUSTER 9 (Size: 1) ===
+- ontologylearningsource
+
+=== CLUSTER 11 (Size: 1) ===
+- ontology component
+
+=== CLUSTER 12 (Size: 1) ===
+- Linked Ontology
+
+=== CLUSTER 13 (Size: 1) ===
+- dc ontology
+
+=== CLUSTER 14 (Size: 1) ===
+- Ontology Evaluation
+
+=== CLUSTER 15 (Size: 1) ===
+- Geo ontology
+
+=== CLUSTER 16 (Size: 1) ===
+- Has ontology
+
+=== CLUSTER 17 (Size: 1) ===
+- Ontology Language
+
+=== CLUSTER 18 (Size: 1) ===
+- Ontology ID
+
+=== CLUSTER 19 (Size: 1) ===
+- Ontology Design Strategy
+
+=== CLUSTER 20 (Size: 1) ===
+- Ontology Orientation
+
+=== CLUSTER 21 (Size: 1) ===
+- Ontology availability
+
+=== CLUSTER 22 (Size: 1) ===
+- ontology learning approach
+
+=== CLUSTER 23 (Size: 1) ===
+- Reused ontology
+
+=== CLUSTER 52 (Size: 1) ===
+- experiment condition
+
+=== CLUSTER 54 (Size: 1) ===
+- experimental procedure
+
+=== CLUSTER 107 (Size: 1) ===
+- data
+
+=== CLUSTER 94 (Size: 1) ===
+- paper template
+
+=== CLUSTER 83 (Size: 1) ===
+- Minimum time
+
+=== CLUSTER 84 (Size: 1) ===
+- administration time
+
+=== CLUSTER 85 (Size: 1) ===
+- Operation time
+
+=== CLUSTER 86 (Size: 1) ===
+- timeRequired
+
+=== CLUSTER 87 (Size: 1) ===
+- time investment
+
+=== CLUSTER 88 (Size: 1) ===
+- Maximum time
+
+=== CLUSTER 89 (Size: 1) ===
+- timeDependent
+
+=== CLUSTER 90 (Size: 1) ===
+- Paper
+
+=== CLUSTER 91 (Size: 1) ===
+- paper:publication_year
+
+=== CLUSTER 92 (Size: 1) ===
+- paper:type
+
+=== CLUSTER 95 (Size: 1) ===
+- paper:caategory
+
+=== CLUSTER 55 (Size: 1) ===
+- Experiment setting
+
+=== CLUSTER 96 (Size: 1) ===
+- paper:links_source_information
+
+=== CLUSTER 97 (Size: 1) ===
+- paper_link
+
+=== CLUSTER 98 (Size: 1) ===
+- paper goal
+
+=== CLUSTER 99 (Size: 1) ===
+- Dataset used
+
+=== CLUSTER 100 (Size: 1) ===
+- data_repository
+
+=== CLUSTER 101 (Size: 1) ===
+- Has Datasets
+
+=== CLUSTER 102 (Size: 1) ===
+- Dataset name
+
+=== CLUSTER 104 (Size: 1) ===
+- Dataset location
+
+=== CLUSTER 105 (Size: 1) ===
+- Dataset statistics
+
+=== CLUSTER 106 (Size: 1) ===
+- dataset features
+
+=== CLUSTER 81 (Size: 1) ===
+- Time step
+
+=== CLUSTER 80 (Size: 1) ===
+- Time dimension
+
+=== CLUSTER 79 (Size: 1) ===
+- point in time
+
+=== CLUSTER 78 (Size: 1) ===
+- Time frame
+
+=== CLUSTER 56 (Size: 1) ===
+- Experiment approach
+
+=== CLUSTER 57 (Size: 1) ===
+- Experiment phases
+
+=== CLUSTER 58 (Size: 1) ===
+- experiment series
+
+=== CLUSTER 59 (Size: 1) ===
+- experimental analysis
+
+=== CLUSTER 60 (Size: 1) ===
+- experimental parameters
+
+=== CLUSTER 61 (Size: 1) ===
+- Has experimental procedure
+
+=== CLUSTER 62 (Size: 1) ===
+- experiment mode
+
+=== CLUSTER 63 (Size: 1) ===
+- Experiment queries
+
+=== CLUSTER 64 (Size: 1) ===
+- f-score
+
+=== CLUSTER 65 (Size: 1) ===
+- measuring instrument
+
+=== CLUSTER 66 (Size: 1) ===
+- Measurements
+
+=== CLUSTER 67 (Size: 1) ===
+- Measures
+
+=== CLUSTER 68 (Size: 1) ===
+- measured physical quantity
+
+=== CLUSTER 69 (Size: 1) ===
+- measurement condition 1
+
+=== CLUSTER 70 (Size: 1) ===
+- Measured in
+
+=== CLUSTER 71 (Size: 1) ===
+- Measured in conditions
+
+=== CLUSTER 72 (Size: 1) ===
+- measured by
+
+=== CLUSTER 73 (Size: 1) ===
+- measure
+
+=== CLUSTER 74 (Size: 1) ===
+- measured_during
+
+=== CLUSTER 75 (Size: 1) ===
+- Measurement type
+
+=== CLUSTER 77 (Size: 1) ===
+- time
+
+=== CLUSTER 218 (Size: 1) ===
+- knowledge_source
+
+=== CLUSTER 219 (Size: 1) ===
+- Knowledge Base
+
+=== CLUSTER 220 (Size: 1) ===
+- Field of knowledge
+
+=== CLUSTER 364 (Size: 1) ===
+- targets
+
+=== CLUSTER 354 (Size: 1) ===
+- assessment
+
+=== CLUSTER 355 (Size: 1) ===
+- assessment method
+
+=== CLUSTER 356 (Size: 1) ===
+- source of assessment
+
+=== CLUSTER 357 (Size: 1) ===
+- research intervention
+
+=== CLUSTER 358 (Size: 1) ===
+- evaluation dataset
+
+=== CLUSTER 359 (Size: 1) ===
+- performance
+
+=== CLUSTER 360 (Size: 1) ===
+- language model
+
+=== CLUSTER 361 (Size: 1) ===
+- keywords
+
+=== CLUSTER 362 (Size: 1) ===
+- has property
+
+=== CLUSTER 363 (Size: 1) ===
+- has target
+
+=== CLUSTER 365 (Size: 1) ===
+- target value
+
+=== CLUSTER 378 (Size: 1) ===
+- instance type
+
+=== CLUSTER 366 (Size: 1) ===
+- target product
+
+=== CLUSTER 367 (Size: 1) ===
+- target description
+
+=== CLUSTER 368 (Size: 1) ===
+- has Target users
+
+=== CLUSTER 369 (Size: 1) ===
+- target concept
+
+=== CLUSTER 370 (Size: 1) ===
+- target data
+
+=== CLUSTER 371 (Size: 1) ===
+- additional information
+
+=== CLUSTER 372 (Size: 1) ===
+- approach
+
+=== CLUSTER 374 (Size: 1) ===
+- type
+
+=== CLUSTER 375 (Size: 1) ===
+- nameType
+
+=== CLUSTER 376 (Size: 1) ===
+- type study
+
+=== CLUSTER 352 (Size: 1) ===
+- has simulation approach
+
+=== CLUSTER 351 (Size: 1) ===
+- simulation method
+
+=== CLUSTER 350 (Size: 1) ===
+- simulates
+
+=== CLUSTER 349 (Size: 1) ===
+- Simulator
+
+=== CLUSTER 327 (Size: 1) ===
+- accessibility evaluation tool
+
+=== CLUSTER 328 (Size: 1) ===
+- Accessibility
+
+=== CLUSTER 329 (Size: 1) ===
+- accessibility levels
+
+=== CLUSTER 330 (Size: 1) ===
+- Classification scheme
+
+=== CLUSTER 331 (Size: 1) ===
+- Classification
+
+=== CLUSTER 332 (Size: 1) ===
+- classification type
+
+=== CLUSTER 333 (Size: 1) ===
+- Classification Result
+
+=== CLUSTER 334 (Size: 1) ===
+- classification methods
+
+=== CLUSTER 335 (Size: 1) ===
+- Duration
+
+=== CLUSTER 336 (Size: 1) ===
+- effectiveness
+
+=== CLUSTER 337 (Size: 1) ===
+- title
+
+=== CLUSTER 339 (Size: 1) ===
+- educationalLevel
+
+=== CLUSTER 340 (Size: 1) ===
+- educationalUse
+
+=== CLUSTER 341 (Size: 1) ===
+- educationalAlignment
+
+=== CLUSTER 342 (Size: 1) ===
+- education type
+
+=== CLUSTER 343 (Size: 1) ===
+- educational subject
+
+=== CLUSTER 344 (Size: 1) ===
+- educational specialty
+
+=== CLUSTER 345 (Size: 1) ===
+- author: education
+
+=== CLUSTER 346 (Size: 1) ===
+- education stage
+
+=== CLUSTER 347 (Size: 1) ===
+- simulationResults
+
+=== CLUSTER 348 (Size: 1) ===
+- simulation software
+
+=== CLUSTER 377 (Size: 1) ===
+- ionType
+
+=== CLUSTER 379 (Size: 1) ===
+- interface type
+
+=== CLUSTER 221 (Size: 1) ===
+- Knowledge derived from
+
+=== CLUSTER 418 (Size: 1) ===
+- question 1
+
+=== CLUSTER 408 (Size: 1) ===
+- amplification
+
+=== CLUSTER 409 (Size: 1) ===
+- unit
+
+=== CLUSTER 410 (Size: 1) ===
+- scale type
+
+=== CLUSTER 411 (Size: 1) ===
+- Scope
+
+=== CLUSTER 412 (Size: 1) ===
+- scales up
+
+=== CLUSTER 413 (Size: 1) ===
+- Scale factor
+
+=== CLUSTER 414 (Size: 1) ===
+- Scale of space
+
+=== CLUSTER 415 (Size: 1) ===
+- Scale
+
+=== CLUSTER 416 (Size: 1) ===
+- study_date
+
+=== CLUSTER 417 (Size: 1) ===
+- property
+
+=== CLUSTER 419 (Size: 1) ===
+- answer
+
+=== CLUSTER 380 (Size: 1) ===
+- type details
+
+=== CLUSTER 420 (Size: 1) ===
+- subquestion
+
+=== CLUSTER 421 (Size: 1) ===
+- question/answer pairs
+
+=== CLUSTER 422 (Size: 1) ===
+- Answers
+
+=== CLUSTER 423 (Size: 1) ===
+- organizational structure
+
+=== CLUSTER 424 (Size: 1) ===
+- organization
+
+=== CLUSTER 425 (Size: 1) ===
+- parent organization
+
+=== CLUSTER 426 (Size: 1) ===
+- organization metadata
+
+=== CLUSTER 427 (Size: 1) ===
+- retrieval_mechanism
+
+=== CLUSTER 428 (Size: 1) ===
+- retrieval source
+
+=== CLUSTER 429 (Size: 1) ===
+- average recall CEA
+
+=== CLUSTER 407 (Size: 1) ===
+- architecture profile
+
+=== CLUSTER 406 (Size: 1) ===
+- Business architecture
+
+=== CLUSTER 405 (Size: 1) ===
+- architecture reference
+
+=== CLUSTER 403 (Size: 1) ===
+- Data architecture
+
+=== CLUSTER 381 (Size: 1) ===
+- Confidence interval
+
+=== CLUSTER 382 (Size: 1) ===
+- key insights
+
+=== CLUSTER 383 (Size: 1) ===
+- data size
+
+=== CLUSTER 384 (Size: 1) ===
+- Institution
+
+=== CLUSTER 385 (Size: 1) ===
+- Institutions
+
+=== CLUSTER 386 (Size: 1) ===
+- institution metadata
+
+=== CLUSTER 387 (Size: 1) ===
+- studied_in
+
+=== CLUSTER 388 (Size: 1) ===
+- institutional_affiliation
+
+=== CLUSTER 389 (Size: 1) ===
+- higher education institution country
+
+=== CLUSTER 390 (Size: 1) ===
+- precision
+
+=== CLUSTER 391 (Size: 1) ===
+- Tool
+
+=== CLUSTER 392 (Size: 1) ===
+- Available tools
+
+=== CLUSTER 394 (Size: 1) ===
+- tool availability
+
+=== CLUSTER 395 (Size: 1) ===
+- input
+
+=== CLUSTER 396 (Size: 1) ===
+- characteristic_of
+
+=== CLUSTER 397 (Size: 1) ===
+- numeric value
+
+=== CLUSTER 398 (Size: 1) ===
+- contains
+
+=== CLUSTER 399 (Size: 1) ===
+- model
+
+=== CLUSTER 400 (Size: 1) ===
+- sample
+
+=== CLUSTER 401 (Size: 1) ===
+- research field
+
+=== CLUSTER 402 (Size: 1) ===
+- software_architecture
+
+=== CLUSTER 325 (Size: 1) ===
+- accessibility statement URL
+
+=== CLUSTER 324 (Size: 1) ===
+- accessibilityFeature
+
+=== CLUSTER 323 (Size: 1) ===
+- composite score
+
+=== CLUSTER 257 (Size: 1) ===
+- Corpus tailored
+
+=== CLUSTER 247 (Size: 1) ===
+- country of research origin
+
+=== CLUSTER 248 (Size: 1) ===
+- method
+
+=== CLUSTER 249 (Size: 1) ===
+- corpus origin
+
+=== CLUSTER 250 (Size: 1) ===
+- Testing corpus
+
+=== CLUSTER 251 (Size: 1) ===
+- corpus volume
+
+=== CLUSTER 252 (Size: 1) ===
+- Finetuning corpus
+
+=== CLUSTER 253 (Size: 1) ===
+- Corpus statistics
+
+=== CLUSTER 254 (Size: 1) ===
+- Corpus Cardinality
+
+=== CLUSTER 255 (Size: 1) ===
+- Corpus name
+
+=== CLUSTER 256 (Size: 1) ===
+- Corpora
+
+=== CLUSTER 258 (Size: 1) ===
+- system name
+
+=== CLUSTER 322 (Size: 1) ===
+- Dice score
+
+=== CLUSTER 260 (Size: 1) ===
+- receiver operating characteristic
+
+=== CLUSTER 261 (Size: 1) ===
+- AUC
+
+=== CLUSTER 262 (Size: 1) ===
+- Abnormality-AUC
+
+=== CLUSTER 263 (Size: 1) ===
+- AUCPR
+
+=== CLUSTER 264 (Size: 1) ===
+- contribution:statistical_method_main
+
+=== CLUSTER 265 (Size: 1) ===
+- research problem
+
+=== CLUSTER 266 (Size: 1) ===
+- requirements
+
+=== CLUSTER 267 (Size: 1) ===
+- trained for
+
+=== CLUSTER 268 (Size: 1) ===
+- pre-trained on
+
+=== CLUSTER 269 (Size: 1) ===
+- trained parameter
+
+=== CLUSTER 246 (Size: 1) ===
+- Covered Countries 
+
+=== CLUSTER 245 (Size: 1) ===
+- Participant: country
+
+=== CLUSTER 244 (Size: 1) ===
+- Country/Region
+
+=== CLUSTER 243 (Size: 1) ===
+- countriesSupported
+
+=== CLUSTER 222 (Size: 1) ===
+- Date (start)
+
+=== CLUSTER 223 (Size: 1) ===
+- Language
+
+=== CLUSTER 224 (Size: 1) ===
+- research question
+
+=== CLUSTER 225 (Size: 1) ===
+- influenced by
+
+=== CLUSTER 226 (Size: 1) ===
+- influencing factor
+
+=== CLUSTER 227 (Size: 1) ===
+- influence_type
+
+=== CLUSTER 228 (Size: 1) ===
+- influences_phase
+
+=== CLUSTER 229 (Size: 1) ===
+- influence_strength
+
+=== CLUSTER 230 (Size: 1) ===
+- influenced_by_content
+
+=== CLUSTER 231 (Size: 1) ===
+- influenced feature
+
+=== CLUSTER 232 (Size: 1) ===
+- code
+
+=== CLUSTER 233 (Size: 1) ===
+- research facet
+
+=== CLUSTER 234 (Size: 1) ===
+- research_target
+
+=== CLUSTER 235 (Size: 1) ===
+- research_project
+
+=== CLUSTER 236 (Size: 1) ===
+- research_setting
+
+=== CLUSTER 237 (Size: 1) ===
+- research recommendation
+
+=== CLUSTER 238 (Size: 1) ===
+- research application
+
+=== CLUSTER 239 (Size: 1) ===
+- research idea
+
+=== CLUSTER 240 (Size: 1) ===
+- research components
+
+=== CLUSTER 241 (Size: 1) ===
+- research direction
+
+=== CLUSTER 242 (Size: 1) ===
+- Countries
+
+=== CLUSTER 270 (Size: 1) ===
+- pretraining task
+
+=== CLUSTER 271 (Size: 1) ===
+- pretraining architecture
+
+=== CLUSTER 272 (Size: 1) ===
+- treat
+
+=== CLUSTER 298 (Size: 1) ===
+- Project title
+
+=== CLUSTER 300 (Size: 1) ===
+- project id
+
+=== CLUSTER 301 (Size: 1) ===
+- participants
+
+=== CLUSTER 302 (Size: 1) ===
+- research aim
+
+=== CLUSTER 303 (Size: 1) ===
+- participant
+
+=== CLUSTER 304 (Size: 1) ===
+- conclusion
+
+=== CLUSTER 305 (Size: 1) ===
+- Performance metric
+
+=== CLUSTER 306 (Size: 1) ===
+- Performance criteria
+
+=== CLUSTER 307 (Size: 1) ===
+- Performance Results
+
+=== CLUSTER 308 (Size: 1) ===
+- Number of performance measures
+
+=== CLUSTER 309 (Size: 1) ===
+- functional performance measure
+
+=== CLUSTER 310 (Size: 1) ===
+- Study design
+
+=== CLUSTER 311 (Size: 1) ===
+- Feature-Of
+
+=== CLUSTER 312 (Size: 1) ===
+- hypothesis
+
+=== CLUSTER 313 (Size: 1) ===
+- latency
+
+=== CLUSTER 314 (Size: 1) ===
+- finding
+
+=== CLUSTER 315 (Size: 1) ===
+- Format
+
+=== CLUSTER 316 (Size: 1) ===
+- part of
+
+=== CLUSTER 317 (Size: 1) ===
+- Category
+
+=== CLUSTER 318 (Size: 1) ===
+- Calibration
+
+=== CLUSTER 319 (Size: 1) ===
+- material
+
+=== CLUSTER 320 (Size: 1) ===
+- score
+
+=== CLUSTER 299 (Size: 1) ===
+- Project progress
+
+=== CLUSTER 297 (Size: 1) ===
+- project state
+
+=== CLUSTER 273 (Size: 1) ===
+- End date
+
+=== CLUSTER 296 (Size: 1) ===
+- project start
+
+=== CLUSTER 274 (Size: 1) ===
+- geographical area
+
+=== CLUSTER 275 (Size: 1) ===
+- 1st Dataset
+
+=== CLUSTER 276 (Size: 1) ===
+- 1st Dataset F1-score
+
+=== CLUSTER 277 (Size: 1) ===
+- 1st Dataset Recall
+
+=== CLUSTER 278 (Size: 1) ===
+- 2nd Dataset Accuracy
+
+=== CLUSTER 279 (Size: 1) ===
+- 1st Dataset Accuracy
+
+=== CLUSTER 280 (Size: 1) ===
+- achieve
+
+=== CLUSTER 281 (Size: 1) ===
+- description
+
+=== CLUSTER 282 (Size: 1) ===
+- interaction_data
+
+=== CLUSTER 283 (Size: 1) ===
+- interactionType
+
+=== CLUSTER 284 (Size: 1) ===
+- interaction_type
+
+=== CLUSTER 285 (Size: 1) ===
+- interaction_count
+
+=== CLUSTER 286 (Size: 1) ===
+- interactivity
+
+=== CLUSTER 288 (Size: 1) ===
+- survey
+
+=== CLUSTER 289 (Size: 1) ===
+- given name
+
+=== CLUSTER 290 (Size: 1) ===
+- sample size
+
+=== CLUSTER 291 (Size: 1) ===
+- Metadata
+
+=== CLUSTER 292 (Size: 1) ===
+- location of study
+
+=== CLUSTER 293 (Size: 1) ===
+- project
+
+=== CLUSTER 294 (Size: 1) ===
+- Project type
+
+=== CLUSTER 295 (Size: 1) ===
+- project URL
+
+=== CLUSTER 844 (Size: 1) ===
+- depends_on
+
+=== CLUSTER 846 (Size: 1) ===
+- probability distribution
+
+=== CLUSTER 1661 (Size: 1) ===
+- stimulator model 
+
+=== CLUSTER 1394 (Size: 1) ===
+- Technology architecture
+
+=== CLUSTER 1384 (Size: 1) ===
+- total numbers of images used for training
+
+=== CLUSTER 1385 (Size: 1) ===
+- Metaheuristic
+
+=== CLUSTER 1386 (Size: 1) ===
+- Problem-tailored heuristic
+
+=== CLUSTER 1387 (Size: 1) ===
+- venue
+
+=== CLUSTER 1388 (Size: 1) ===
+- ensemble strategy
+
+=== CLUSTER 1389 (Size: 1) ===
+- Prop 1
+
+=== CLUSTER 1390 (Size: 1) ===
+- Summary
+
+=== CLUSTER 1391 (Size: 1) ===
+- F1
+
+=== CLUSTER 1392 (Size: 1) ===
+- process parameter
+
+=== CLUSTER 1393 (Size: 1) ===
+- Models technology
+
+=== CLUSTER 1395 (Size: 1) ===
+- cognitive_metrics
+
+=== CLUSTER 1407 (Size: 1) ===
+- muon detection efficiency
+
+=== CLUSTER 1396 (Size: 1) ===
+- affective_metrics
+
+=== CLUSTER 1397 (Size: 1) ===
+- attention_measurement
+
+=== CLUSTER 1398 (Size: 1) ===
+- Specificity
+
+=== CLUSTER 1399 (Size: 1) ===
+- temporal range start
+
+=== CLUSTER 1400 (Size: 1) ===
+- temporalCoverage
+
+=== CLUSTER 1401 (Size: 1) ===
+- Administration level
+
+=== CLUSTER 1402 (Size: 1) ===
+- test name
+
+=== CLUSTER 1403 (Size: 1) ===
+- test area
+
+=== CLUSTER 1404 (Size: 1) ===
+- test method
+
+=== CLUSTER 1405 (Size: 1) ===
+- test environment
+
+=== CLUSTER 1383 (Size: 1) ===
+- Mathematical formulation
+
+=== CLUSTER 1382 (Size: 1) ===
+- provided by
+
+=== CLUSTER 1381 (Size: 1) ===
+- quantitative analysis
+
+=== CLUSTER 1380 (Size: 1) ===
+- map type
+
+=== CLUSTER 1359 (Size: 1) ===
+- Processing time
+
+=== CLUSTER 1360 (Size: 1) ===
+- iso_code
+
+=== CLUSTER 1361 (Size: 1) ===
+- Trajectory Type
+
+=== CLUSTER 1362 (Size: 1) ===
+- Trajectory Tracking Performance
+
+=== CLUSTER 1363 (Size: 1) ===
+- trajectories
+
+=== CLUSTER 1364 (Size: 1) ===
+- quantization
+
+=== CLUSTER 1365 (Size: 1) ===
+- 3D model
+
+=== CLUSTER 1366 (Size: 1) ===
+- 2D modeling
+
+=== CLUSTER 1367 (Size: 1) ===
+- Text collection title
+
+=== CLUSTER 1368 (Size: 1) ===
+- CTA
+
+=== CLUSTER 1369 (Size: 1) ===
+- machine learning framework used
+
+=== CLUSTER 1370 (Size: 1) ===
+- medium
+
+=== CLUSTER 1371 (Size: 1) ===
+- records
+
+=== CLUSTER 1372 (Size: 1) ===
+- recording medium
+
+=== CLUSTER 1373 (Size: 1) ===
+- Data modality
+
+=== CLUSTER 1374 (Size: 1) ===
+- Data model
+
+=== CLUSTER 1375 (Size: 1) ===
+- barrier
+
+=== CLUSTER 1376 (Size: 1) ===
+- Subjects
+
+=== CLUSTER 1377 (Size: 1) ===
+- point index
+
+=== CLUSTER 1378 (Size: 1) ===
+- stated in
+
+=== CLUSTER 1379 (Size: 1) ===
+- quality statement
+
+=== CLUSTER 1406 (Size: 1) ===
+- positron detection efficiency
+
+=== CLUSTER 1408 (Size: 1) ===
+- neutron detection efficiency
+
+=== CLUSTER 1357 (Size: 1) ===
+- coverage annotation ratio
+
+=== CLUSTER 1445 (Size: 1) ===
+- refractive index
+
+=== CLUSTER 1435 (Size: 1) ===
+- reference genome
+
+=== CLUSTER 1436 (Size: 1) ===
+- runtime platform
+
+=== CLUSTER 1437 (Size: 1) ===
+- Readout
+
+=== CLUSTER 1438 (Size: 1) ===
+- readme
+
+=== CLUSTER 1439 (Size: 1) ===
+- Qualitative methods
+
+=== CLUSTER 1440 (Size: 1) ===
+- Qualitative findings   
+
+=== CLUSTER 1441 (Size: 1) ===
+- safety
+
+=== CLUSTER 1442 (Size: 1) ===
+- spatial replication
+
+=== CLUSTER 1443 (Size: 1) ===
+- hasRorId
+
+=== CLUSTER 1444 (Size: 1) ===
+- release notes
+
+=== CLUSTER 1446 (Size: 1) ===
+- Predictors (indipendent variables)
+
+=== CLUSTER 1409 (Size: 1) ===
+- User roles
+
+=== CLUSTER 1447 (Size: 1) ===
+- has term query
+
+=== CLUSTER 1448 (Size: 1) ===
+- purity
+
+=== CLUSTER 1449 (Size: 1) ===
+- Rise time
+
+=== CLUSTER 1450 (Size: 1) ===
+- ramp rate
+
+=== CLUSTER 1451 (Size: 1) ===
+- hasSchema
+
+=== CLUSTER 1452 (Size: 1) ===
+- has result in QALD-9
+
+=== CLUSTER 1453 (Size: 1) ===
+- Has result in LC-QuAD 1.0
+
+=== CLUSTER 1454 (Size: 1) ===
+- R^2
+
+=== CLUSTER 1455 (Size: 1) ===
+- resource quantity
+
+=== CLUSTER 1456 (Size: 1) ===
+- used in project
+
+=== CLUSTER 1434 (Size: 1) ===
+- has subject selection method
+
+=== CLUSTER 1433 (Size: 1) ===
+- uses pipeline
+
+=== CLUSTER 1432 (Size: 1) ===
+- Represents SCOR metrics
+
+=== CLUSTER 1431 (Size: 1) ===
+- has subfield
+
+=== CLUSTER 1410 (Size: 1) ===
+- person-first metadata
+
+=== CLUSTER 1411 (Size: 1) ===
+- biography metadata
+
+=== CLUSTER 1412 (Size: 1) ===
+- person- middle metadata
+
+=== CLUSTER 1413 (Size: 1) ===
+- Motivation
+
+=== CLUSTER 1414 (Size: 1) ===
+- controlled_studies
+
+=== CLUSTER 1415 (Size: 1) ===
+- Control variables
+
+=== CLUSTER 1416 (Size: 1) ===
+- Control conditions
+
+=== CLUSTER 1417 (Size: 1) ===
+- Biogeographic region
+
+=== CLUSTER 1418 (Size: 1) ===
+- Modification
+
+=== CLUSTER 1419 (Size: 1) ===
+- Platform
+
+=== CLUSTER 1420 (Size: 1) ===
+- cell line
+
+=== CLUSTER 1421 (Size: 1) ===
+- seeding method
+
+=== CLUSTER 1422 (Size: 1) ===
+- Coreferences
+
+=== CLUSTER 1423 (Size: 1) ===
+- R@1
+
+=== CLUSTER 1424 (Size: 1) ===
+- RQ
+
+=== CLUSTER 1425 (Size: 1) ===
+- coordinate system
+
+=== CLUSTER 1426 (Size: 1) ===
+- Referenced as metadata
+
+=== CLUSTER 1427 (Size: 1) ===
+- Query language
+
+=== CLUSTER 1428 (Size: 1) ===
+- same as
+
+=== CLUSTER 1429 (Size: 1) ===
+- Randomization
+
+=== CLUSTER 1430 (Size: 1) ===
+- Reaction
+
+=== CLUSTER 1358 (Size: 1) ===
+- Time to acceptance
+
+=== CLUSTER 1356 (Size: 1) ===
+- coverage variance
+
+=== CLUSTER 1458 (Size: 1) ===
+- statistical model
+
+=== CLUSTER 1292 (Size: 1) ===
+- approval_date
+
+=== CLUSTER 1282 (Size: 1) ===
+- Service
+
+=== CLUSTER 1283 (Size: 1) ===
+- causality inference method
+
+=== CLUSTER 1284 (Size: 1) ===
+- causality representation
+
+=== CLUSTER 1285 (Size: 1) ===
+- value
+
+=== CLUSTER 1286 (Size: 1) ===
+- assign
+
+=== CLUSTER 1287 (Size: 1) ===
+- applied value
+
+=== CLUSTER 1288 (Size: 1) ===
+- Selectivity
+
+=== CLUSTER 1289 (Size: 1) ===
+- OWL type
+
+=== CLUSTER 1290 (Size: 1) ===
+- Runtime
+
+=== CLUSTER 1291 (Size: 1) ===
+- issued
+
+=== CLUSTER 1293 (Size: 1) ===
+- approval number
+
+=== CLUSTER 1305 (Size: 1) ===
+- shift model
+
+=== CLUSTER 1294 (Size: 1) ===
+- checksum
+
+=== CLUSTER 1295 (Size: 1) ===
+- charge efficiency
+
+=== CLUSTER 1296 (Size: 1) ===
+- pages metadata
+
+=== CLUSTER 1297 (Size: 1) ===
+- Depth
+
+=== CLUSTER 1298 (Size: 1) ===
+- Page start
+
+=== CLUSTER 1299 (Size: 1) ===
+- Defined Challenges
+
+=== CLUSTER 1300 (Size: 1) ===
+- Participated in
+
+=== CLUSTER 1301 (Size: 1) ===
+- schema
+
+=== CLUSTER 1302 (Size: 1) ===
+- Season
+
+=== CLUSTER 1303 (Size: 1) ===
+- part of the series
+
+=== CLUSTER 1281 (Size: 1) ===
+- Service level
+
+=== CLUSTER 1280 (Size: 1) ===
+- Service Model
+
+=== CLUSTER 1279 (Size: 1) ===
+- Reuse
+
+=== CLUSTER 1278 (Size: 1) ===
+- Taxa
+
+=== CLUSTER 1257 (Size: 1) ===
+- conducts
+
+=== CLUSTER 1258 (Size: 1) ===
+- Number of documents
+
+=== CLUSTER 1259 (Size: 1) ===
+- ideal execution time
+
+=== CLUSTER 1260 (Size: 1) ===
+- substrate
+
+=== CLUSTER 1261 (Size: 1) ===
+- precedes
+
+=== CLUSTER 1262 (Size: 1) ===
+- successor
+
+=== CLUSTER 1263 (Size: 1) ===
+- Supervised Learning Problem Type
+
+=== CLUSTER 1264 (Size: 1) ===
+- Number of examinees
+
+=== CLUSTER 1265 (Size: 1) ===
+- availableOnDevice
+
+=== CLUSTER 1266 (Size: 1) ===
+- Imaging modality 
+
+=== CLUSTER 1267 (Size: 1) ===
+- transformers type
+
+=== CLUSTER 1268 (Size: 1) ===
+- Number of nodes
+
+=== CLUSTER 1269 (Size: 1) ===
+- Number of leaf nodes
+
+=== CLUSTER 1270 (Size: 1) ===
+- resolution
+
+=== CLUSTER 1271 (Size: 1) ===
+- angular resolution
+
+=== CLUSTER 1272 (Size: 1) ===
+- radiation resolution
+
+=== CLUSTER 1273 (Size: 1) ===
+- Matthews Correlation Coefficient (MCC)
+
+=== CLUSTER 1274 (Size: 1) ===
+- Fleiss Score
+
+=== CLUSTER 1275 (Size: 1) ===
+- cohens kappa
+
+=== CLUSTER 1276 (Size: 1) ===
+- Taxonomy stage: Step
+
+=== CLUSTER 1277 (Size: 1) ===
+- Taxonomy
+
+=== CLUSTER 1304 (Size: 1) ===
+- cell location
+
+=== CLUSTER 1306 (Size: 1) ===
+- shift factors
+
+=== CLUSTER 1355 (Size: 1) ===
+- source coverage
+
+=== CLUSTER 1343 (Size: 1) ===
+- Complexity
+
+=== CLUSTER 1333 (Size: 1) ===
+- numberOfCycles
+
+=== CLUSTER 1334 (Size: 1) ===
+- has contact person
+
+=== CLUSTER 1335 (Size: 1) ===
+- has communication channel
+
+=== CLUSTER 1336 (Size: 1) ===
+- contact
+
+=== CLUSTER 1337 (Size: 1) ===
+- Soil quality category
+
+=== CLUSTER 1338 (Size: 1) ===
+- Cropping System
+
+=== CLUSTER 1339 (Size: 1) ===
+- Soil condition
+
+=== CLUSTER 1340 (Size: 1) ===
+- produces
+
+=== CLUSTER 1341 (Size: 1) ===
+- uses software
+
+=== CLUSTER 1342 (Size: 1) ===
+- Uses Computer Hardware
+
+=== CLUSTER 1344 (Size: 1) ===
+- qudt:unit
+
+=== CLUSTER 1307 (Size: 1) ===
+- shift factor kind
+
+=== CLUSTER 1345 (Size: 1) ===
+- abstraction level
+
+=== CLUSTER 1346 (Size: 1) ===
+- criteria
+
+=== CLUSTER 1347 (Size: 1) ===
+- url
+
+=== CLUSTER 1348 (Size: 1) ===
+- Density
+
+=== CLUSTER 1349 (Size: 1) ===
+- Storage
+
+=== CLUSTER 1350 (Size: 1) ===
+- measures of position
+
+=== CLUSTER 1351 (Size: 1) ===
+- CPU Hours
+
+=== CLUSTER 1352 (Size: 1) ===
+- TPU Hours
+
+=== CLUSTER 1353 (Size: 1) ===
+- Metadata schema
+
+=== CLUSTER 1354 (Size: 1) ===
+- Type of industry
+
+=== CLUSTER 1332 (Size: 1) ===
+- Note
+
+=== CLUSTER 1331 (Size: 1) ===
+- pattern
+
+=== CLUSTER 1330 (Size: 1) ===
+- anterior chamber depth/has value
+
+=== CLUSTER 1329 (Size: 1) ===
+- axial length/measurement
+
+=== CLUSTER 1308 (Size: 1) ===
+- Study population
+
+=== CLUSTER 1309 (Size: 1) ===
+- use case
+
+=== CLUSTER 1310 (Size: 1) ===
+- annotation_type
+
+=== CLUSTER 1311 (Size: 1) ===
+- stability
+
+=== CLUSTER 1312 (Size: 1) ===
+- stabilizer
+
+=== CLUSTER 1313 (Size: 1) ===
+- Performed by
+
+=== CLUSTER 1314 (Size: 1) ===
+- performs
+
+=== CLUSTER 1315 (Size: 1) ===
+- candidate_facet
+
+=== CLUSTER 1316 (Size: 1) ===
+- capable of
+
+=== CLUSTER 1317 (Size: 1) ===
+- Coating
+
+=== CLUSTER 1318 (Size: 1) ===
+- Scalability
+
+=== CLUSTER 1319 (Size: 1) ===
+- carbon_footprint
+
+=== CLUSTER 1320 (Size: 1) ===
+- matching strategy
+
+=== CLUSTER 1321 (Size: 1) ===
+- close match
+
+=== CLUSTER 1322 (Size: 1) ===
+- Output type
+
+=== CLUSTER 1323 (Size: 1) ===
+- review
+
+=== CLUSTER 1324 (Size: 1) ===
+- Organism
+
+=== CLUSTER 1325 (Size: 1) ===
+- SLD: Geographical location
+
+=== CLUSTER 1326 (Size: 1) ===
+- conducted at
+
+=== CLUSTER 1327 (Size: 1) ===
+- Conducted by
+
+=== CLUSTER 1328 (Size: 1) ===
+- Anonymistion algorithm/method
+
+=== CLUSTER 1457 (Size: 1) ===
+- Has project
+
+=== CLUSTER 1459 (Size: 1) ===
+- RE stage
+
+=== CLUSTER 847 (Size: 1) ===
+- statistical significance
+
+=== CLUSTER 1598 (Size: 1) ===
+- Number of events
+
+=== CLUSTER 1588 (Size: 1) ===
+- mesh size
+
+=== CLUSTER 1589 (Size: 1) ===
+- has mesh
+
+=== CLUSTER 1590 (Size: 1) ===
+- Sub Problem
+
+=== CLUSTER 1591 (Size: 1) ===
+- Recall (Partially False)
+
+=== CLUSTER 1592 (Size: 1) ===
+- Precision (Partially False)
+
+=== CLUSTER 1593 (Size: 1) ===
+- Qualified by
+
+=== CLUSTER 1594 (Size: 1) ===
+- Nuclear reactor type
+
+=== CLUSTER 1595 (Size: 1) ===
+- Number of images
+
+=== CLUSTER 1596 (Size: 1) ===
+- Number of files
+
+=== CLUSTER 1597 (Size: 1) ===
+- managed by
+
+=== CLUSTER 1599 (Size: 1) ===
+- number of paired evaluations
+
+=== CLUSTER 1611 (Size: 1) ===
+- nominal voltage
+
+=== CLUSTER 1600 (Size: 1) ===
+- number of evaluated distributions
+
+=== CLUSTER 1601 (Size: 1) ===
+- number of edges
+
+=== CLUSTER 1602 (Size: 1) ===
+- Number of echelon
+
+=== CLUSTER 1603 (Size: 1) ===
+- Number of application fields
+
+=== CLUSTER 1604 (Size: 1) ===
+- number metadata
+
+=== CLUSTER 1605 (Size: 1) ===
+- Material type
+
+=== CLUSTER 1606 (Size: 1) ===
+- Item type
+
+=== CLUSTER 1607 (Size: 1) ===
+- Journal
+
+=== CLUSTER 1608 (Size: 1) ===
+- UML ID
+
+=== CLUSTER 1609 (Size: 1) ===
+- Object ID
+
+=== CLUSTER 1587 (Size: 1) ===
+- State
+
+=== CLUSTER 1586 (Size: 1) ===
+- stemming
+
+=== CLUSTER 1585 (Size: 1) ===
+- stopwords
+
+=== CLUSTER 1584 (Size: 1) ===
+- tolerance
+
+=== CLUSTER 1563 (Size: 1) ===
+- successive length ratio
+
+=== CLUSTER 1564 (Size: 1) ===
+- successive diameter ratio
+
+=== CLUSTER 1565 (Size: 1) ===
+- success criteria
+
+=== CLUSTER 1566 (Size: 1) ===
+- Total submissions
+
+=== CLUSTER 1567 (Size: 1) ===
+- Submissions per subtask
+
+=== CLUSTER 1568 (Size: 1) ===
+- user study questions
+
+=== CLUSTER 1569 (Size: 1) ===
+- study_mode
+
+=== CLUSTER 1570 (Size: 1) ===
+- Life span
+
+=== CLUSTER 1571 (Size: 1) ===
+- regression analysis
+
+=== CLUSTER 1572 (Size: 1) ===
+- Study Context
+
+=== CLUSTER 1573 (Size: 1) ===
+- Study category
+
+=== CLUSTER 1574 (Size: 1) ===
+- has lmm prediction
+
+=== CLUSTER 1575 (Size: 1) ===
+- has lmm fitting
+
+=== CLUSTER 1576 (Size: 1) ===
+- Has lstm units in encoding layer
+
+=== CLUSTER 1577 (Size: 1) ===
+- has_method
+
+=== CLUSTER 1578 (Size: 1) ===
+- has self-management skills
+
+=== CLUSTER 1579 (Size: 1) ===
+- Has Management Practices
+
+=== CLUSTER 1580 (Size: 1) ===
+- Includes market model
+
+=== CLUSTER 1581 (Size: 1) ===
+- Has Market Interaction
+
+=== CLUSTER 1582 (Size: 1) ===
+- Structural Information
+
+=== CLUSTER 1583 (Size: 1) ===
+- strand
+
+=== CLUSTER 1610 (Size: 1) ===
+- justification
+
+=== CLUSTER 1612 (Size: 1) ===
+- Number of species
+
+=== CLUSTER 1561 (Size: 1) ===
+- training objectives
+
+=== CLUSTER 1649 (Size: 1) ===
+- IRI
+
+=== CLUSTER 1639 (Size: 1) ===
+- number of studies retained
+
+=== CLUSTER 1640 (Size: 1) ===
+- number of studies originally returned
+
+=== CLUSTER 1641 (Size: 1) ===
+- Number of sites
+
+=== CLUSTER 1642 (Size: 1) ===
+- Number of signs
+
+=== CLUSTER 1643 (Size: 1) ===
+- risk factor
+
+=== CLUSTER 1644 (Size: 1) ===
+- Number of tables
+
+=== CLUSTER 1645 (Size: 1) ===
+- RDF datasets
+
+=== CLUSTER 1646 (Size: 1) ===
+- Investigated Property
+
+=== CLUSTER 1647 (Size: 1) ===
+- Number of peers
+
+=== CLUSTER 1648 (Size: 1) ===
+- isa
+
+=== CLUSTER 1650 (Size: 1) ===
+- ratio of parts in dataset split
+
+=== CLUSTER 1613 (Size: 1) ===
+-  number of acts
+
+=== CLUSTER 1651 (Size: 1) ===
+- number of parts in dataset split
+
+=== CLUSTER 1652 (Size: 1) ===
+- number of parameters
+
+=== CLUSTER 1653 (Size: 1) ===
+- Notation
+
+=== CLUSTER 1654 (Size: 1) ===
+- negative control
+
+=== CLUSTER 1655 (Size: 1) ===
+- Nanoparticles preparation method
+
+=== CLUSTER 1656 (Size: 1) ===
+- Solutions
+
+=== CLUSTER 1657 (Size: 1) ===
+- Measured at temperature
+
+=== CLUSTER 1658 (Size: 1) ===
+- modifiedLigand
+
+=== CLUSTER 1659 (Size: 1) ===
+- mean serial interval
+
+=== CLUSTER 1660 (Size: 1) ===
+- Maxpooling
+
+=== CLUSTER 1638 (Size: 1) ===
+- interview
+
+=== CLUSTER 1637 (Size: 1) ===
+- Number of test data events
+
+=== CLUSTER 1636 (Size: 1) ===
+- Number of training data events
+
+=== CLUSTER 1635 (Size: 1) ===
+- interruptions rate
+
+=== CLUSTER 1614 (Size: 1) ===
+- No. of Bands
+
+=== CLUSTER 1615 (Size: 1) ===
+- sequencing platform
+
+=== CLUSTER 1616 (Size: 1) ===
+- Major Contributions
+
+=== CLUSTER 1617 (Size: 1) ===
+- Key Idea
+
+=== CLUSTER 1618 (Size: 1) ===
+- Oldest reference
+
+=== CLUSTER 1619 (Size: 1) ===
+- Newest reference
+
+=== CLUSTER 1620 (Size: 1) ===
+- symbolic model
+
+=== CLUSTER 1621 (Size: 1) ===
+- neural-symbolic model
+
+=== CLUSTER 1622 (Size: 1) ===
+- number of recipe
+
+=== CLUSTER 1623 (Size: 1) ===
+- Number of points
+
+=== CLUSTER 1624 (Size: 1) ===
+- number of turbines
+
+=== CLUSTER 1625 (Size: 1) ===
+- Number of machines
+
+=== CLUSTER 1626 (Size: 1) ===
+- touch_capability
+
+=== CLUSTER 1627 (Size: 1) ===
+- Inter-Facet Metrics
+
+=== CLUSTER 1628 (Size: 1) ===
+- treatment schedule
+
+=== CLUSTER 1629 (Size: 1) ===
+- Number of treatment 
+
+=== CLUSTER 1630 (Size: 1) ===
+- Number of training passages
+
+=== CLUSTER 1631 (Size: 1) ===
+- Number of test passages
+
+=== CLUSTER 1632 (Size: 1) ===
+- Number of test data relations
+
+=== CLUSTER 1633 (Size: 1) ===
+- Interpreter
+
+=== CLUSTER 1634 (Size: 1) ===
+- intervention frequency
+
+=== CLUSTER 1562 (Size: 1) ===
+- Taxonomic group (Biology)
+
+=== CLUSTER 1560 (Size: 1) ===
+- Subset
+
+=== CLUSTER 1460 (Size: 1) ===
+- RE activties
+
+=== CLUSTER 1496 (Size: 1) ===
+- Technology Readiness Level
+
+=== CLUSTER 1486 (Size: 1) ===
+- textValue
+
+=== CLUSTER 1487 (Size: 1) ===
+- text data format
+
+=== CLUSTER 1488 (Size: 1) ===
+- Texts type
+
+=== CLUSTER 1489 (Size: 1) ===
+- training records
+
+=== CLUSTER 1490 (Size: 1) ===
+- testing records
+
+=== CLUSTER 1491 (Size: 1) ===
+- has ingredient
+
+=== CLUSTER 1492 (Size: 1) ===
+- Template component
+
+=== CLUSTER 1493 (Size: 1) ===
+- Interpretation
+
+=== CLUSTER 1494 (Size: 1) ===
+- has state
+
+=== CLUSTER 1495 (Size: 1) ===
+- has ion state
+
+=== CLUSTER 1497 (Size: 1) ===
+- Has land surface model name
+
+=== CLUSTER 1509 (Size: 1) ===
+- Warranty_duration
+
+=== CLUSTER 1498 (Size: 1) ===
+- type of table
+
+=== CLUSTER 1499 (Size: 1) ===
+- synthetic_data_generation_method
+
+=== CLUSTER 1500 (Size: 1) ===
+- Levelized cost of energy
+
+=== CLUSTER 1501 (Size: 1) ===
+- Total datasets (Channel-1)
+
+=== CLUSTER 1502 (Size: 1) ===
+- Total number
+
+=== CLUSTER 1503 (Size: 1) ===
+- Training Requirement
+
+=== CLUSTER 1504 (Size: 1) ===
+-  Training completion criteria
+
+=== CLUSTER 1505 (Size: 1) ===
+- Variation
+
+=== CLUSTER 1506 (Size: 1) ===
+- Wikidata language code
+
+=== CLUSTER 1507 (Size: 1) ===
+- Wikidata ID
+
+=== CLUSTER 1485 (Size: 1) ===
+- Theory
+
+=== CLUSTER 1484 (Size: 1) ===
+- thickness
+
+=== CLUSTER 1483 (Size: 1) ===
+- incubation times
+
+=== CLUSTER 1482 (Size: 1) ===
+- threat model
+
+=== CLUSTER 1461 (Size: 1) ===
+- sourceOrganization
+
+=== CLUSTER 1462 (Size: 1) ===
+- Weaknesses
+
+=== CLUSTER 1463 (Size: 1) ===
+- serialization language
+
+=== CLUSTER 1464 (Size: 1) ===
+- has serialization
+
+=== CLUSTER 1465 (Size: 1) ===
+- transition_probability
+
+=== CLUSTER 1466 (Size: 1) ===
+- recovery
+
+=== CLUSTER 1467 (Size: 1) ===
+- reason for restoration
+
+=== CLUSTER 1468 (Size: 1) ===
+- roughness
+
+=== CLUSTER 1469 (Size: 1) ===
+- Rule learning
+
+=== CLUSTER 1470 (Size: 1) ===
+- research stage
+
+=== CLUSTER 1471 (Size: 1) ===
+- research period
+
+=== CLUSTER 1472 (Size: 1) ===
+- Related work
+
+=== CLUSTER 1473 (Size: 1) ===
+- Has method in related works
+
+=== CLUSTER 1474 (Size: 1) ===
+- sample preparation
+
+=== CLUSTER 1475 (Size: 1) ===
+- sample collection protocol
+
+=== CLUSTER 1476 (Size: 1) ===
+- Satellite sensor
+
+=== CLUSTER 1477 (Size: 1) ===
+- Satellite Metadata
+
+=== CLUSTER 1478 (Size: 1) ===
+- Tool Usage
+
+=== CLUSTER 1479 (Size: 1) ===
+- Tool Implementation
+
+=== CLUSTER 1480 (Size: 1) ===
+- Tokens
+
+=== CLUSTER 1481 (Size: 1) ===
+- thumbnail
+
+=== CLUSTER 1508 (Size: 1) ===
+- Warranty_scope_text
+
+=== CLUSTER 1510 (Size: 1) ===
+- type of environment
+
+=== CLUSTER 1559 (Size: 1) ===
+- Has specified mass
+
+=== CLUSTER 1547 (Size: 1) ===
+- series metadata
+
+=== CLUSTER 1537 (Size: 1) ===
+- Special Notes
+
+=== CLUSTER 1538 (Size: 1) ===
+- Source url
+
+=== CLUSTER 1539 (Size: 1) ===
+- Software URL
+
+=== CLUSTER 1540 (Size: 1) ===
+- Software development approach
+
+=== CLUSTER 1541 (Size: 1) ===
+- Software developed
+
+=== CLUSTER 1542 (Size: 1) ===
+- SLR Task
+
+=== CLUSTER 1543 (Size: 1) ===
+- SLR stage
+
+=== CLUSTER 1544 (Size: 1) ===
+- Sleep evaluation tool
+
+=== CLUSTER 1545 (Size: 1) ===
+- Sleep efficiency
+
+=== CLUSTER 1546 (Size: 1) ===
+- synopsis metadata
+
+=== CLUSTER 1548 (Size: 1) ===
+- spliting technique
+
+=== CLUSTER 1511 (Size: 1) ===
+- Mediator
+
+=== CLUSTER 1549 (Size: 1) ===
+- Number of perspectives
+
+=== CLUSTER 1550 (Size: 1) ===
+- Sensitivity (95% CI)
+
+=== CLUSTER 1551 (Size: 1) ===
+- semantic_module
+
+=== CLUSTER 1552 (Size: 1) ===
+- Semantic roles
+
+=== CLUSTER 1553 (Size: 1) ===
+- Second-stage
+
+=== CLUSTER 1554 (Size: 1) ===
+- Screening
+
+=== CLUSTER 1555 (Size: 1) ===
+- Number of offices
+
+=== CLUSTER 1556 (Size: 1) ===
+- WOS CC
+
+=== CLUSTER 1557 (Size: 1) ===
+- Scopus
+
+=== CLUSTER 1558 (Size: 1) ===
+- has optimization
+
+=== CLUSTER 1536 (Size: 1) ===
+- Spectral Index
+
+=== CLUSTER 1535 (Size: 1) ===
+- spectral_range/type
+
+=== CLUSTER 1534 (Size: 1) ===
+- has negative association with
+
+=== CLUSTER 1533 (Size: 1) ===
+- Sign
+
+=== CLUSTER 1512 (Size: 1) ===
+- has result-recall
+
+=== CLUSTER 1513 (Size: 1) ===
+- visual quality
+
+=== CLUSTER 1514 (Size: 1) ===
+- has woman participants
+
+=== CLUSTER 1515 (Size: 1) ===
+- vision_encoder
+
+=== CLUSTER 1516 (Size: 1) ===
+- vision
+
+=== CLUSTER 1517 (Size: 1) ===
+- variable type
+
+=== CLUSTER 1518 (Size: 1) ===
+- Transcription system
+
+=== CLUSTER 1519 (Size: 1) ===
+- Has solid sample input
+
+=== CLUSTER 1520 (Size: 1) ===
+- Has gaseous sample input
+
+=== CLUSTER 1521 (Size: 1) ===
+- uses models
+
+=== CLUSTER 1522 (Size: 1) ===
+- Uses graph store
+
+=== CLUSTER 1523 (Size: 1) ===
+- user_response
+
+=== CLUSTER 1524 (Size: 1) ===
+- user_acceptance
+
+=== CLUSTER 1525 (Size: 1) ===
+- uses graph
+
+=== CLUSTER 1526 (Size: 1) ===
+- Underlying Technique
+
+=== CLUSTER 1527 (Size: 1) ===
+- type of inference
+
+=== CLUSTER 1528 (Size: 1) ===
+- transferability
+
+=== CLUSTER 1529 (Size: 1) ===
+- Has target group (learners)
+
+=== CLUSTER 1530 (Size: 1) ===
+- Has learning activity
+
+=== CLUSTER 1531 (Size: 1) ===
+- supplier
+
+=== CLUSTER 1532 (Size: 1) ===
+- supervision_type
+
+=== CLUSTER 1256 (Size: 1) ===
+- practice
+
+=== CLUSTER 1255 (Size: 1) ===
+- trials
+
+=== CLUSTER 1254 (Size: 1) ===
+- conflict handling
+
+=== CLUSTER 985 (Size: 1) ===
+- Has mortality rate
+
+=== CLUSTER 975 (Size: 1) ===
+- Acquisition
+
+=== CLUSTER 976 (Size: 1) ===
+- quantification method
+
+=== CLUSTER 977 (Size: 1) ===
+- determination method
+
+=== CLUSTER 978 (Size: 1) ===
+- absolute quantification
+
+=== CLUSTER 979 (Size: 1) ===
+- CAS number
+
+=== CLUSTER 980 (Size: 1) ===
+- PubChem AID
+
+=== CLUSTER 981 (Size: 1) ===
+-  CHEMBL
+
+=== CLUSTER 982 (Size: 1) ===
+- memory requirements
+
+=== CLUSTER 983 (Size: 1) ===
+- ratio
+
+=== CLUSTER 984 (Size: 1) ===
+- Case fatality ratio (CFR)
+
+=== CLUSTER 986 (Size: 1) ===
+- mention Type
+
+=== CLUSTER 998 (Size: 1) ===
+- Processor
+
+=== CLUSTER 987 (Size: 1) ===
+- Educational strategy
+
+=== CLUSTER 988 (Size: 1) ===
+- Educational model
+
+=== CLUSTER 989 (Size: 1) ===
+- Educational project
+
+=== CLUSTER 990 (Size: 1) ===
+- Educational context
+
+=== CLUSTER 991 (Size: 1) ===
+- Sensitivity
+
+=== CLUSTER 992 (Size: 1) ===
+- representation
+
+=== CLUSTER 993 (Size: 1) ===
+- mutation
+
+=== CLUSTER 994 (Size: 1) ===
+- has nucleotide substitution
+
+=== CLUSTER 995 (Size: 1) ===
+- has amino acid change
+
+=== CLUSTER 996 (Size: 1) ===
+- Filter
+
+=== CLUSTER 974 (Size: 1) ===
+- Error Rate
+
+=== CLUSTER 973 (Size: 1) ===
+- has format
+
+=== CLUSTER 972 (Size: 1) ===
+- wordCount
+
+=== CLUSTER 971 (Size: 1) ===
+- proportion
+
+=== CLUSTER 950 (Size: 1) ===
+- byProducts
+
+=== CLUSTER 951 (Size: 1) ===
+- Main Products
+
+=== CLUSTER 952 (Size: 1) ===
+- type of object
+
+=== CLUSTER 953 (Size: 1) ===
+- research participants
+
+=== CLUSTER 954 (Size: 1) ===
+- Error Types
+
+=== CLUSTER 955 (Size: 1) ===
+- Error Analysis
+
+=== CLUSTER 956 (Size: 1) ===
+- Error handling
+
+=== CLUSTER 957 (Size: 1) ===
+- Error
+
+=== CLUSTER 958 (Size: 1) ===
+- Viewpoint
+
+=== CLUSTER 959 (Size: 1) ===
+- Has visualization
+
+=== CLUSTER 960 (Size: 1) ===
+- range
+
+=== CLUSTER 961 (Size: 1) ===
+- biosensing method
+
+=== CLUSTER 962 (Size: 1) ===
+- sensitivity (recall)
+
+=== CLUSTER 963 (Size: 1) ===
+- bias direction
+
+=== CLUSTER 964 (Size: 1) ===
+- Recall (Fake News) 
+
+=== CLUSTER 965 (Size: 1) ===
+- practical_implications
+
+=== CLUSTER 966 (Size: 1) ===
+- Type of analysis
+
+=== CLUSTER 967 (Size: 1) ===
+- ethical_approval
+
+=== CLUSTER 968 (Size: 1) ===
+- ethical_guideline
+
+=== CLUSTER 969 (Size: 1) ===
+- ethical implication
+
+=== CLUSTER 970 (Size: 1) ===
+- Role
+
+=== CLUSTER 997 (Size: 1) ===
+- finetuning
+
+=== CLUSTER 999 (Size: 1) ===
+- GPU
+
+=== CLUSTER 948 (Size: 1) ===
+- has component
+
+=== CLUSTER 1037 (Size: 1) ===
+- Detection limit
+
+=== CLUSTER 1026 (Size: 1) ===
+- Impact
+
+=== CLUSTER 1027 (Size: 1) ===
+- Type of GAN
+
+=== CLUSTER 1028 (Size: 1) ===
+- Neural network type
+
+=== CLUSTER 1029 (Size: 1) ===
+- GNN Type
+
+=== CLUSTER 1030 (Size: 1) ===
+- keyword metadata
+
+=== CLUSTER 1031 (Size: 1) ===
+- designed by
+
+=== CLUSTER 1032 (Size: 1) ===
+- level of data granularity
+
+=== CLUSTER 1034 (Size: 1) ===
+- data processing workflow
+
+=== CLUSTER 1035 (Size: 1) ===
+- user_group
+
+=== CLUSTER 1036 (Size: 1) ===
+- teaches
+
+=== CLUSTER 1038 (Size: 1) ===
+- data processing notes
+
+=== CLUSTER 1000 (Size: 1) ===
+- machine
+
+=== CLUSTER 1039 (Size: 1) ===
+- hyperparameters
+
+=== CLUSTER 1040 (Size: 1) ===
+- Hyperparameter tuning
+
+=== CLUSTER 1041 (Size: 1) ===
+- Glass-transition temperature
+
+=== CLUSTER 1042 (Size: 1) ===
+- has melting temperature
+
+=== CLUSTER 1043 (Size: 1) ===
+- has list element
+
+=== CLUSTER 1044 (Size: 1) ===
+- Has resource
+
+=== CLUSTER 1045 (Size: 1) ===
+- deliverable
+
+=== CLUSTER 1046 (Size: 1) ===
+- degradation status
+
+=== CLUSTER 1047 (Size: 1) ===
+- has entity
+
+=== CLUSTER 1048 (Size: 1) ===
+- Has demo
+
+=== CLUSTER 1025 (Size: 1) ===
+- stakeholder_involvement
+
+=== CLUSTER 1024 (Size: 1) ===
+- electrode material
+
+=== CLUSTER 1023 (Size: 1) ===
+- Electrode design
+
+=== CLUSTER 1022 (Size: 1) ===
+- electrode configuration
+
+=== CLUSTER 1001 (Size: 1) ===
+- owner
+
+=== CLUSTER 1002 (Size: 1) ===
+- Atmosphere model family
+
+=== CLUSTER 1003 (Size: 1) ===
+- data item
+
+=== CLUSTER 1004 (Size: 1) ===
+- version
+
+=== CLUSTER 1005 (Size: 1) ===
+- reliability
+
+=== CLUSTER 1006 (Size: 1) ===
+- Report
+
+=== CLUSTER 1007 (Size: 1) ===
+- NDCG
+
+=== CLUSTER 1008 (Size: 1) ===
+- Mean Reciprocal Rank (MRR)
+
+=== CLUSTER 1009 (Size: 1) ===
+- Has type
+
+=== CLUSTER 1010 (Size: 1) ===
+- Activity
+
+=== CLUSTER 1011 (Size: 1) ===
+- catalyst
+
+=== CLUSTER 1012 (Size: 1) ===
+- Background
+
+=== CLUSTER 1013 (Size: 1) ===
+- human evaluation
+
+=== CLUSTER 1014 (Size: 1) ===
+- Automatic Evaluation Metrics
+
+=== CLUSTER 1015 (Size: 1) ===
+- Has web application
+
+=== CLUSTER 1016 (Size: 1) ===
+- has Application Scope
+
+=== CLUSTER 1017 (Size: 1) ===
+- has application framework
+
+=== CLUSTER 1018 (Size: 1) ===
+- has application object
+
+=== CLUSTER 1019 (Size: 1) ===
+- relatedIdentifer
+
+=== CLUSTER 1020 (Size: 1) ===
+- relatedItemType
+
+=== CLUSTER 1021 (Size: 1) ===
+- abstract
+
+=== CLUSTER 949 (Size: 1) ===
+- Product
+
+=== CLUSTER 947 (Size: 1) ===
+- cores
+
+=== CLUSTER 1253 (Size: 1) ===
+- synthesis method
+
+=== CLUSTER 883 (Size: 1) ===
+- has botanical name
+
+=== CLUSTER 873 (Size: 1) ===
+- aligned to
+
+=== CLUSTER 874 (Size: 1) ===
+- alignment rate
+
+=== CLUSTER 875 (Size: 1) ===
+- alignment tool
+
+=== CLUSTER 876 (Size: 1) ===
+- standard deviation
+
+=== CLUSTER 877 (Size: 1) ===
+- testing standard
+
+=== CLUSTER 878 (Size: 1) ===
+- standard
+
+=== CLUSTER 879 (Size: 1) ===
+- Layer
+
+=== CLUSTER 880 (Size: 1) ===
+- Coverage
+
+=== CLUSTER 881 (Size: 1) ===
+- Species name
+
+=== CLUSTER 882 (Size: 1) ===
+- scientific name
+
+=== CLUSTER 884 (Size: 1) ===
+- common name
+
+=== CLUSTER 896 (Size: 1) ===
+- recall
+
+=== CLUSTER 885 (Size: 1) ===
+- Type of system
+
+=== CLUSTER 886 (Size: 1) ===
+- purpose
+
+=== CLUSTER 887 (Size: 1) ===
+- copyright license
+
+=== CLUSTER 888 (Size: 1) ===
+- copyright holder
+
+=== CLUSTER 889 (Size: 1) ===
+- number of triples
+
+=== CLUSTER 890 (Size: 1) ===
+- control group
+
+=== CLUSTER 891 (Size: 1) ===
+- Mitigation strategy
+
+=== CLUSTER 892 (Size: 1) ===
+- specification
+
+=== CLUSTER 893 (Size: 1) ===
+- Functional specification
+
+=== CLUSTER 894 (Size: 1) ===
+- Functional Data specification
+
+=== CLUSTER 872 (Size: 1) ===
+- max context window
+
+=== CLUSTER 871 (Size: 1) ===
+- abbreviation
+
+=== CLUSTER 870 (Size: 1) ===
+- Developement
+
+=== CLUSTER 869 (Size: 1) ===
+- key
+
+=== CLUSTER 848 (Size: 1) ===
+- contributor
+
+=== CLUSTER 849 (Size: 1) ===
+-  Annotations
+
+=== CLUSTER 850 (Size: 1) ===
+- replaces
+
+=== CLUSTER 851 (Size: 1) ===
+- has system maturity
+
+=== CLUSTER 852 (Size: 1) ===
+- has system qualities
+
+=== CLUSTER 853 (Size: 1) ===
+- terms count
+
+=== CLUSTER 854 (Size: 1) ===
+- configuration
+
+=== CLUSTER 855 (Size: 1) ===
+- Number of articles
+
+=== CLUSTER 856 (Size: 1) ===
+- graph_creation_method
+
+=== CLUSTER 857 (Size: 1) ===
+- graph size
+
+=== CLUSTER 858 (Size: 1) ===
+- Graph Structure Type
+
+=== CLUSTER 859 (Size: 1) ===
+- Graph
+
+=== CLUSTER 860 (Size: 1) ===
+- Number of relations
+
+=== CLUSTER 861 (Size: 1) ===
+- Number of 4-ary Relations
+
+=== CLUSTER 862 (Size: 1) ===
+- supplement name
+
+=== CLUSTER 863 (Size: 1) ===
+- VR type
+
+=== CLUSTER 864 (Size: 1) ===
+- VR implementation
+
+=== CLUSTER 865 (Size: 1) ===
+- matrix
+
+=== CLUSTER 866 (Size: 1) ===
+- diagnosis
+
+=== CLUSTER 867 (Size: 1) ===
+- integrate
+
+=== CLUSTER 868 (Size: 1) ===
+- status
+
+=== CLUSTER 895 (Size: 1) ===
+- involves
+
+=== CLUSTER 897 (Size: 1) ===
+- Concentration
+
+=== CLUSTER 946 (Size: 1) ===
+- captures
+
+=== CLUSTER 934 (Size: 1) ===
+- Average Score
+
+=== CLUSTER 924 (Size: 1) ===
+- usability
+
+=== CLUSTER 925 (Size: 1) ===
+- System Usability Score
+
+=== CLUSTER 926 (Size: 1) ===
+- heuristic_evaluation
+
+=== CLUSTER 927 (Size: 1) ===
+- failure mode
+
+=== CLUSTER 928 (Size: 1) ===
+- Failure mechanism
+
+=== CLUSTER 929 (Size: 1) ===
+- beneficiary
+
+=== CLUSTER 930 (Size: 1) ===
+- is calculated from
+
+=== CLUSTER 931 (Size: 1) ===
+- Has exact calculation
+
+=== CLUSTER 932 (Size: 1) ===
+- calculation method
+
+=== CLUSTER 933 (Size: 1) ===
+- calculates
+
+=== CLUSTER 935 (Size: 1) ===
+- species
+
+=== CLUSTER 898 (Size: 1) ===
+- Memory
+
+=== CLUSTER 936 (Size: 1) ===
+- phase order
+
+=== CLUSTER 937 (Size: 1) ===
+- energy role
+
+=== CLUSTER 938 (Size: 1) ===
+- Specific energy consumption 
+
+=== CLUSTER 939 (Size: 1) ===
+- Energy savings
+
+=== CLUSTER 940 (Size: 1) ===
+- power_consumption
+
+=== CLUSTER 941 (Size: 1) ===
+- energy efficiency
+
+=== CLUSTER 942 (Size: 1) ===
+- Robustness of Method
+
+=== CLUSTER 943 (Size: 1) ===
+- Capacity
+
+=== CLUSTER 944 (Size: 1) ===
+- sets
+
+=== CLUSTER 945 (Size: 1) ===
+- handles
+
+=== CLUSTER 923 (Size: 1) ===
+- mainEntity
+
+=== CLUSTER 922 (Size: 1) ===
+- Study duration
+
+=== CLUSTER 921 (Size: 1) ===
+- text
+
+=== CLUSTER 920 (Size: 1) ===
+- calculation period
+
+=== CLUSTER 899 (Size: 1) ===
+- regularization
+
+=== CLUSTER 900 (Size: 1) ===
+- disease name
+
+=== CLUSTER 901 (Size: 1) ===
+- aggregateRating
+
+=== CLUSTER 902 (Size: 1) ===
+- user ratings
+
+=== CLUSTER 903 (Size: 1) ===
+- Covariance
+
+=== CLUSTER 904 (Size: 1) ===
+- covariates
+
+=== CLUSTER 905 (Size: 1) ===
+- variance
+
+=== CLUSTER 906 (Size: 1) ===
+- has dataset
+
+=== CLUSTER 907 (Size: 1) ===
+- neural network architecture
+
+=== CLUSTER 908 (Size: 1) ===
+- fusion_architecture
+
+=== CLUSTER 909 (Size: 1) ===
+- Aggregation
+
+=== CLUSTER 910 (Size: 1) ===
+- vertex reconstruction algorithm
+
+=== CLUSTER 911 (Size: 1) ===
+- reconstruction algorithms
+
+=== CLUSTER 912 (Size: 1) ===
+- energy reconstruction algorithm
+
+=== CLUSTER 913 (Size: 1) ===
+- direction reconstruction algorithm
+
+=== CLUSTER 914 (Size: 1) ===
+- layout
+
+=== CLUSTER 915 (Size: 1) ===
+- region
+
+=== CLUSTER 916 (Size: 1) ===
+- associated project
+
+=== CLUSTER 917 (Size: 1) ===
+- Sample Period
+
+=== CLUSTER 918 (Size: 1) ===
+- funding period
+
+=== CLUSTER 919 (Size: 1) ===
+- return period
+
+=== CLUSTER 1049 (Size: 1) ===
+- hasPattern
+
+=== CLUSTER 1050 (Size: 1) ===
+- learningResourceType
+
+=== CLUSTER 1051 (Size: 1) ===
+- has data
+
+=== CLUSTER 1190 (Size: 1) ===
+- orkg_paper
+
+=== CLUSTER 1180 (Size: 1) ===
+- Discusses (DSC)
+
+=== CLUSTER 1181 (Size: 1) ===
+- Modularity
+
+=== CLUSTER 1182 (Size: 1) ===
+- has process
+
+=== CLUSTER 1183 (Size: 1) ===
+- observation_period
+
+=== CLUSTER 1184 (Size: 1) ===
+- runtime in days
+
+=== CLUSTER 1185 (Size: 1) ===
+- has response variable
+
+=== CLUSTER 1186 (Size: 1) ===
+- p-value
+
+=== CLUSTER 1187 (Size: 1) ===
+- t-value
+
+=== CLUSTER 1188 (Size: 1) ===
+- duplicate resolution strategy
+
+=== CLUSTER 1189 (Size: 1) ===
+- Input data type
+
+=== CLUSTER 1191 (Size: 1) ===
+- Text Representation
+
+=== CLUSTER 1203 (Size: 1) ===
+- Diversity
+
+=== CLUSTER 1192 (Size: 1) ===
+- input representation
+
+=== CLUSTER 1193 (Size: 1) ===
+- Semantic representation
+
+=== CLUSTER 1194 (Size: 1) ===
+- User interface
+
+=== CLUSTER 1195 (Size: 1) ===
+- input shape
+
+=== CLUSTER 1196 (Size: 1) ===
+- shape
+
+=== CLUSTER 1197 (Size: 1) ===
+- Integration Standard
+
+=== CLUSTER 1198 (Size: 1) ===
+- Integration pattern (IP)
+
+=== CLUSTER 1199 (Size: 1) ===
+- Integration Mechanism
+
+=== CLUSTER 1200 (Size: 1) ===
+- has daily pattern
+
+=== CLUSTER 1201 (Size: 1) ===
+- isAccessibleForFree
+
+=== CLUSTER 1179 (Size: 1) ===
+- Discussion
+
+=== CLUSTER 1178 (Size: 1) ===
+- discussionUrl
+
+=== CLUSTER 1177 (Size: 1) ===
+- Year of
+Development
+
+=== CLUSTER 1176 (Size: 1) ===
+- Developed by
+
+=== CLUSTER 1154 (Size: 1) ===
+- detector configuration
+
+=== CLUSTER 1155 (Size: 1) ===
+- isolation method
+
+=== CLUSTER 1156 (Size: 1) ===
+- net present value
+
+=== CLUSTER 1157 (Size: 1) ===
+- discounted payback period
+
+=== CLUSTER 1158 (Size: 1) ===
+- discipline
+
+=== CLUSTER 1159 (Size: 1) ===
+- study novelty
+
+=== CLUSTER 1160 (Size: 1) ===
+- research institution
+
+=== CLUSTER 1162 (Size: 1) ===
+- mechanism of action
+
+=== CLUSTER 1163 (Size: 1) ===
+- Gas Permeability
+
+=== CLUSTER 1164 (Size: 1) ===
+- uses framework
+
+=== CLUSTER 1165 (Size: 1) ===
+- dimension
+
+=== CLUSTER 1166 (Size: 1) ===
+- relative difference
+
+=== CLUSTER 1167 (Size: 1) ===
+- File Size
+
+=== CLUSTER 1168 (Size: 1) ===
+- generalizability
+
+=== CLUSTER 1169 (Size: 1) ===
+- type of diet
+
+=== CLUSTER 1170 (Size: 1) ===
+- Issue
+
+=== CLUSTER 1171 (Size: 1) ===
+- Heat treatment
+
+=== CLUSTER 1172 (Size: 1) ===
+- Generation
+
+=== CLUSTER 1173 (Size: 1) ===
+- has link
+
+=== CLUSTER 1174 (Size: 1) ===
+- has likely range
+
+=== CLUSTER 1175 (Size: 1) ===
+- has object
+
+=== CLUSTER 1202 (Size: 1) ===
+- DL model
+
+=== CLUSTER 1204 (Size: 1) ===
+- has count
+
+=== CLUSTER 1052 (Size: 1) ===
+- Decomposition rate
+
+=== CLUSTER 1241 (Size: 1) ===
+- stress ratio
+
+=== CLUSTER 1231 (Size: 1) ===
+- authentication method
+
+=== CLUSTER 1232 (Size: 1) ===
+- Authentication
+
+=== CLUSTER 1233 (Size: 1) ===
+- Number of training sentences
+
+=== CLUSTER 1234 (Size: 1) ===
+- Number of sentences
+
+=== CLUSTER 1235 (Size: 1) ===
+- Comment
+
+=== CLUSTER 1236 (Size: 1) ===
+- order
+
+=== CLUSTER 1237 (Size: 1) ===
+- attention
+
+=== CLUSTER 1238 (Size: 1) ===
+- column
+
+=== CLUSTER 1239 (Size: 1) ===
+- rows
+
+=== CLUSTER 1240 (Size: 1) ===
+- Participating teams
+
+=== CLUSTER 1242 (Size: 1) ===
+- strain sweep
+
+=== CLUSTER 1205 (Size: 1) ===
+- Mutual information
+
+=== CLUSTER 1243 (Size: 1) ===
+- strain
+
+=== CLUSTER 1244 (Size: 1) ===
+- Attack Goal
+
+=== CLUSTER 1245 (Size: 1) ===
+- Attack Type
+
+=== CLUSTER 1246 (Size: 1) ===
+- Degree of autonomy
+
+=== CLUSTER 1247 (Size: 1) ===
+- buffer
+
+=== CLUSTER 1248 (Size: 1) ===
+- Number of mentions
+
+=== CLUSTER 1249 (Size: 1) ===
+- supported language
+
+=== CLUSTER 1250 (Size: 1) ===
+- response
+
+=== CLUSTER 1251 (Size: 1) ===
+- number
+
+=== CLUSTER 1252 (Size: 1) ===
+- considered aspect
+
+=== CLUSTER 1230 (Size: 1) ===
+- Company
+
+=== CLUSTER 1229 (Size: 1) ===
+- Relationship
+
+=== CLUSTER 1228 (Size: 1) ===
+- number of records
+
+=== CLUSTER 1227 (Size: 1) ===
+- number of queries
+
+=== CLUSTER 1206 (Size: 1) ===
+- Introduction
+
+=== CLUSTER 1207 (Size: 1) ===
+- Number of development documents
+
+=== CLUSTER 1208 (Size: 1) ===
+- has number of developers
+
+=== CLUSTER 1209 (Size: 1) ===
+- Number of development data mentions
+
+=== CLUSTER 1210 (Size: 1) ===
+- inhibits
+
+=== CLUSTER 1211 (Size: 1) ===
+- disrupts
+
+=== CLUSTER 1212 (Size: 1) ===
+- displays
+
+=== CLUSTER 1213 (Size: 1) ===
+- has content
+
+=== CLUSTER 1214 (Size: 1) ===
+- Has installed capacity
+
+=== CLUSTER 1215 (Size: 1) ===
+- Has electricity generation
+
+=== CLUSTER 1216 (Size: 1) ===
+- Data I/O Rate
+
+=== CLUSTER 1217 (Size: 1) ===
+- data fidelity term
+
+=== CLUSTER 1218 (Size: 1) ===
+- Data frequency
+
+=== CLUSTER 1219 (Size: 1) ===
+- Place
+
+=== CLUSTER 1220 (Size: 1) ===
+- study year
+
+=== CLUSTER 1221 (Size: 1) ===
+- Number of patients studied
+
+=== CLUSTER 1222 (Size: 1) ===
+- automation
+
+=== CLUSTER 1223 (Size: 1) ===
+- status_count
+
+=== CLUSTER 1224 (Size: 1) ===
+- authority
+
+=== CLUSTER 1225 (Size: 1) ===
+- rights
+
+=== CLUSTER 1226 (Size: 1) ===
+- number of results
+
+=== CLUSTER 1153 (Size: 1) ===
+- detector geometry
+
+=== CLUSTER 1152 (Size: 1) ===
+- detector technology
+
+=== CLUSTER 1151 (Size: 1) ===
+- has GenBank accession number
+
+=== CLUSTER 1088 (Size: 1) ===
+- planning
+
+=== CLUSTER 1078 (Size: 1) ===
+- Hamming loss
+
+=== CLUSTER 1079 (Size: 1) ===
+- has Hierarchical loss
+
+=== CLUSTER 1080 (Size: 1) ===
+- Inventory policy
+
+=== CLUSTER 1081 (Size: 1) ===
+- Inventory
+
+=== CLUSTER 1082 (Size: 1) ===
+- hit time
+
+=== CLUSTER 1083 (Size: 1) ===
+- paradigm
+
+=== CLUSTER 1084 (Size: 1) ===
+- number of hidden neurons
+
+=== CLUSTER 1085 (Size: 1) ===
+- engagement_pattern
+
+=== CLUSTER 1086 (Size: 1) ===
+- endogenous predictors
+
+=== CLUSTER 1087 (Size: 1) ===
+- has endogenous variables
+
+=== CLUSTER 1089 (Size: 1) ===
+- historical plan
+
+=== CLUSTER 1150 (Size: 1) ===
+- Inference paradigm
+
+=== CLUSTER 1090 (Size: 1) ===
+- encodes
+
+=== CLUSTER 1091 (Size: 1) ===
+- occupation
+
+=== CLUSTER 1092 (Size: 1) ===
+- employs
+
+=== CLUSTER 1093 (Size: 1) ===
+- field of work
+
+=== CLUSTER 1094 (Size: 1) ===
+- Hits@1
+
+=== CLUSTER 1095 (Size: 1) ===
+- Precision@1
+
+=== CLUSTER 1096 (Size: 1) ===
+- homepage
+
+=== CLUSTER 1097 (Size: 1) ===
+- strength
+
+=== CLUSTER 1098 (Size: 1) ===
+- Human–AI Collaboration role
+
+=== CLUSTER 1099 (Size: 1) ===
+- height
+
+=== CLUSTER 1077 (Size: 1) ===
+- Growth stage
+
+=== CLUSTER 1076 (Size: 1) ===
+- Growth rate
+
+=== CLUSTER 1075 (Size: 1) ===
+- loss function
+
+=== CLUSTER 1074 (Size: 1) ===
+- research type
+
+=== CLUSTER 1053 (Size: 1) ===
+- library preparation
+
+=== CLUSTER 1054 (Size: 1) ===
+- date modified
+
+=== CLUSTER 1055 (Size: 1) ===
+- has architecture
+
+=== CLUSTER 1056 (Size: 1) ===
+- type of building
+
+=== CLUSTER 1057 (Size: 1) ===
+- Light Source
+
+=== CLUSTER 1058 (Size: 1) ===
+- light exposure/measurement
+
+=== CLUSTER 1059 (Size: 1) ===
+- Light condition
+
+=== CLUSTER 1060 (Size: 1) ===
+- Has independent variable
+
+=== CLUSTER 1061 (Size: 1) ===
+- Number of dependent variables
+
+=== CLUSTER 1062 (Size: 1) ===
+- lab
+
+=== CLUSTER 1063 (Size: 1) ===
+- dataset revision
+
+=== CLUSTER 1064 (Size: 1) ===
+- Linguistic unit
+
+=== CLUSTER 1065 (Size: 1) ===
+- number of cycles to failure
+
+=== CLUSTER 1066 (Size: 1) ===
+- time to failure
+
+=== CLUSTER 1067 (Size: 1) ===
+- knowledge_representation
+
+=== CLUSTER 1068 (Size: 1) ===
+- loading type
+
+=== CLUSTER 1069 (Size: 1) ===
+- loading time
+
+=== CLUSTER 1070 (Size: 1) ===
+- Loading effeciency
+
+=== CLUSTER 1071 (Size: 1) ===
+- Database
+
+=== CLUSTER 1072 (Size: 1) ===
+- Dataset URL
+
+=== CLUSTER 1073 (Size: 1) ===
+- lastName
+
+=== CLUSTER 1100 (Size: 1) ===
+- image
+
+=== CLUSTER 1101 (Size: 1) ===
+- electrical parameters
+
+=== CLUSTER 1102 (Size: 1) ===
+- Impact Factor
+
+=== CLUSTER 1127 (Size: 1) ===
+- Triple
+
+=== CLUSTER 1129 (Size: 1) ===
+- paper exclusion criteria
+
+=== CLUSTER 1130 (Size: 1) ===
+- hasMasterDataRepresentation
+
+=== CLUSTER 1131 (Size: 1) ===
+- has fixed effect term I
+
+=== CLUSTER 1132 (Size: 1) ===
+- has random effect term
+
+=== CLUSTER 1133 (Size: 1) ===
+- has_host
+
+=== CLUSTER 1134 (Size: 1) ===
+- exampleOfWork
+
+=== CLUSTER 1135 (Size: 1) ===
+- workTranslation
+
+=== CLUSTER 1136 (Size: 1) ===
+- Sessions
+
+=== CLUSTER 1137 (Size: 1) ===
+- event selection criteria
+
+=== CLUSTER 1138 (Size: 1) ===
+- events
+
+=== CLUSTER 1139 (Size: 1) ===
+- signal detection method
+
+=== CLUSTER 1140 (Size: 1) ===
+- event detection method
+
+=== CLUSTER 1141 (Size: 1) ===
+- Scheme Type
+
+=== CLUSTER 1142 (Size: 1) ===
+- Has scheme
+
+=== CLUSTER 1143 (Size: 1) ===
+- Scheme method
+
+=== CLUSTER 1144 (Size: 1) ===
+- hasMother
+
+=== CLUSTER 1145 (Size: 1) ===
+- hasFather
+
+=== CLUSTER 1146 (Size: 1) ===
+- hasMaternalLineage
+
+=== CLUSTER 1147 (Size: 1) ===
+- Reward Function
+
+=== CLUSTER 1148 (Size: 1) ===
+- fidelity_level
+
+=== CLUSTER 1149 (Size: 1) ===
+- learning paradigm
+
+=== CLUSTER 1128 (Size: 1) ===
+- exclusion_criteria
+
+=== CLUSTER 1126 (Size: 1) ===
+- experiment date
+
+=== CLUSTER 1103 (Size: 1) ===
+- refers to
+
+=== CLUSTER 1125 (Size: 1) ===
+- extraction date
+
+=== CLUSTER 1104 (Size: 1) ===
+- effect
+
+=== CLUSTER 1105 (Size: 1) ===
+- Solution approach
+
+=== CLUSTER 1106 (Size: 1) ===
+- U-value
+
+=== CLUSTER 1107 (Size: 1) ===
+- Has R-value
+
+=== CLUSTER 1108 (Size: 1) ===
+- importance
+
+=== CLUSTER 1109 (Size: 1) ===
+- editing strategy
+
+=== CLUSTER 1110 (Size: 1) ===
+- editing frequency
+
+=== CLUSTER 1111 (Size: 1) ===
+- editing efficiency
+
+=== CLUSTER 1112 (Size: 1) ===
+- Entity type
+
+=== CLUSTER 1113 (Size: 1) ===
+- field
+
+=== CLUSTER 1114 (Size: 1) ===
+- dwell_time
+
+=== CLUSTER 1115 (Size: 1) ===
+- Practicality
+
+=== CLUSTER 1116 (Size: 1) ===
+- exposure duration
+
+=== CLUSTER 1117 (Size: 1) ===
+- Radiant exposure
+
+=== CLUSTER 1118 (Size: 1) ===
+- explanation 
+
+=== CLUSTER 1119 (Size: 1) ===
+- study involve
+
+=== CLUSTER 1120 (Size: 1) ===
+- has Statistic
+
+=== CLUSTER 1121 (Size: 1) ===
+- includes a concept
+
+=== CLUSTER 1122 (Size: 1) ===
+- Number of epochs
+
+=== CLUSTER 1123 (Size: 1) ===
+- experimental facility
+
+=== CLUSTER 1124 (Size: 1) ===
+- processing date
+
+=== CLUSTER 3299 (Size: 1) ===
+- Application Domain
+

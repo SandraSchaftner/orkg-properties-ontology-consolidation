@@ -1,0 +1,1064 @@
+[
+    {
+        "original_uri": "https://orkg.org/property/P5038",
+        "original_id": "P5038",
+        "mapped_to_uri": "https://orkg.org/property/P5027",
+        "relation": "skos:exactMatch",
+        "original_label": "Aggregation",
+        "created_at": "2019-12-17T11:41:45.045+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5089",
+        "original_id": "P5089",
+        "mapped_to_uri": "https://orkg.org/property/P2001",
+        "relation": "skos:exactMatch",
+        "original_label": "algorithm",
+        "created_at": "2019-12-17T12:37:34.578+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5042",
+        "original_id": "P5042",
+        "mapped_to_uri": "https://orkg.org/property/P5031",
+        "relation": "skos:exactMatch",
+        "original_label": "Application type",
+        "created_at": "2019-12-17T11:41:45.1+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P4040",
+        "original_id": "P4040",
+        "mapped_to_uri": "https://orkg.org/property/P4035",
+        "relation": "skos:exactMatch",
+        "original_label": "between",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P4043",
+        "original_id": "P4043",
+        "mapped_to_uri": "https://orkg.org/property/P4038",
+        "relation": "skos:exactMatch",
+        "original_label": "could be applicated to",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P4017",
+        "original_id": "P4017",
+        "mapped_to_uri": "https://orkg.org/property/DATA",
+        "relation": "skos:exactMatch",
+        "original_label": "Data",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": "instance of a class fabio:Dataset. https://sparontologies.github.io/fabio/current/fabio.html#d4e2865"
+    },
+    {
+        "original_uri": "https://orkg.org/property/P14",
+        "original_id": "P14",
+        "mapped_to_uri": "https://orkg.org/property/description",
+        "relation": "skos:exactMatch",
+        "original_label": "description",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": "Describes the contribution in a summarized way. It is a combination of the 'abstract' and the key points (key takeaways) of the contribution."
+    },
+    {
+        "original_uri": "https://orkg.org/property/P7037",
+        "original_id": "P7037",
+        "mapped_to_uri": "https://orkg.org/property/description",
+        "relation": "skos:exactMatch",
+        "original_label": "Description",
+        "created_at": "2020-01-17T12:34:56.828+01:00",
+        "description": "A textual comment helps clarify the meaning of RDF classes and properties. Such in-line documentation complements the use of both formal techniques (Ontology and rule languages) and informal (prose documentation, examples, test cases). A variety of documentation forms can be combined to indicate the intended meaning of the classes and properties described in an RDF vocabulary. Since RDF vocabularies are expressed as RDF graphs, vocabularies defined in other namespaces may be used to provide richer documentation."
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5040",
+        "original_id": "P5040",
+        "mapped_to_uri": "https://orkg.org/property/P5029",
+        "relation": "skos:exactMatch",
+        "original_label": "Disk",
+        "created_at": "2019-12-17T11:41:45.069+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5041",
+        "original_id": "P5041",
+        "mapped_to_uri": "https://orkg.org/property/P5030",
+        "relation": "skos:exactMatch",
+        "original_label": "Domain",
+        "created_at": "2019-12-17T11:41:45.088+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5091",
+        "original_id": "P5091",
+        "mapped_to_uri": "https://orkg.org/property/P34",
+        "relation": "skos:exactMatch",
+        "original_label": "evaluation",
+        "created_at": "2019-12-17T12:37:34.584+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5085",
+        "original_id": "P5085",
+        "mapped_to_uri": "https://orkg.org/property/P17",
+        "relation": "skos:exactMatch",
+        "original_label": "has part",
+        "created_at": "2019-12-17T12:37:34.567+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5039",
+        "original_id": "P5039",
+        "mapped_to_uri": "https://orkg.org/property/P5028",
+        "relation": "skos:exactMatch",
+        "original_label": "Incremental",
+        "created_at": "2019-12-17T11:41:45.058+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P4039",
+        "original_id": "P4039",
+        "mapped_to_uri": "https://orkg.org/property/P4034",
+        "relation": "skos:exactMatch",
+        "original_label": "is",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5094",
+        "original_id": "P5094",
+        "mapped_to_uri": "https://orkg.org/property/P4001",
+        "relation": "skos:exactMatch",
+        "original_label": "label",
+        "created_at": "2019-12-17T12:37:34.593+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P4042",
+        "original_id": "P4042",
+        "mapped_to_uri": "https://orkg.org/property/P4037",
+        "relation": "skos:exactMatch",
+        "original_label": "listing",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P7033",
+        "original_id": "P7033",
+        "mapped_to_uri": "https://orkg.org/property/P4016",
+        "relation": "skos:exactMatch",
+        "original_label": "Material",
+        "created_at": "2019-12-29T13:30:49.067+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5072",
+        "original_id": "P5072",
+        "mapped_to_uri": "https://orkg.org/property/P3004",
+        "relation": "skos:exactMatch",
+        "original_label": "precision",
+        "created_at": "2019-12-17T12:37:34.53+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P4018",
+        "original_id": "P4018",
+        "mapped_to_uri": "https://orkg.org/property/PROCESS",
+        "relation": "skos:exactMatch",
+        "original_label": "Process",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5015",
+        "original_id": "P5015",
+        "mapped_to_uri": "https://orkg.org/property/P5073",
+        "relation": "skos:exactMatch",
+        "original_label": "Recall",
+        "created_at": "2019-12-17T11:39:36.27+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P6002",
+        "original_id": "P6002",
+        "mapped_to_uri": "https://orkg.org/property/P6001",
+        "relation": "skos:exactMatch",
+        "original_label": "Results",
+        "created_at": "2019-12-17T15:56:36.954+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5037",
+        "original_id": "P5037",
+        "mapped_to_uri": "https://orkg.org/property/P5026",
+        "relation": "skos:exactMatch",
+        "original_label": "Sampling",
+        "created_at": "2019-12-17T11:41:45.035+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P4012",
+        "original_id": "P4012",
+        "mapped_to_uri": "https://orkg.org/property/type",
+        "relation": "skos:exactMatch",
+        "original_label": "type",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": "Spectroscopy properties"
+    },
+    {
+        "original_uri": "https://orkg.org/property/P1003",
+        "original_id": "P1003",
+        "mapped_to_uri": "https://orkg.org/property/url",
+        "relation": "skos:exactMatch",
+        "original_label": "url",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": "URL of the item."
+    },
+    {
+        "original_uri": "https://orkg.org/property/P4041",
+        "original_id": "P4041",
+        "mapped_to_uri": "https://orkg.org/property/P4036",
+        "relation": "skos:exactMatch",
+        "original_label": "using",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P7043",
+        "original_id": "P7043",
+        "mapped_to_uri": "https://orkg.org/property/P5064",
+        "relation": "skos:exactMatch",
+        "original_label": "Website",
+        "created_at": "2020-01-17T12:34:56.899+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5063",
+        "original_id": "P5063",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "A sensor network",
+        "created_at": "2019-12-17T12:37:34.5+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5057",
+        "original_id": "P5057",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "Accelerometer vibration sensor (sd1)",
+        "created_at": "2019-12-17T12:37:34.481+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5058",
+        "original_id": "P5058",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "Accelerometer vibration sensor (sd2)",
+        "created_at": "2019-12-17T12:37:34.484+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5059",
+        "original_id": "P5059",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "Accelerometer vibration sensor (sd3)",
+        "created_at": "2019-12-17T12:37:34.487+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5074",
+        "original_id": "P5074",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "actual",
+        "created_at": "2019-12-17T12:37:34.535+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5079",
+        "original_id": "P5079",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "Apache Cassandra",
+        "created_at": "2019-12-17T12:37:34.549+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5077",
+        "original_id": "P5077",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "Apache Jena",
+        "created_at": "2019-12-17T12:37:34.543+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5080",
+        "original_id": "P5080",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "Apache Storm",
+        "created_at": "2019-12-17T12:37:34.552+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P4069",
+        "original_id": "P4069",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "attaining",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P4033",
+        "original_id": "P4033",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "available",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5062",
+        "original_id": "P5062",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "AXIS 211W Datasheet",
+        "created_at": "2019-12-17T12:37:34.497+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5060",
+        "original_id": "P5060",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "AXIS 211W Wireless Network Camera",
+        "created_at": "2019-12-17T12:37:34.49+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5061",
+        "original_id": "P5061",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "AXIS Communications",
+        "created_at": "2019-12-17T12:37:34.493+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P4035",
+        "original_id": "P4035",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "between",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P4032",
+        "original_id": "P4032",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "between advertisements and Information National Training Organisation and Library and Information Management Employability Skills",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P7008",
+        "original_id": "P7008",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "by using",
+        "created_at": "2019-12-19T11:51:22.285+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P4038",
+        "original_id": "P4038",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "could be applicated to",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P4063",
+        "original_id": "P4063",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "detecting",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5029",
+        "original_id": "P5029",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "Disk",
+        "created_at": "2019-12-17T11:40:16.072+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P4066",
+        "original_id": "P4066",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "employing",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P4073",
+        "original_id": "P4073",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "fastText",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P4048",
+        "original_id": "P4048",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "from",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P4025",
+        "original_id": "P4025",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "from Chartered Institute of Library and Information Professional\u2019s Library and Information Gazette",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P4031",
+        "original_id": "P4031",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "general computing skills",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P16",
+        "original_id": "P16",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "has",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P7007",
+        "original_id": "P7007",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "in presence of",
+        "created_at": "2019-12-18T16:11:18.429+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P4011",
+        "original_id": "P4011",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "in Scheme",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5028",
+        "original_id": "P5028",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "Incremental",
+        "created_at": "2019-12-17T11:40:16.061+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P4078",
+        "original_id": "P4078",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "Information science",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P4034",
+        "original_id": "P4034",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "is",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P3",
+        "original_id": "P3",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "is a",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P4071",
+        "original_id": "P4071",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "Jobs for lower level staticians are restricted to",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P4067",
+        "original_id": "P4067",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "leveraging",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5018",
+        "original_id": "P5018",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "On",
+        "created_at": "2019-12-17T11:39:36.336+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P4026",
+        "original_id": "P4026",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "over the period May 2006-2007",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5093",
+        "original_id": "P5093",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "pavement",
+        "created_at": "2019-12-17T12:37:34.59+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5021",
+        "original_id": "P5021",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "Phrase mapping task",
+        "created_at": "2019-12-17T11:39:36.403+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P4057",
+        "original_id": "P4057",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "Planung",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5075",
+        "original_id": "P5075",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "predicted",
+        "created_at": "2019-12-17T12:37:34.538+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P3007",
+        "original_id": "P3007",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "propose",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P4064",
+        "original_id": "P4064",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "providing",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5023",
+        "original_id": "P5023",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "Query construction task",
+        "created_at": "2019-12-17T11:39:36.445+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5020",
+        "original_id": "P5020",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "Question analysis task",
+        "created_at": "2019-12-17T11:39:36.38+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P4000",
+        "original_id": "P4000",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "R4001",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P4002",
+        "original_id": "P4002",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "R4009",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5099",
+        "original_id": "P5099",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "R6900",
+        "created_at": "2019-12-17T12:44:55.155+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5100",
+        "original_id": "P5100",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "R6904",
+        "created_at": "2019-12-17T12:44:56.312+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5101",
+        "original_id": "P5101",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "R6906",
+        "created_at": "2019-12-17T12:44:57.414+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5102",
+        "original_id": "P5102",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "R6908",
+        "created_at": "2019-12-17T12:44:58.537+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5104",
+        "original_id": "P5104",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "R6915",
+        "created_at": "2019-12-17T12:45:00.867+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5105",
+        "original_id": "P5105",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "R6918",
+        "created_at": "2019-12-17T12:45:01.84+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5106",
+        "original_id": "P5106",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "R6926",
+        "created_at": "2019-12-17T12:45:14.048+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5107",
+        "original_id": "P5107",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "R6928",
+        "created_at": "2019-12-17T12:45:14.337+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5108",
+        "original_id": "P5108",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "R6933",
+        "created_at": "2019-12-17T12:45:15.413+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5109",
+        "original_id": "P5109",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "R6935",
+        "created_at": "2019-12-17T12:45:15.727+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5110",
+        "original_id": "P5110",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "R6938",
+        "created_at": "2019-12-17T12:45:16.189+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5111",
+        "original_id": "P5111",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "R6939",
+        "created_at": "2019-12-17T12:45:16.581+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P7017",
+        "original_id": "P7017",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "R8136",
+        "created_at": "2019-12-19T15:06:38.104+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P7018",
+        "original_id": "P7018",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "R8138",
+        "created_at": "2019-12-19T15:06:38.384+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P7019",
+        "original_id": "P7019",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "R8141",
+        "created_at": "2019-12-19T15:06:40.037+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P7020",
+        "original_id": "P7020",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "R8145",
+        "created_at": "2019-12-19T15:06:42.255+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P7021",
+        "original_id": "P7021",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "R8148",
+        "created_at": "2019-12-19T15:06:42.669+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P7022",
+        "original_id": "P7022",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "R8150",
+        "created_at": "2019-12-19T15:06:42.92+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P7023",
+        "original_id": "P7023",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "R8156",
+        "created_at": "2019-12-19T15:06:43.827+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P7024",
+        "original_id": "P7024",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "R8160",
+        "created_at": "2019-12-19T15:06:45.07+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P7025",
+        "original_id": "P7025",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "R8167",
+        "created_at": "2019-12-19T15:06:57.548+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P7026",
+        "original_id": "P7026",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "R8168",
+        "created_at": "2019-12-19T15:06:57.75+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P7027",
+        "original_id": "P7027",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "R8169",
+        "created_at": "2019-12-19T15:06:57.927+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P7028",
+        "original_id": "P7028",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "R8171",
+        "created_at": "2019-12-19T15:06:58.174+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P7029",
+        "original_id": "P7029",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "R8176",
+        "created_at": "2019-12-19T15:06:58.78+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P7030",
+        "original_id": "P7030",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "R8179",
+        "created_at": "2019-12-19T15:06:59.187+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P7032",
+        "original_id": "P7032",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "R8180",
+        "created_at": "2019-12-19T15:07:01.448+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P7031",
+        "original_id": "P7031",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "R8183",
+        "created_at": "2019-12-19T15:07:00.548+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P4068",
+        "original_id": "P4068",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "recognizing and normalizing",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P4070",
+        "original_id": "P4070",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "required skills for high-level staticians are",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P2000",
+        "original_id": "P2000",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "robotised the workflow",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P4046",
+        "original_id": "P4046",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "SADASdAD",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P4045",
+        "original_id": "P4045",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "SASD",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P4072",
+        "original_id": "P4072",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "sdfdasfsdfsf",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5050",
+        "original_id": "P5050",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "see also",
+        "created_at": "2019-12-17T12:37:34.459+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P4062",
+        "original_id": "P4062",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "showing",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P2002",
+        "original_id": "P2002",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "Stable",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P7005",
+        "original_id": "P7005",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "targeting",
+        "created_at": "2019-12-18T15:17:54.576+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5010",
+        "original_id": "P5010",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "Test questions",
+        "created_at": "2019-12-17T11:39:36.144+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5011",
+        "original_id": "P5011",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "Train questions",
+        "created_at": "2019-12-17T11:39:36.167+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5034",
+        "original_id": "P5034",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "User recommendation",
+        "created_at": "2019-12-17T11:41:45.002+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P4036",
+        "original_id": "P4036",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "using",
+        "created_at": "2019-01-06T15:04:07.692Z",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5054",
+        "original_id": "P5054",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "vibration",
+        "created_at": "2019-12-17T12:37:34.472+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5066",
+        "original_id": "P5066",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "Waikato Environment for Knowledge Analysis",
+        "created_at": "2019-12-17T12:37:34.514+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5055",
+        "original_id": "P5055",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "WBS CM301 Datasheet",
+        "created_at": "2019-12-17T12:37:34.475+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P5052",
+        "original_id": "P5052",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "Webrosensor Oy",
+        "created_at": "2019-12-17T12:37:34.465+01:00",
+        "description": ""
+    },
+    {
+        "original_uri": "https://orkg.org/property/P7001",
+        "original_id": "P7001",
+        "mapped_to_uri": "https://orkg.org/property/P41267",
+        "relation": "skos:exactMatch",
+        "original_label": "wha",
+        "created_at": "2019-12-18T10:51:04.215+01:00",
+        "description": ""
+    }
+]

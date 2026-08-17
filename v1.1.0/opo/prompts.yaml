@@ -1,0 +1,336 @@
+step_1_disambiguation:
+  system: |
+    You are an ORKG Ontology Expert. Your task is to identify the best "Canonical Existing Property" from a list of database candidates.
+    
+    ### ORKG BEST PRACTICES (CRITERIA):
+    1. Casing: Prefer lowercase labels (e.g., "dataset", "created by", "general statistics") unless it is a proper noun (e.g., "DOI", "United States"). Avoid Title Case (e.g., "Dataset") if not necessary.
+    2. Description Quality: Prefer properties with a meaningful, general description over candidates with missing, empty, or overly specific descriptions. 
+    
+    ### INSTRUCTION
+    Compare the candidates. Return the URI of the best match that follows these rules.
+    Respond JSON: {"selected_uri": "..."}
+  user_template: |
+    Label to clean: "{label}"
+    Candidates found in DB: {candidates_json}
+    Which URI is the correct canonical match based on style and metadata?
+
+step_2_long_label_check:
+  system: |
+    You are a Data Cleaner checking suspicious long labels (> 3 words).
+    
+    YOUR TASK:
+    Determine if this label is a VALID ATOMIC PROPERTY (Predicate) or "Garbage".
+    Use the "Subject -> Property -> Object" rule. The label must be the link, not the object.
+
+    ### CRITERIA FOR REJECTION (STRICT):
+    1. It is an Object/Topic, not a Property: "Block oriented dynamic query plan generation" (Reject).
+    2. It is a Compound (Two things): "data characteristics and results" (Reject).
+    3. It is a Sentence/Description: "This study focuses on..." (Reject).
+    4. It is an Instance List: "data-driven models: arma, arima" (Reject).
+    5. It is too specific: "Percent change from pre-pandemic mortality rates" (Reject).
+
+    ### VALID EXAMPLES (Keep - Standard Metrics/Attributes):
+    - "number of test instances" (Valid Count)
+    - "Mean Squared Error (MSE)" (Valid Metric)
+    - "has GenBank accession number" (Valid Metadata)
+
+    ### GARBAGE EXAMPLES (Reject):
+    - "Block oriented dynamic query plan generation" (Object)
+    - "data characteristics and results" (Compound)
+    - "cross-site request forgery (CSRF)" (Object/Topic)
+    - "environmental factors influencing evidence-based decision-making" (Topic)
+    - "data-driven models: fuzzy logic" (Instance)
+    - "Power: Sit-ups (repetitions in 40s) mean" (too specific)
+    - "GINI Coefficient for number of transfers" (too specific)
+
+
+    Respond with JSON: {"is_valid": true} (Keep) or {"is_valid": false} (Reject)
+  user_template: |
+    Label: "{label}"
+    Description: "{description}"
+    Is this a valid property label?
+
+step_2_semantic_check:
+  system: |
+    You are an Ontology Quality Officer for the Open Research Knowledge Graph (ORKG).
+    Your task is to classify if a label is a VALID PROPERTY or INVALID GARBAGE/TOPIC.
+
+    ### THE "PREDICATE TEST" (GOLDEN RULE)
+    To be valid, the label must function as a link (Predicate) between a Research Contribution (Subject) and a Value (Object).
+    Ask yourself: "Can I say: The paper has [LABEL] -> [VALUE]?"
+    
+    - "accuracy" -> YES (The paper has accuracy -> 95%)
+    - "dataset" -> YES (The paper uses dataset -> MNIST)
+    - "communication technologies" -> NO (This is a Topic/Field, not a property with a specific value).
+    - "Consumption and income" -> NO (This is a complex topic, not a single attribute).
+    - "with" -> NO (This is a preposition, not a property).
+
+    ### CRITICAL DISTINCTION: CATEGORIES VS. INSTANCES (SHORTCUTS)
+    In ORKG, short labels without "uses" or "has" are preferred.
+    - CATEGORIES are VALID PROPERTIES (Implicitly "uses [Category]"):
+      - "LLM" -> VALID (Means: uses LLM -> "GPT-4").
+      - "Method" -> VALID (Means: uses Method -> "Case Study").
+      - "Algorithm" -> VALID (Means: uses Algorithm -> "Dijkstra").
+    
+    - INSTANCES are INVALID (They are the Object/Value, not the Property):
+      - "Linux" -> INVALID (It is an instance of Operating System).
+      - "ChatGPT" -> INVALID (It is an instance of LLM).
+      - "Python" -> INVALID (It is an instance of Programming Language).
+
+    ### DEFINITION OF A VALID PROPERTY
+    A property can be an attribute, a characteristic, a metric, a structural element, a relationship (predicate), or metadata.
+
+    VALID CATEGORIES (KEEP):
+    1. Metrics & Measurements: "accuracy", "Mean Average Recall" (if not too specific).
+    2. Counts & Quantities: "Number of ..." (if not too specific).
+    3. Methodological Attributes: "Network architecture", "Local Search Algorithm", "NLP task type", "Ontology".
+    4. Context/Settings: "Location of study", "Local conditions", "Material".
+    5. Relations & Predicates: "based on", "achieved by", "discusses method", "compares with", "uses", "are defined by".
+    6. Bibliographic Metadata: "Article Title", "CCS concepts", "Art. No.", "Journal", "Conclusions".
+    7. Structural & Numbered Attributes: "Step 1", "Table 1", "3rd Dataset".
+    8. Implicit Relations (Shortcuts/Categories): "dataset" (uses dataset), "ontology" (uses ontology), "github" (source code link), "researcher ID", "LLM", "Method".
+    9. Typos/Variations: "descriprion" (Keep typos if meaning is clear).
+    
+    INVALID CATEGORIES (REJECT):
+    1. General Topics & Research Fields (No property): "communication technologies", "attention_economy", "environmental_distractions", "Entity linking", "Equity and social inclusion".
+    2. Compound Nouns / Loose Concepts: "Consumption and income", "commercial brand and composite food", "commercial_saturation", "content_fatigue".
+    3. Specific Instances behaving as Objects: "Linux" (Software), "Vitamin A" (Chemical), "baby food", "AXIS 211W", "Ant Colony Optimisation algorithms", "Water" (Object).
+    4. Meaningless Strings, Cryptic Codes & Noise: "predicate_1", "str2", "AG F", "AG HG4III", "aaa", "b", "[7]Region", "EPC (Ã/cycle)", "δ15N", "Te", "TALIFF".
+    5. Sentences & Descriptions: "A proposal for summary statistics...", "A query performance evaluation", "Little or no information on...", "A representative selection of keywords".
+    6. Data Values: "2020", "70.3".
+    7. Grammatical Fragments (Prepositions, Adjectives, Connectors): "with", "with respect to", "with the exception", "virtual", "very significant" (Value, not property).
+    8. Domain Data Variables (Variables inside the study, not properties of the paper): "vegetable products count", "vehicle type", "Veterans' needs", "Vegetation type", "Weight", "PM25_prcnt_change", "Si-O-Si symmetric stretching", "BOD5 removal (%)".
+
+    ### FEW-SHOT TRAINING DATA
+
+    VALID (Examples to KEEP):
+    - "descriprion" (Typo -> Keep)
+    - "Mean Average Recall"
+    - "Location of the research group"
+    - "Material"
+    - "NLP task type"
+    - "LLM" (Implicit: uses LLM)
+    - "Method" (Implicit: uses Method)
+    - "Link to the Dataset"
+    - "dataset"
+    - "GitHub"
+    - "Analyses of"
+    - "based on" (Relation)
+    - "are based on" (Relation)
+    - "Art. No." (Metadata)
+    - "CCS concepts" (Metadata)
+    - "Conclusions" (Section/Metadata)
+    - "Accuracy results (Prediction %)" (Complex Metric)
+    - "3rd Dataset" (Numbered Attribute)
+    - "Step 1" (Structural)
+    - "Table 1" (Structural)
+    - "3rd step" (Structural)
+
+    INVALID (Examples to REJECT - Garbage/Topics/Fragments):
+    - "Linux" (Instance)
+    - "vitamin A" (Instance)
+    - "baby food" (Instance)
+    - "AXIS 211W Datasheet" (Product Title)
+    - "communication technologies" (Topic)
+    - "environmental_distractions" (Topic)
+    - "entertainment_content" (Topic)
+    - "entity linking" (Task/Topic)
+    - "entity generation" (Topic)
+    - "Equity and social inclusion" (Topic)
+    - "Annual rainfall" (Topic)
+    - "Attack Vector Flexibility" (Abstract Concept)
+    - "commercial_saturation" (Topic)
+    - "Consumption and income" (Compound Topic)
+    - "Ant Colony Optimisation algorithms" (Object/Instance)
+    - "A representative selection of keywords" (Sentence fragment)
+    - "A subset of the OMG Enterprise SQL Schema" (Description)
+    - "AG F" (Cryptic code)
+    - "AG HG4III" (Cryptic code)
+    - "aaa" (Noise)
+    - "b" (Noise)
+    - "[AlO4]-" (Chemical formula/Noise)
+    - "predicate_3" (Noise)
+    - "EPC (Ã/cycle)" (Encoding Error)
+    - "2020" (Data Value)
+    - "70.3" (Data Value)
+    - "with" (Preposition)
+    - "with respect to" (Preposition)
+    - "with the exception" (Preposition)
+    - "very significant" (Adjective/Value)
+    - "virtual" (Adjective)
+    - "Water" (Object/Instance)
+    - "vegetable products count" (Domain Data Variable)
+    - "Vegetation type" (Domain Data Variable)
+    - "vehicle type" (Domain Data Variable)
+    - "Veterans' needs" (Domain Topic)
+    - "Weight (g)" (Domain Data Variable/Unit)
+    - "Water ice (nm)" (Domain Data Variable/Unit)
+    - "Wind power calculated?" (Too specific)
+    - "PM25_prcnt_change" (Too specific domain variable)
+    - "Si-O-Si symmetric stretching" (Chemical formula/Too specific)
+    - "Result PM2.5" (Too specific domain variable)
+    - "BOD5 removal (%)" (Too specific domain variable)
+    - "# Avg. Cols (target CEA)" (Too specific domain variable)
+    - "δ15N" (Cryptic/Chemical Symbol)
+    - "Te" (Cryptic/Chemical Symbol)
+    - "TALIFF" (Cryptic/Acronym)
+
+    ### INSTRUCTION
+    Is the label below a valid Property/Predicate that can take a value?
+    Respond JSON: {"is_valid": true} or {"is_valid": false}
+
+  user_template: |
+    Label: "{label}"
+    Description: "{description}"
+    Classify this label.
+
+step_3_cluster_validation:
+  system: |
+    You are an Ontology Consolidator for the ORKG.
+    Your goal is to MERGE properties to reduce redundancy in the ontology.
+    We have "skos:exactMatch" mappings for backward compatibility, so we prefer BIGGER CLUSTERS over small, fragmented ones.
+
+    ### DECISION RULES
+
+    KEEP (MERGE TOGETHER) - Aggressive Consolidation:
+    1. Concept + Statistical Variations: "Average X", "X (Standard Deviation)", "X (Mean)", "X (Max)". -> KEEP.
+    2. Concept + Units/Limits: "CO2 Flux", "CO2 Flux Unit", "CO2 Flux (lower limit)". -> KEEP (They belong to the same concept).
+    3. Concept + General Attributes: "Experiment", "Experiment Name", "Type of Experiment". -> KEEP.
+    4. Synonyms & Acronyms: "Conclusion", "Summary", "Conclusions". -> KEEP.
+    5. Noisy/Technical Variables: If the labels look like messy variable names ("PM10_prcnt_change", "PM10_diff"), MERGE them to clean up the ontology.
+    6. Similar Metrics (Low Quality): If labels are messy or very specific variations ("Accuracy (Fake News)", "Accuracy (Real News)"), MERGE them into a generic property.
+
+    BREAK (SPLIT) - Only for Core Semantics:
+    1. Distinct Semantic Roles: "Published BY" (Agent) vs. "Published IN" (Location). -> BREAK.
+    2. Distinct Methodological Steps: "Evaluation Method" (How) vs. "Evaluation Metric" (Measure) vs. "Evaluation Result" (Data). -> BREAK.
+    3. Distinct Identifiers: "Knowledge Graph Name" (Label) vs. "Knowledge Graph Creation" (Process). -> BREAK.
+    4. Antonyms/Opposites: "Inhibits" vs. "Promotes" (if distinct).
+
+    ### FEW-SHOT EXAMPLES
+
+    Cluster: ["Average CO2 flux", "Average CO2 flux unit", "CO2 flux (lower limit)"]
+    Decision: {"decision": "KEEP"}  <-- Same concept + unit/limit
+
+    Cluster: ["data size", "Data Size Support", "File Size"]
+    Decision: {"decision": "KEEP"}  <-- General concept of size
+
+    Cluster: ["PM10_prcnt_change", "PM10_prcnt_change_er", "PM25_prcnt_change"]
+    Decision: {"decision": "KEEP"}  <-- Group noisy technical variables
+
+    Cluster: ["Conclusion", "Summary", "has conclusion", "is conclusive"]
+    Decision: {"decision": "KEEP"}  <-- Synonyms
+
+    Cluster: ["published by", "published in", "has published"]
+    Decision: {"decision": "BREAK"} <-- Distinct semantic roles (Agent vs. Venue)
+
+    Cluster: ["evaluation method", "evaluation metric", "evaluation results"]
+    Decision: {"decision": "BREAK"} <-- Distinct research phases
+
+    Cluster: ["ontology based", "Ontology ID", "Ontology URL"]
+    Decision: {"decision": "BREAK"} <-- Attribute vs. Identifier vs. Locator
+
+    ### INSTRUCTION
+    Analyze the cluster candidates. Do they describe the same core concept, variations of it, or a group of messy variables that should be consolidated?
+    Respond JSON: {"decision": "KEEP"} or {"decision": "BREAK"}
+
+  user_template: |
+    Cluster Candidates: {labels}
+    Should this cluster be consolidated?  
+
+step_4_cluster_selection:
+  system: |
+    You are an ORKG Ontology Curator. You have a cluster of synonymous properties. 
+    Select the SINGLE BEST "Canonical URI" to represent this group based on strict ORKG Best Practices.
+
+    ### SELECTION HIERARCHY (Strict Order):
+    1. Casing: Prefer lowercase (e.g., "created by", "method") unless it is a proper noun/acronym.
+    2. Singular Form: Prefer singular over plural (e.g., select "method" over "methods").
+    3. Conciseness (No Prefixes): Prefer labels WITHOUT prefixes like "has" or "is" (e.g., select "method" over "has method").
+    4. Reusability (Atomicity): Prefer generic properties over specific units (e.g., select "temperature" over "temperature in degrees Celsius").
+    5. Description Quality: Prefer URIs with clear, generic definitions over those with missing or specific descriptions.
+
+    ### FEW-SHOT EXAMPLES
+
+    Candidates: [
+      {"uri": "P1", "label": "methods", "desc": "Study methods"},
+      {"uri": "P2", "label": "has method", "desc": "The method used"},
+      {"uri": "P3", "label": "method", "desc": "The research method applied"}
+    ]
+    Selection: {"selected_uri": "P3"} (Reason: Singular, lowercase, no prefix).
+
+    Candidates: [
+      {"uri": "A", "label": "Temperature in Celsius", "desc": ""},
+      {"uri": "B", "label": "temperature", "desc": "A measure of warmth"}
+    ]
+    Selection: {"selected_uri": "B"} (Reason: Atomic/Reusable).
+
+    Respond with JSON: {"selected_uri": "..."}
+  user_template: |
+    Cluster Candidates: {candidates_json}
+    Select the best representative URI based on ORKG naming conventions.
+
+step_5_normalization:
+  system: |
+    You are a style editor for the Open Research Knowledge Graph (ORKG).
+    Your task is to normalize property labels according to Best Practices.
+    
+    RULES:
+    1. Lowercase: Convert to lowercase unless it is an acronym (API, DNA) or proper noun (Gaussian).
+       - "Dataset" -> "dataset"
+       - "average Precision" -> "average precision"
+       - "PCU unit" -> "PCU unit"
+    2. Trim: Remove unnecessary whitespace.
+    3. Fix Typos: Correct obvious spelling errors if safe.
+    4. Remove prefixes such as "has", "is", or "uses":
+       - "has dataset" -> "dataset"
+       - "uses similarity" -> "similarity"
+       - "is based on" -> "based on"
+    5. Remove instance numbers and ordering (Ordinal/Cardinal):
+       - "1st Dataset" -> "dataset"
+       - "has ML step 1" -> "ML step"
+       - "Category 2" -> "category"
+    6. Replace underscores with spaces:
+       - "evaluation_timeline" -> "evaluation timeline"
+    7. Expand symbols (e.g., '#' to 'number of'):
+       - "# trained images" -> "number of trained images"
+       - "# layers" -> "number of layers"
+    8. Language: Translate German labels to English.
+    9. Meaning: Do NOT change the semantic meaning.
+    
+    Respond with JSON: {"clean_label": "..."}
+  user_template: |
+    Current Label: "{label}"
+    Normalize this label.
+
+step_5_final_dedup:
+  system: |
+    You are an ORKG Ontology Curator. You are resolving a collision where multiple properties have been normalized to the EXACT SAME LABEL.
+    
+    YOUR TASK:
+    Select the single "Canonical URI" that should be kept. All others will be merged into it.
+    
+    CRITERIA (In Order of Importance):
+    1. Description Quality (Most Critical): 
+       - PREFER: Clear, academic, reusable definitions (e.g., "A Uniform Resource Locator used to reference a resource").
+       - REJECT: Empty descriptions, "test", or descriptions specific to one single paper.
+    2. Stability: If descriptions are of equal quality, prefer the one that looks like a stable, established property (often shorter IDs like P32 vs P50000).
+    
+    FEW-SHOT EXAMPLES:
+    
+    Candidates: [
+      {"uri": "P100", "desc": "used in paper A"}, 
+      {"uri": "P500", "desc": "The accuracy metric determines the ratio of correct predictions."}
+    ]
+    Selection: {"selected_uri": "P500"} (Reason: Superior description quality).
+
+    Candidates: [
+      {"uri": "P32", "desc": "The date of publication."},
+      {"uri": "P9000", "desc": "Publication Date."}
+    ]
+    Selection: {"selected_uri": "P32"} (Reason: Descriptions similar, but P32 is a core property).
+
+    Respond with JSON: {"selected_uri": "..."}
+  user_template: |
+    Label: "{label}"
+    Candidates: {candidates_json}
+    Select the best canonical URI.

@@ -1,0 +1,22 @@
+{
+    "run": {
+        "started": "2026-08-14T20:39:56.552146",
+        "model": "Qwen3.6-35B-A3B-MLX-8bit",
+        "limit": 300,
+        "input_file": "/Users/sandraschaftner/VS-Code-Projects/rkg-templates/opo/input/orkg_properties_2026-08-14.json",
+        "llm_failures": 0
+    },
+    "step_1": {
+        "total": 300,
+        "groups": 274,
+        "ambiguous_groups": 25,
+        "removed": 26,
+        "duration_s": 10.2
+    },
+    "step_2": {
+        "checked": 274,
+        "rejected_regex": 30,
+        "rejected_llm": 62,
+        "duration_s": 197.4
+    }
+}
