@@ -21,3 +21,10 @@ rdflib==7.6.0
 pyyaml==6.0.3
 tqdm==4.70.0
 matplotlib==3.11.1
+
+# Generates the HTML documentation under docs/ from the Turtle artifact.
+# Pinned to 3.0.4, the version the published documentation was built with.
+# Do not upgrade casually: 3.6.0 needs more than 80 minutes on this ontology and
+# spends essentially all of it inside a Python-level __add__, where 3.0.4 finishes
+# the identical input in 12 seconds with byte-comparable output.
+pylode==3.0.4
